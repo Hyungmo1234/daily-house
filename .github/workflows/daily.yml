@@ -33,7 +33,7 @@ jobs:
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-6.1-sol' }}
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
-          NEWS_KEYWORDS: ${{ vars.NEWS_KEYWORDS }}
+          NEWS_KEYWORDS: ${{ vars.NEWS_KEYWORDS || '부동산,아파트 매매,전세,청약,주택담보대출,분양,재건축' }}
         run: python run.py
 
       - name: Commit today's data

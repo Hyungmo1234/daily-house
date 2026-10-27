@@ -46,7 +46,8 @@ class Settings:
 
 def load_settings() -> Settings:
     load_dotenv(ROOT / ".env", override=False)
-    keywords = [k.strip() for k in _env("NEWS_KEYWORDS", DEFAULT_KEYWORDS).split(",") if k.strip()]
+    raw_kw = _env("NEWS_KEYWORDS") or DEFAULT_KEYWORDS
+    keywords = [k.strip() for k in raw_kw.split(",") if k.strip()]
     return Settings(
         openai_api_key=_env("OPENAI_API_KEY"),
         openai_model=_env("OPENAI_MODEL", "gpt-6.1-sol"),

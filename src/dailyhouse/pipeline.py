@@ -27,6 +27,8 @@ def run(settings: Settings, use_llm: bool = True, limit: int | None = None, buil
 
     raw = collect(settings, now)
     log.info("collected %d raw articles", len(raw))
+    if not raw:
+        raise SystemExit("수집된 기사가 없습니다. 키워드/API 키를 확인하세요. 기존 data 파일은 덮어쓰지 않습니다.")
     arts = dedupe(raw)
     log.info("after dedupe: %d", len(arts))
     arts = filter_relevant(arts)
