@@ -8,6 +8,7 @@ from datetime import datetime
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
+from .card import ensure_card
 from .classify import CATEGORIES
 from .config import KST, Settings
 
@@ -95,4 +96,8 @@ def build_site(settings: Settings) -> None:
 
     # 최신 데이터 JSON도 함께 공개 (추후 앱/메일 연동용)
     shutil.copyfile(settings.data_dir / f"{days[0]['date']}.json", site / "latest.json")
+    try:
+        ensure_card(settings, days[0])
+    except Exception as e:
+        log.warning("instagram card failed: %s", e)
     log.info("site built: %s (%d days)", site, len(days))

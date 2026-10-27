@@ -29,6 +29,8 @@ class Settings:
     lookback_hours: int = 30
     site_title: str = "Daily House"
     site_url: str = ""
+    instagram_access_token: str = ""
+    instagram_user_id: str = ""
 
     root: Path = ROOT
     data_dir: Path = ROOT / "data"
@@ -42,6 +44,15 @@ class Settings:
     @property
     def has_naver(self) -> bool:
         return bool(self.naver_client_id and self.naver_client_secret)
+
+    @property
+    def has_instagram(self) -> bool:
+        return bool(self.instagram_access_token and self.instagram_user_id)
+
+    def public_url(self, rel: str = "") -> str:
+        base = (self.site_url or "https://hyungmo1234.github.io/daily-house").rstrip("/")
+        rel = rel.lstrip("/")
+        return f"{base}/{rel}" if rel else base
 
 
 def load_settings() -> Settings:
@@ -58,5 +69,7 @@ def load_settings() -> Settings:
         max_articles=int(_env("NEWS_MAX_TOTAL", "30") or 30),
         lookback_hours=int(_env("NEWS_LOOKBACK_HOURS", "30") or 30),
         site_title=_env("SITE_TITLE", "Daily House"),
-        site_url=_env("SITE_URL", ""),
+        site_url=_env("SITE_URL", "https://hyungmo1234.github.io/daily-house"),
+        instagram_access_token=_env("INSTAGRAM_ACCESS_TOKEN"),
+        instagram_user_id=_env("INSTAGRAM_USER_ID"),
     )

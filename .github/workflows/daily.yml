@@ -3,6 +3,7 @@ name: Daily publish
 on:
   schedule:
     - cron: "30 20 * * *"   # 매일 05:30 KST (UTC 20:30)
+    - cron: "30 21 * * *"   # 백업 06:30 KST — 첫 실행이 빠졌을 때만 실제 수집
   workflow_dispatch:         # Actions 탭에서 수동 실행 가능
 
 permissions:
@@ -25,6 +26,9 @@ jobs:
           python-version: "3.11"
           cache: pip
 
+      - name: Korean font for Instagram card
+        run: sudo apt-get update && sudo apt-get install -y fonts-nanum
+
       - run: pip install -r requirements.txt
 
       - name: Collect, summarize, build
@@ -34,7 +38,13 @@ jobs:
           NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
           NEWS_KEYWORDS: ${{ vars.NEWS_KEYWORDS || '부동산,아파트 매매,전세,청약,주택담보대출,분양,재건축' }}
-        run: python run.py
+          SITE_URL: ${{ vars.SITE_URL || 'https://hyungmo1234.github.io/daily-house' }}
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            python run.py --skip-if-exists
+          else
+            python run.py
+          fi
 
       - name: Commit today's data
         run: |
@@ -62,3 +72,37 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  instagram:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Publish Instagram post
+        env:
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}
+          SITE_URL: ${{ vars.SITE_URL || 'https://hyungmo1234.github.io/daily-house' }}
+        run: python run.py --instagram
+
+      - name: Remember posted media id
+        run: |
+          git config user.name "daily-house-bot"
+          git config user.email "daily-house-bot@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "no instagram marker"
+          else
+            git commit -m "instagram: $(TZ=Asia/Seoul date +%F)"
+            git push
+          fi

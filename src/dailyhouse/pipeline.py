@@ -18,9 +18,30 @@ WEEKDAYS = "월화수목금토일"
 CLUSTER_MAX = 120  # 한 번의 LLM 호출로 그룹화할 최대 제목 수
 
 
-def run(settings: Settings, use_llm: bool = True, limit: int | None = None, build: bool = True) -> dict:
+def load_day(settings: Settings, date_str: str) -> dict | None:
+    p = settings.data_dir / f"{date_str}.json"
+    if not p.exists():
+        return None
+    try:
+        data = json.loads(p.read_text(encoding="utf-8"))
+    except Exception:
+        return None
+    if data.get("articles"):
+        return data
+    return None
+
+
+def run(settings: Settings, use_llm: bool = True, limit: int | None = None, build: bool = True,
+        skip_if_exists: bool = False) -> dict:
     now = datetime.now(KST)
     date_str = now.strftime("%Y-%m-%d")
+
+    existing = load_day(settings, date_str)
+    if skip_if_exists and existing:
+        log.info("already published %s (%d articles) — skip collect/summarize", date_str, len(existing["articles"]))
+        if build:
+            build_site(settings)
+        return existing
 
     if not settings.has_naver:
         raise SystemExit("NAVER_CLIENT_ID / NAVER_CLIENT_SECRET 이 .env 에 없습니다.")
