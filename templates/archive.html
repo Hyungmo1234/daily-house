@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}지난 뉴스 · {{ site_title }}{% endblock %}
+{% block content %}
+<h1 class="text-2xl sm:text-3xl font-extrabold text-navy mb-6">지난 뉴스</h1>
+<div class="space-y-3">
+  {% for d in days %}
+  <a href="{{ base }}days/{{ d.date }}.html" class="block rounded-xl bg-white border border-slate-200 p-4 hover:shadow-md transition">
+    <div class="flex items-center justify-between gap-3">
+      <div class="font-extrabold text-navy">{{ d.date_label }}</div>
+      <div class="text-xs text-slate-400">기사 {{ d.articles|length }}건</div>
+    </div>
+    {% if d.overview %}<p class="mt-1 text-sm text-slate-600 leading-relaxed">{{ d.overview }}</p>{% endif %}
+    {% if d.keywords %}
+    <div class="mt-2 flex flex-wrap gap-1">
+      {% for k in d.keywords[:6] %}<span class="text-[11px] text-teal bg-teal/10 rounded-full px-2 py-0.5">#{{ k }}</span>{% endfor %}
+    </div>
+    {% endif %}
+  </a>
+  {% endfor %}
+</div>
+{% endblock %}

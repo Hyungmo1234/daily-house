@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}{{ site_title }}{% endblock %}</title>
+<meta name="description" content="{% block description %}매일 아침 자동으로 정리되는 부동산 뉴스 브리핑{% endblock %}">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = { theme: { extend: { colors: { navy: '#1B2A41', teal: '#0E9F8E', brand: '#F27D26' } } } }
+</script>
+<style>
+  body { font-family: "Pretendard", -apple-system, BlinkMacSystemFont, "Malgun Gothic", "Apple SD Gothic Neo", sans-serif; }
+  .tab[aria-selected="true"] { color: #0E9F8E; border-color: #0E9F8E; font-weight: 700; }
+  .no-scrollbar::-webkit-scrollbar { display: none; } .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+</style>
+</head>
+<body class="bg-slate-50 text-slate-800">
+<header class="bg-navy text-white">
+  <div class="mx-auto max-w-6xl px-4 h-14 flex items-center justify-between gap-4">
+    <a href="{{ base }}index.html" class="flex items-center gap-2 font-extrabold text-lg tracking-tight">
+      <span>🏠</span><span>{{ site_title }}</span>
+    </a>
+    <nav class="flex items-center gap-4 text-sm">
+      <a href="{{ base }}index.html" class="hover:text-teal">오늘</a>
+      <a href="{{ base }}archive.html" class="hover:text-teal">지난 뉴스</a>
+    </nav>
+  </div>
+</header>
+
+<main class="mx-auto max-w-6xl px-4 py-6">
+{% block content %}{% endblock %}
+</main>
+
+<footer class="mt-12 border-t border-slate-200">
+  <div class="mx-auto max-w-6xl px-4 py-6 text-xs text-slate-500 flex flex-col sm:flex-row gap-2 sm:items-center sm:justify-between">
+    <div>{{ site_title }} · 네이버 뉴스 검색 결과를 자동 수집·요약합니다. 기사 저작권은 각 언론사에 있으며, 전문은 원문 링크에서 확인하세요.</div>
+    <div>빌드 {{ built_at }} KST</div>
+  </div>
+</footer>
+{% block scripts %}{% endblock %}
+</body>
+</html>

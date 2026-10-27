@@ -1,0 +1,158 @@
+{% extends "base.html" %}
+{% block title %}{{ day.date_label }} 부동산 뉴스 · {{ site_title }}{% endblock %}
+{% block description %}{{ day.overview }}{% endblock %}
+
+{% macro badge(cat) -%}
+<span class="inline-block rounded-full px-2 py-0.5 text-[11px] font-bold {{ category_colors.get(cat, category_colors['기타']) }}">{{ cat }}</span>
+{%- endmacro %}
+
+{% macro importance(n) -%}
+<span class="text-[10px] tracking-tight {{ 'text-brand' if n >= 4 else 'text-slate-300' }}" title="중요도 {{ n }}/5">{{ '●' * n }}{{ '○' * (5 - n) }}</span>
+{%- endmacro %}
+
+{% block content %}
+<!-- 날짜 헤더 -->
+<div class="flex flex-wrap items-end justify-between gap-2 mb-4">
+  <div>
+    <div class="text-sm text-teal font-bold">{% if is_latest %}오늘의 브리핑{% else %}지난 브리핑{% endif %}</div>
+    <h1 class="text-2xl sm:text-3xl font-extrabold text-navy">{{ day.date_label }}</h1>
+  </div>
+  <div class="text-xs text-slate-500">{{ day.generated_at|dt }} 발행 · 기사 {{ day.articles|length }}건 (수집 {{ day.raw_count }}건 중 중복·무관 기사 제외)</div>
+</div>
+
+{% if day.overview %}
+<div class="rounded-xl bg-white border border-slate-200 p-4 sm:p-5 mb-6 leading-relaxed">
+  <span class="inline-block rounded-full bg-brand text-white text-[11px] font-bold px-2 py-0.5 mr-2 align-middle">AI 브리핑</span>
+  <span class="align-middle">{{ day.overview }}</span>
+</div>
+{% endif %}
+
+<div class="grid lg:grid-cols-3 gap-6">
+  <!-- 본문 -->
+  <div class="lg:col-span-2 space-y-8 min-w-0">
+
+    {% if headlines %}
+    <section>
+      <h2 class="text-lg font-extrabold text-navy mb-3">오늘의 헤드라인</h2>
+      <div class="grid sm:grid-cols-3 gap-3">
+        {% for a in headlines %}
+        <article class="rounded-xl bg-white border border-slate-200 p-4 flex flex-col gap-2 hover:shadow-md transition min-w-0 break-keep">
+          <div class="flex items-center justify-between">{{ badge(a.category) }}{{ importance(a.importance) }}</div>
+          <a href="{{ a.url }}" target="_blank" rel="noopener" class="font-bold leading-snug text-slate-900 hover:text-teal">{{ a.title }}</a>
+          <ul class="text-[13px] text-slate-600 space-y-0.5 list-disc pl-4">
+            {% for s in a.summary %}<li>{{ s }}</li>{% endfor %}
+          </ul>
+          {% if a.why %}
+          <div class="mt-auto rounded-lg bg-orange-50 border-l-4 border-brand px-3 py-2 text-[13px] text-slate-700">
+            <span class="font-bold text-brand">왜 중요한가</span> {{ a.why }}
+          </div>
+          {% endif %}
+          <div class="text-[11px] text-slate-400">{{ a.source }} · {{ a.published_at|time }}{% if a.duplicates %} · 관련 보도 +{{ a.duplicates }}{% endif %}</div>
+        </article>
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %}
+
+    <section>
+      <div class="flex items-center justify-between mb-2">
+        <h2 class="text-lg font-extrabold text-navy">전체 기사</h2>
+        <div class="text-xs text-slate-500">중요도순 · 클릭하면 원문으로 이동</div>
+      </div>
+      <!-- 카테고리 탭 -->
+      <div role="tablist" class="flex gap-1 overflow-x-auto no-scrollbar border-b border-slate-200 mb-3 text-sm">
+        <button role="tab" aria-selected="true" data-cat="*" class="tab whitespace-nowrap px-3 py-2 border-b-2 border-transparent text-slate-500 hover:text-teal">전체 <span class="text-xs text-slate-400">{{ day.articles|length }}</span></button>
+        {% for c in categories if day.categories.get(c) %}
+        <button role="tab" aria-selected="false" data-cat="{{ c }}" class="tab whitespace-nowrap px-3 py-2 border-b-2 border-transparent text-slate-500 hover:text-teal">{{ c }} <span class="text-xs text-slate-400">{{ day.categories[c] }}</span></button>
+        {% endfor %}
+      </div>
+
+      <div id="articles" class="space-y-2">
+        {% for a in day.articles %}
+        <article data-cat="{{ a.category }}" class="rounded-xl bg-white border border-slate-200 p-4 hover:shadow-sm transition">
+          <div class="flex items-center gap-2 flex-wrap">
+            {{ badge(a.category) }}
+            {{ importance(a.importance) }}
+            <span class="text-[11px] text-slate-400 ml-auto">{{ a.source }} · {{ a.published_at|time }}{% if a.duplicates %} · 관련 보도 +{{ a.duplicates }}{% endif %}</span>
+          </div>
+          <a href="{{ a.url }}" target="_blank" rel="noopener" class="block mt-1 font-bold leading-snug text-slate-900 hover:text-teal">{{ a.title }}</a>
+          <ul class="mt-1.5 text-[13px] text-slate-600 space-y-0.5 list-disc pl-4">
+            {% for s in a.summary %}<li>{{ s }}</li>{% endfor %}
+          </ul>
+          {% if a.why %}
+          <div class="mt-2 rounded-lg bg-orange-50 border-l-4 border-brand px-3 py-2 text-[13px] text-slate-700"><span class="font-bold text-brand">왜 중요한가</span> {{ a.why }}</div>
+          {% endif %}
+          {% if a.tags or a.related %}
+          <div class="mt-2 flex flex-wrap items-center gap-1">
+            {% for t in a.tags %}<span class="text-[11px] text-teal bg-teal/10 rounded-full px-2 py-0.5">#{{ t }}</span>{% endfor %}
+            {% if a.related %}
+            <details class="ml-auto text-[11px] text-slate-500">
+              <summary class="cursor-pointer hover:text-teal select-none">관련 보도 {{ a.related|length }}건 ▾</summary>
+              <ul class="mt-1 space-y-0.5 text-right">
+                {% for r in a.related %}<li><a href="{{ r.url }}" target="_blank" rel="noopener" class="hover:text-teal"><span class="font-bold">{{ r.source }}</span> {{ r.title }}</a></li>{% endfor %}
+              </ul>
+            </details>
+            {% endif %}
+          </div>
+          {% endif %}
+        </article>
+        {% endfor %}
+      </div>
+      <p id="empty" class="hidden text-sm text-slate-500 py-6 text-center">이 카테고리의 기사가 없습니다.</p>
+    </section>
+  </div>
+
+  <!-- 사이드바 -->
+  <aside class="space-y-4 min-w-0">
+    {% if day.keywords %}
+    <section class="rounded-xl bg-white border border-slate-200 p-4">
+      <h3 class="font-extrabold text-navy mb-2">🔥 오늘의 키워드</h3>
+      <div class="flex flex-wrap gap-1.5">
+        {% for k in day.keywords %}<span class="text-xs text-teal bg-teal/10 rounded-full px-2.5 py-1">#{{ k }}</span>{% endfor %}
+      </div>
+    </section>
+    {% endif %}
+
+    <section class="rounded-xl bg-white border border-slate-200 p-4">
+      <h3 class="font-extrabold text-navy mb-2">📅 지난 뉴스</h3>
+      <ul class="text-sm divide-y divide-slate-100">
+        {% for r in recent %}
+        <li class="py-1.5 flex items-center justify-between">
+          <a href="{{ base }}days/{{ r.date }}.html" class="hover:text-teal {{ 'font-bold text-teal' if r.date == day.date else '' }}">{{ r.label }}</a>
+          <span class="text-xs text-slate-400">{{ r.count }}건</span>
+        </li>
+        {% endfor %}
+      </ul>
+      <a href="{{ base }}archive.html" class="block mt-2 text-xs text-slate-500 hover:text-teal">전체 보기 →</a>
+    </section>
+
+    <section class="rounded-xl bg-white border border-slate-200 p-4 text-xs text-slate-500 space-y-1">
+      <h3 class="font-extrabold text-navy text-sm mb-1">발행 정보</h3>
+      <div>검색어: {{ day.keywords_searched|join(', ') }}</div>
+      {% if day.usage and day.usage.model != 'none' %}
+      <div>요약 모델: {{ day.usage.model }} · 호출 {{ day.usage.calls }}회</div>
+      <div>토큰 입력 {{ "{:,}".format(day.usage.input_tokens) }} / 출력 {{ "{:,}".format(day.usage.output_tokens) }} · 약 {{ day.usage.cost_krw }}원</div>
+      {% else %}
+      <div>요약 모델: 사용 안 함 (네이버 요약문 사용)</div>
+      {% endif %}
+    </section>
+  </aside>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+(function () {
+  const tabs = document.querySelectorAll('.tab');
+  const cards = document.querySelectorAll('#articles article');
+  const empty = document.getElementById('empty');
+  tabs.forEach(t => t.addEventListener('click', () => {
+    tabs.forEach(x => x.setAttribute('aria-selected', 'false'));
+    t.setAttribute('aria-selected', 'true');
+    const cat = t.dataset.cat; let shown = 0;
+    cards.forEach(c => { const on = cat === '*' || c.dataset.cat === cat; c.classList.toggle('hidden', !on); if (on) shown++; });
+    empty.classList.toggle('hidden', shown > 0);
+  }));
+})();
+</script>
+{% endblock %}
