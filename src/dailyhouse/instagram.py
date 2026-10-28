@@ -14,12 +14,12 @@ from pathlib import Path
 
 import requests
 
-from .card import ensure_card, headlines_of
+from .card import clean_title, ensure_card, first_line, headlines_of
 from .config import KST, Settings
 
 log = logging.getLogger(__name__)
 
-GRAPH = "https://graph.facebook.com/v22.0"
+GRAPH = "https://graph.instagram.com/v22.0"
 
 
 def compose_caption(day: dict, site_url: str) -> str:
@@ -32,18 +32,14 @@ def compose_caption(day: dict, site_url: str) -> str:
     if overview:
         lines += [overview, ""]
     for i, a in enumerate(heads, 1):
-        title = (a.get("title") or "").strip()
-        one = ""
-        if a.get("summary"):
-            one = a["summary"][0]
-        elif a.get("why"):
-            one = a["why"]
+        title = clean_title(a.get("title") or "")
+        one = first_line(a)
         lines.append(f"{i}. {title}")
         if one:
             lines.append(f"   {one}")
         lines.append("")
     if site_url:
-        lines += [f"전체 기사는 링크에서  →  {site_url}", ""]
+        lines += ["자세한 기사는 프로필 링크에서 볼 수 있습니다.", site_url, ""]
     tags = ["부동산", "부동산뉴스", "아파트", "DailyHouse"]
     for k in day.get("keywords") or []:
         t = str(k).lstrip("#").replace(" ", "")
@@ -70,8 +66,12 @@ def _wait_public(url: str, tries: int = 12, delay: float = 10.0) -> bool:
 
 
 def _graph(method: str, path: str, token: str, **params) -> dict:
-    params["access_token"] = token
-    r = requests.request(method, f"{GRAPH}/{path.lstrip('/')}", params=params, timeout=60)
+    url = f"{GRAPH}/{path.lstrip('/')}"
+    headers = {"Authorization": f"Bearer {token}"}
+    if method.upper() == "GET":
+        r = requests.get(url, params=params, headers=headers, timeout=60)
+    else:
+        r = requests.request(method, url, json=params, headers=headers, timeout=60)
     try:
         data = r.json()
     except ValueError:
@@ -120,15 +120,17 @@ def publish(settings: Settings, day: dict, wait_for_public: bool = True) -> str:
         alt_text=f"{day.get('date_label', '')} 부동산 뉴스 브리핑",
     )
     container_id = created["id"]
-    # 컨테이너 준비 대기
-    for _ in range(8):
+    code = ""
+    for _ in range(20):
         st = _graph("GET", container_id, settings.instagram_access_token, fields="status_code")
         code = (st.get("status_code") or "").upper()
         if code in ("FINISHED", "PUBLISHED"):
             break
         if code in ("ERROR", "EXPIRED"):
             raise RuntimeError(f"instagram container {code}: {st}")
-        time.sleep(3)
+        time.sleep(4)
+    if code not in ("FINISHED", "PUBLISHED"):
+        raise RuntimeError(f"instagram container not ready: {code or 'UNKNOWN'}")
 
     published = _graph(
         "POST",
@@ -145,15 +147,12 @@ def publish_today(settings: Settings, wait_for_public: bool = True) -> dict | No
     now = datetime.now(KST)
     path = settings.data_dir / f"{now.strftime('%Y-%m-%d')}.json"
     if not path.exists():
-        log.warning("오늘 데이터 파일이 없어 인스타 게시를 건너뜁니다: %s", path)
-        return None
+        raise SystemExit(f"오늘 데이터 파일이 없어 인스타 게시를 할 수 없습니다: {path}")
     day = json.loads(path.read_text(encoding="utf-8"))
     if already_posted(day):
         log.info("이미 게시한 날짜입니다 (%s)", day["instagram"]["media_id"])
         return day
     if not settings.has_instagram:
-        log.info("인스타 키가 없어 카드만 생성하고 게시는 건너뜁니다.")
-        ensure_card(settings, day)
-        return day
+        raise SystemExit("INSTAGRAM_ACCESS_TOKEN / INSTAGRAM_USER_ID 가 없습니다.")
     media_id = publish(settings, day, wait_for_public=wait_for_public)
     return mark_posted(path, day, media_id)
