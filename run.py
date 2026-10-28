@@ -5,7 +5,9 @@
   python run.py --no-llm             # OpenAI 호출 없이 실행
   python run.py --limit 10           # 기사 10건만 처리
   python run.py --build-only         # data/*.json 으로 사이트만 다시 생성
-  python run.py --instagram          # 오늘 카드로 인스타 피드 게시 (키 없으면 카드만)
+  python run.py --instagram          # 오늘 카드로 인스타 피드 게시
+  python run.py --instagram --all    # 아직 안 올린 날짜 모두 게시
+  python run.py --instagram --date 2026-10-27
 """
 from __future__ import annotations
 
@@ -18,7 +20,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent / "src"))
 
 from dailyhouse.build import build_site  # noqa: E402
 from dailyhouse.config import load_settings  # noqa: E402
-from dailyhouse.instagram import publish_today  # noqa: E402
+from dailyhouse.instagram import publish_date, publish_missing, publish_today  # noqa: E402
 from dailyhouse.pipeline import run  # noqa: E402
 
 
@@ -28,7 +30,9 @@ def main() -> None:
     p.add_argument("--limit", type=int, default=None, help="처리할 최대 기사 수")
     p.add_argument("--build-only", action="store_true", help="수집 없이 사이트만 빌드")
     p.add_argument("--skip-if-exists", action="store_true", help="오늘 데이터가 있으면 수집·요약을 건너뜀")
-    p.add_argument("--instagram", action="store_true", help="오늘 브리핑을 인스타에 게시")
+    p.add_argument("--instagram", action="store_true", help="브리핑을 인스타에 게시")
+    p.add_argument("--date", help="인스타 게시할 날짜 YYYY-MM-DD")
+    p.add_argument("--all", action="store_true", dest="instagram_all", help="아직 안 올린 날짜를 모두 게시")
     p.add_argument("-v", "--verbose", action="store_true")
     args = p.parse_args()
 
@@ -39,7 +43,12 @@ def main() -> None:
     )
     settings = load_settings()
     if args.instagram:
-        publish_today(settings, wait_for_public=True)
+        if args.instagram_all:
+            publish_missing(settings, wait_for_public=True)
+        elif args.date:
+            publish_date(settings, args.date, wait_for_public=True)
+        else:
+            publish_today(settings, wait_for_public=True)
         return
     if args.build_only:
         build_site(settings)

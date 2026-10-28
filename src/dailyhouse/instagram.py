@@ -143,16 +143,30 @@ def publish(settings: Settings, day: dict, wait_for_public: bool = True) -> str:
     return media_id
 
 
-def publish_today(settings: Settings, wait_for_public: bool = True) -> dict | None:
-    now = datetime.now(KST)
-    path = settings.data_dir / f"{now.strftime('%Y-%m-%d')}.json"
+def publish_date(settings: Settings, date_str: str, wait_for_public: bool = True) -> dict:
+    path = settings.data_dir / f"{date_str}.json"
     if not path.exists():
-        raise SystemExit(f"오늘 데이터 파일이 없어 인스타 게시를 할 수 없습니다: {path}")
+        raise SystemExit(f"데이터 파일이 없어 인스타 게시를 할 수 없습니다: {path}")
     day = json.loads(path.read_text(encoding="utf-8"))
     if already_posted(day):
-        log.info("이미 게시한 날짜입니다 (%s)", day["instagram"]["media_id"])
+        log.info("이미 게시한 날짜입니다 %s (%s)", date_str, day["instagram"]["media_id"])
         return day
     if not settings.has_instagram:
         raise SystemExit("INSTAGRAM_ACCESS_TOKEN / INSTAGRAM_USER_ID 가 없습니다.")
     media_id = publish(settings, day, wait_for_public=wait_for_public)
     return mark_posted(path, day, media_id)
+
+
+def publish_today(settings: Settings, wait_for_public: bool = True) -> dict:
+    return publish_date(settings, datetime.now(KST).strftime("%Y-%m-%d"), wait_for_public)
+
+
+def publish_missing(settings: Settings, wait_for_public: bool = True) -> list[dict]:
+    posted: list[dict] = []
+    for path in sorted(settings.data_dir.glob("????-??-??.json")):
+        day = json.loads(path.read_text(encoding="utf-8"))
+        if already_posted(day):
+            log.info("skip already posted %s", day.get("date"))
+            continue
+        posted.append(publish_date(settings, path.stem, wait_for_public))
+    return posted
