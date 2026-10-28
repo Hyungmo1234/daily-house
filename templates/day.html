@@ -125,17 +125,6 @@
       </ul>
       <a href="{{ base }}archive.html" class="block mt-2 text-xs text-slate-500 hover:text-teal">전체 보기 →</a>
     </section>
-
-    <section class="rounded-xl bg-white border border-slate-200 p-4 text-xs text-slate-500 space-y-1">
-      <h3 class="font-extrabold text-navy text-sm mb-1">발행 정보</h3>
-      <div>검색어: {{ day.keywords_searched|join(', ') }}</div>
-      {% if day.usage and day.usage.model != 'none' %}
-      <div>요약 모델: {{ day.usage.model }} · 호출 {{ day.usage.calls }}회</div>
-      <div>토큰 입력 {{ "{:,}".format(day.usage.input_tokens) }} / 출력 {{ "{:,}".format(day.usage.output_tokens) }} · 약 {{ day.usage.cost_krw }}원</div>
-      {% else %}
-      <div>요약 모델: 사용 안 함 (네이버 요약문 사용)</div>
-      {% endif %}
-    </section>
   </aside>
 </div>
 {% endblock %}

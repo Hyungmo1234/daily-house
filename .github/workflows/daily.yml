@@ -4,7 +4,12 @@ on:
   schedule:
     - cron: "30 20 * * *"   # 매일 05:30 KST (UTC 20:30)
     - cron: "30 21 * * *"   # 백업 06:30 KST — 첫 실행이 빠졌을 때만 실제 수집
-  workflow_dispatch:         # Actions 탭에서 수동 실행 가능
+  workflow_dispatch:
+    inputs:
+      skip_if_exists:
+        description: "오늘 치가 있으면 수집 생략 (템플릿만 다시 빌드)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -40,7 +45,7 @@ jobs:
           NEWS_KEYWORDS: ${{ vars.NEWS_KEYWORDS || '부동산,아파트 매매,전세,청약,주택담보대출,분양,재건축' }}
           SITE_URL: ${{ vars.SITE_URL || 'https://hyungmo1234.github.io/daily-house' }}
         run: |
-          if [ "${{ github.event_name }}" = "schedule" ]; then
+          if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ inputs.skip_if_exists }}" = "true" ]; then
             python run.py --skip-if-exists
           else
             python run.py
