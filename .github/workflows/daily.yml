@@ -2,8 +2,14 @@ name: Daily publish
 
 on:
   schedule:
-    - cron: "30 20 * * *"   # 매일 05:30 KST (UTC 20:30)
-    - cron: "30 21 * * *"   # 백업 06:30 KST — 첫 실행이 빠졌을 때만 실제 수집
+    # GitHub cron은 매시 정각·30분에 잘 빠짐. 분을 흩뿌리고 아침 동안 여러 번 재시도.
+    - cron: "17 20 * * *"   # 05:17 KST
+    - cron: "11 21 * * *"   # 06:11 KST
+    - cron: "23 22 * * *"   # 07:23 KST
+    - cron: "41 23 * * *"   # 08:41 KST
+    - cron: "7 0 * * *"     # 09:07 KST
+  repository_dispatch:
+    types: [daily-publish]
   workflow_dispatch:
     inputs:
       skip_if_exists:
@@ -23,20 +29,45 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      skip: ${{ steps.gate.outputs.skip }}
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - id: gate
+        name: Skip if today already published
+        run: |
+          DATE=$(TZ=Asia/Seoul date +%F)
+          FILE="data/${DATE}.json"
+          FORCE="${{ github.event_name == 'workflow_dispatch' && inputs.skip_if_exists != true }}"
+          if [ "$FORCE" = "true" ]; then
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+            echo "manual rerun for $DATE"
+            exit 0
+          fi
+          if [ -f "$FILE" ] && python3 -c "import json,sys; d=json.load(open(sys.argv[1],encoding='utf-8')); sys.exit(0 if (d.get('instagram') or {}).get('media_id') else 1)" "$FILE"; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "already published $DATE"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+            echo "need publish $DATE"
+          fi
+
+      - if: steps.gate.outputs.skip != 'true'
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: pip
 
-      - name: Fonts for Instagram card
+      - if: steps.gate.outputs.skip != 'true'
+        name: Fonts for Instagram card
         run: sudo apt-get update && sudo apt-get install -y fonts-nanum fonts-liberation
 
-      - run: pip install -r requirements.txt
+      - if: steps.gate.outputs.skip != 'true'
+        run: pip install -r requirements.txt
 
-      - name: Collect, summarize, build
+      - if: steps.gate.outputs.skip != 'true'
+        name: Collect, summarize, build
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-6.1-sol' }}
@@ -45,13 +76,14 @@ jobs:
           NEWS_KEYWORDS: ${{ vars.NEWS_KEYWORDS || '부동산,아파트 매매,전세,청약,주택담보대출,분양,재건축' }}
           SITE_URL: ${{ vars.SITE_URL || 'https://hyungmo1234.github.io/daily-house' }}
         run: |
-          if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ inputs.skip_if_exists }}" = "true" ]; then
+          if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ github.event_name }}" = "repository_dispatch" ] || [ "${{ inputs.skip_if_exists }}" = "true" ]; then
             python run.py --skip-if-exists
           else
             python run.py
           fi
 
-      - name: Commit today's data
+      - if: steps.gate.outputs.skip != 'true'
+        name: Commit today's data
         run: |
           git config user.name "daily-house-bot"
           git config user.email "daily-house-bot@users.noreply.github.com"
@@ -63,13 +95,16 @@ jobs:
             git push
           fi
 
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+      - if: steps.gate.outputs.skip != 'true'
+        uses: actions/configure-pages@v5
+      - if: steps.gate.outputs.skip != 'true'
+        uses: actions/upload-pages-artifact@v3
         with:
           path: site
 
   deploy:
     needs: build
+    if: needs.build.outputs.skip != 'true'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -80,6 +115,7 @@ jobs:
 
   instagram:
     needs: deploy
+    if: needs.build.outputs.skip != 'true'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
