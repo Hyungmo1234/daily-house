@@ -1,0 +1,928 @@
+{
+  "date": "2026-10-29",
+  "date_label": "2026년 10월 29일 (목)",
+  "generated_at": "2026-10-29T09:13+09:00",
+  "keywords_searched": [
+    "부동산",
+    "아파트 매매",
+    "전세",
+    "청약",
+    "주택담보대출",
+    "분양",
+    "재건축"
+  ],
+  "overview": "서울 전세시장은 매물 감소와 가격 상승이 겹치며 세입자의 부담을 키우고 있습니다. 올해 입주 물량도 13년 내 최저 수준입니다. 매매시장에서는 강남 재건축의 큰 폭 하락 거래와 대출 규제 속 자금 조달 변화가 함께 나타났습니다.",
+  "keywords": [
+    "서울아파트",
+    "전셋값",
+    "공급부족",
+    "재건축",
+    "대출규제",
+    "토지거래허가",
+    "분양"
+  ],
+  "headline_ids": [
+    "134e5a934f3a",
+    "79446d514733",
+    "f606f1466081"
+  ],
+  "categories": {
+    "전월세": 2,
+    "정책·규제": 6,
+    "분양·청약": 5,
+    "매매·시세": 3,
+    "재건축·개발": 6,
+    "금리·대출": 2,
+    "기타": 1
+  },
+  "raw_count": 162,
+  "articles": [
+    {
+      "id": "134e5a934f3a",
+      "title": "전세매물 28% 급감·평균 전셋값 7억 돌파…입주 절벽 앞둔 서울서 남성...",
+      "url": "https://www.seoul.co.kr/news/economy/estate/2026/10/28/20261028500191?wlog_tag3=naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/081/0003693688?sid=101",
+      "source": "서울신문",
+      "description": "한국부동산원에 따르면 서울 아파트 전셋값은 지난해 2월 상승 전환한 이후 86주 연속 오름세를 이어갔다.... 부동산 빅데이터 업체 집계 결과 지난 9월 21일 기준 서울 아파트 전세 매물은 1만 9569건으로, 지난해 2월(2만...",
+      "published_at": "2026-10-29T09:02+09:00",
+      "keywords": [
+        "부동산",
+        "전세",
+        "재건축"
+      ],
+      "relevance": 7,
+      "category": "전월세",
+      "summary": [
+        "서울 아파트 전세매물이 28% 급감함",
+        "서울 아파트 평균 전셋값이 7억원을 돌파함",
+        "서울 아파트 전셋값은 86주 연속 상승함"
+      ],
+      "importance": 4,
+      "tags": [
+        "서울",
+        "전세매물",
+        "전셋값"
+      ],
+      "why": "서울 전세매물이 28% 줄고 평균 전셋값이 7억원을 넘어 세입자의 선택 폭과 자금 부담이 동시에 압박받고 있습니다. 이사를 앞둔 세입자는 매물과 예산을 함께 점검해야 합니다.",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "f606f1466081",
+      "title": "'세 낀 집' 거래 풀었지만…토허 실거주 유예 신청 20건 중 1건",
+      "url": "https://www.news1.kr/realestate/general/6334893",
+      "naver_url": "https://n.news.naver.com/mnews/article/421/0009256626?sid=101",
+      "source": "뉴스1",
+      "description": "국토교통부는 5월 유예 확대 당시 전세퇴거자금 대출이나 신규 주택담보대출 규제를 완화할 계획이 없다고 밝혔다. 윤수민 농협은행 부동산전문위원은 \"무주택 실수요자만 살 수 있는 데다 세입자가 나갈 때 돌려줄...",
+      "published_at": "2026-10-29T05:05+09:00",
+      "keywords": [
+        "주택담보대출"
+      ],
+      "relevance": 8,
+      "category": "정책·규제",
+      "summary": [
+        "토지거래허가 실거주 유예 신청이 20건 중 1건에 그침",
+        "국토부는 5월 실거주 유예 확대 당시 대출 규제 입장을 밝힘",
+        "전세퇴거자금·신규 주담대 규제 완화 계획이 없다고 밝힘"
+      ],
+      "importance": 4,
+      "tags": [
+        "토지거래허가",
+        "실거주 유예",
+        "대출규제"
+      ],
+      "why": "토지거래허가 실거주 유예 신청은 20건 중 1건에 그쳤습니다. 세입자가 있는 집을 사려는 투자자는 유예 확대와 별개로 전세퇴거자금·신규 주담대 규제도 확인해야 합니다.",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "79446d514733",
+      "title": "올해 서울 아파트 입주13년내 최저…내달 분양 단지 '귀한 몸' 되나",
+      "url": "https://view.asiae.co.kr/article/2026102908574248358",
+      "naver_url": "https://n.news.naver.com/mnews/article/277/0005834999?sid=101",
+      "source": "아시아경제",
+      "description": "1의 청약 경쟁률을 기록하는 등 수요가 몰리는 추세\"라고 전했다. 업계에서는 통상 연말·연초에는 신규... 공급물량 중 60%는 추첨제여서 청약 가점이 낮은 젊은 층이 노려볼 만하다는 평가다. 현대엔지니어링은...",
+      "published_at": "2026-10-29T08:57+09:00",
+      "keywords": [
+        "청약",
+        "분양",
+        "재건축",
+        "아파트 매매",
+        "부동산"
+      ],
+      "relevance": 7,
+      "category": "분양·청약",
+      "summary": [
+        "올해 서울 아파트 입주 물량이 13년 내 최저 수준임",
+        "내달 분양 단지의 공급 희소성을 다룬 기사임",
+        "소개된 공급물량 중 60%는 추첨제로 배정됨"
+      ],
+      "importance": 3,
+      "tags": [
+        "서울",
+        "분양",
+        "추첨제"
+      ],
+      "why": "서울 입주 물량이 13년 내 최저 수준이어서 내 집 마련을 준비하는 실수요자에게 공급 일정이 중요해졌습니다. 기사에 소개된 내달 분양 물량은 60%가 추첨제로 배정됩니다.",
+      "duplicates": 2,
+      "related": [
+        {
+          "source": "한국경제",
+          "title": "멀어지는 '서울 자가'의 꿈…입주 물량 13년 만에 '최저'",
+          "url": "https://www.hankyung.com/article/2026102921906"
+        },
+        {
+          "source": "gpkorea.com",
+          "title": "서울 새 아파트 입주 13년 만에 최저…분양가는 5년 새 2배",
+          "url": "https://www.gpkorea.com/news/articleView.html?idxno=148051"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "002b0748f1c6",
+      "title": "서울 국민평형 아파트 3분기 매매가 2.5% 내리고 전세 3.8% 올라",
+      "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/29/QZVC4KBF6ZDC7KNKM3CCFQ27VA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "naver_url": "https://n.news.naver.com/mnews/article/366/0001201105?sid=101",
+      "source": "조선비즈",
+      "description": "29일 부동산 정보 플랫폼 다방이 국토교통부에 신고된 올해 3분기 서울 아파트 전용 84㎡의 실거래가를 조사한 결과 매매가는 평균 12억7949만원으로 작년 동기 대비 2.5% 하락했다. 다방은 “서울 아파트 평균...",
+      "published_at": "2026-10-29T09:01+09:00",
+      "keywords": [
+        "부동산",
+        "아파트 매매",
+        "전세"
+      ],
+      "relevance": 11,
+      "category": "매매·시세",
+      "summary": [
+        "다방이 서울 전용 84㎡ 아파트 실거래가를 조사함",
+        "3분기 평균 매매가 12억7949만원으로 전년 대비 2.5% 하락함",
+        "같은 기간 서울 국민평형 전셋값은 3.8% 상승함"
+      ],
+      "importance": 4,
+      "tags": [
+        "서울",
+        "국민평형",
+        "실거래가"
+      ],
+      "why": "",
+      "duplicates": 8,
+      "related": [
+        {
+          "source": "뉴시스",
+          "title": "서울 '국평' 아파트 매매가 2.5% 하락…전세 보증금은 3.8% 올라",
+          "url": "https://www.newsis.com/view/NISX20261029_0003845736"
+        },
+        {
+          "source": "연합뉴스",
+          "title": "\"서울 84㎡ 아파트 3분기 매매가 2.5% 내리고 전세 3.8% 올라\"",
+          "url": "https://www.yna.co.kr/view/AKR20261029026800003?input=1195m"
+        },
+        {
+          "source": "sentv.co.kr",
+          "title": "서울 84㎡ 아파트 매매가 2.5%↓…전세 보증금은 3.8%↑",
+          "url": "https://www.sentv.co.kr/article/view/sentv202610290009"
+        },
+        {
+          "source": "autodaily.co.kr",
+          "title": "서울 아파트, 매매가 2.5% 하락에도 전세는 '고공행진'···오피스텔 거...",
+          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601591"
+        },
+        {
+          "source": "jasm.co.kr",
+          "title": "서울 84㎡ 아파트 3분기 매매 2.5% 하락…전세는 3.8% 상승",
+          "url": "https://www.jasm.co.kr/news/view/323350/?sc=Naver"
+        },
+        {
+          "source": "pinpointnews.co.kr",
+          "title": "서울 아파트 전세금 3.8% 상승…매매가는 하락",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499520"
+        },
+        {
+          "source": "hansbiz.co.kr",
+          "title": "서울 '국평' 매매·전세 엇갈렸다",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=877421"
+        },
+        {
+          "source": "디지털타임스",
+          "title": "“억 소리나는 전셋값” 서울 국평 아파트 평균 7억 돌파…강남구는 ‘...",
+          "url": "https://www.dt.co.kr/article/12091970?ref=naver"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "e9c63c45c5d4",
+      "title": "매도 우위라는데 집값 상승세 여전…'강남권 매물발' 착시일까",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441771",
+      "naver_url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441771",
+      "source": "연합인포맥스",
+      "description": "KB부동산의 10월 서울 아파트 매매가격지수는 110.01로 집계됐다. 올해 1월 100을 기점으로 산출된 수치다. 공급 부족 등으로 아파트를 포함해 집값이 고공행진 중인데, 수급상 매도 우위라는 단서들이 발견돼 가격과...",
+      "published_at": "2026-10-29T08:56+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 5,
+      "category": "매매·시세",
+      "summary": [
+        "KB부동산 10월 서울 아파트 매매가격지수 110.01 기록",
+        "올해 1월 지수를 100으로 놓고 산출한 수치",
+        "집값 상승 속 수급상 매도 우위 단서들이 발견됨"
+      ],
+      "importance": 4,
+      "tags": [
+        "서울",
+        "KB부동산",
+        "매매가격지수"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "21eb0c7db8ba",
+      "title": "[2026국감] LH, 주택공급용 토지비축 사실상 중단…4년간 매입 단 1건",
+      "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314175",
+      "naver_url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314175",
+      "source": "스트레이트뉴스",
+      "description": "한국부동산원에 따르면 서울 아파트 매매가격은 2022년 7.70%, 2023년 2.18% 하락했지만 2024년 4.67%, 지난해 8.98% 상승했다. 올해도 8월까지 7.52% 올랐다. LH는 2022년 내부 재무개선 방침에 따라 중장기형 비축토지...",
+      "published_at": "2026-10-29T07:44+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 10,
+      "category": "정책·규제",
+      "summary": [
+        "LH의 주택공급용 토지비축이 사실상 중단됨",
+        "최근 4년간 LH의 토지 매입은 단 1건에 그침",
+        "LH는 2022년 내부 재무개선 방침을 세움"
+      ],
+      "importance": 4,
+      "tags": [
+        "LH",
+        "토지비축",
+        "주택공급"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "newsfreezone.co.kr",
+          "title": "[2026국감] 집값 오를 땐 뒷북, 침체기 지갑 닫은 LH…토지 비축 사실상...",
+          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=716535"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "07622339551b",
+      "title": "노인 5명 중 1명인데 주택은 부족…'고령화'가 바꾼 서울 개발 공식",
+      "url": "https://www.dailian.co.kr/news/view/1707331/?sc=Naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/119/0003148452?sid=101",
+      "source": "데일리안",
+      "description": "재개발·재건축 공공기여와 공공부지 등을 활용한 공공 실버케어센터도 85곳 조성한다. 이은형... 재건축과 재개발 현장에 고령층 특화 시설을 조성하려는 지자체와 이를 거부하는 주민 사이 입장차가 큰 탓이다. 서울...",
+      "published_at": "2026-10-29T07:32+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 4,
+      "category": "재건축·개발",
+      "summary": [
+        "고령화에 따른 서울 개발 방식의 변화 다룸",
+        "공공기여와 공공부지 활용 실버케어센터 85곳 조성",
+        "정비사업 고령층 특화 시설 두고 지자체·주민 입장차 큼"
+      ],
+      "importance": 4,
+      "tags": [
+        "서울",
+        "고령화",
+        "실버케어센터"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "06837f6d54f7",
+      "title": "[토허제 1년, 규제의 역설①] 거래는 묶였는데 집값은 올랐다…실효성 ...",
+      "url": "https://www.dailian.co.kr/news/view/1707400/?sc=Naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/119/0003148438?sid=101",
+      "source": "데일리안",
+      "description": "실제로 한국부동산원 주간 아파트가격 동향에 따르면 지난 19일 기준 서울 아파트 매매가격은 토허제 시행 이후인 지난해 10월20일 대비 약 10.72% 상승한 것으로 나타났다. 같은 기간 전셋값도 약 10.33% 올랐다. 지난해 10...",
+      "published_at": "2026-10-29T07:00+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 6,
+      "category": "정책·규제",
+      "summary": [
+        "토지거래허가제 시행 이후 집값 상승과 실효성 논란",
+        "지난 19일 서울 아파트값은 지난해 10월 20일 대비 10.72% 상승함",
+        "같은 기간 서울 아파트 전셋값도 약 10.33% 상승함"
+      ],
+      "importance": 4,
+      "tags": [
+        "토지거래허가제",
+        "서울",
+        "아파트가격"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "52f549ff77b6",
+      "title": "[단독] 경기주택도시공사, 공공임대 지으려 빈집 철거했다가 취득세 추...",
+      "url": "http://www.fieldnews.kr/news/articleView.html?idxno=32624",
+      "naver_url": "http://www.fieldnews.kr/news/articleView.html?idxno=32624",
+      "source": "fieldnews.kr",
+      "description": "당시 GH는 해당 부동산을 빈집활용 시범사업에 직접 사용하기 위해 취득했다며 지방세특례제한법에 따라... 또한 취득세 감면은 해당 부동산을 목적사업에 직접 사용하는 경우에 적용되는 것으로, 사업 수행을 위한...",
+      "published_at": "2026-10-29T09:00+09:00",
+      "keywords": [
+        "부동산"
+      ],
+      "relevance": 9,
+      "category": "정책·규제",
+      "summary": [
+        "경기주택도시공사가 공공임대 건설을 위해 빈집을 철거함",
+        "GH는 빈집활용 시범사업에 직접 쓰기 위해 취득했다고 밝힘",
+        "취득세 감면은 해당 부동산의 목적사업 직접 사용에 적용됨"
+      ],
+      "importance": 3,
+      "tags": [
+        "경기주택도시공사",
+        "취득세",
+        "빈집활용"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "368c387fa26b",
+      "title": "현대건설, 1조 472억원 규모 압구정아파트5구역 재건축 공사 수주",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16261459",
+      "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16261459",
+      "source": "topstarnews.net",
+      "description": "현대건설(000720)이 압구정아파트지구 특별계획구역5 재건축정비사업을 수주했다. 2026년 10월 28일 한국거래소 공시에 따르면 현대건설은 압구정아파트지구 특별계획구역5 재건축정비사업조합과 공사수주 형태의...",
+      "published_at": "2026-10-29T08:10+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 4,
+      "category": "재건축·개발",
+      "summary": [
+        "현대건설이 압구정아파트5구역 재건축 공사를 수주함",
+        "공사 수주 규모는 1조 472억원으로 공시됨",
+        "압구정아파트지구 특별계획구역5 재건축조합과 계약"
+      ],
+      "importance": 3,
+      "tags": [
+        "현대건설",
+        "압구정5구역",
+        "재건축"
+      ],
+      "why": "",
+      "duplicates": 2,
+      "related": [
+        {
+          "source": "smarttoday.co.kr",
+          "title": "현대건설, 압구정5구역 재건축 수주",
+          "url": "https://www.smarttoday.co.kr/ko-kr/articles/113237"
+        },
+        {
+          "source": "4th.kr",
+          "title": "현대건설, 압구정5구역 1조원대 공사계약",
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2120638"
+        }
+      ],
+      "source_known": false
+    },
+    {
+      "id": "7cba23e8578b",
+      "title": "과천에서 시세차익 10억 ‘줍줍’ 나온다...디에트르 퍼스티지 2가구",
+      "url": "https://www.mk.co.kr/article/12188529",
+      "naver_url": "https://n.news.naver.com/mnews/article/009/0005755665?sid=101",
+      "source": "매일경제",
+      "description": "과천시 거주 무주택세대주 대상 추첨 분양가 8억 중반...인근 단지는 18억 전후 ‘과천 디에트르 퍼스티지’ 전용면적 59㎡ 2가구가 8억원 중반대의 분양가로 무순위 청약에 나온다. 29일 한국부동산원 청약홈에...",
+      "published_at": "2026-10-29T08:01+09:00",
+      "keywords": [
+        "청약"
+      ],
+      "relevance": 7,
+      "category": "분양·청약",
+      "summary": [
+        "과천 디에트르 퍼스티지 전용 59㎡ 2가구 무순위 청약",
+        "과천시 거주 무주택세대주를 대상으로 추첨 공급함",
+        "분양가는 8억원 중반대이며 인근 단지는 18억원 전후"
+      ],
+      "importance": 3,
+      "tags": [
+        "과천",
+        "디에트르 퍼스티지",
+        "무순위 청약"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "34f741d288f0",
+      "title": "[요즘 부동산+/㉞]서울 아파트 공급 부족, 누구 책임?…정비구역 해제와...",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=118897",
+      "naver_url": "https://www.businessplus.kr/news/articleView.html?idxno=118897",
+      "source": "businessplus.kr",
+      "description": "장기적으로 재개발·재건축을 추진할 기반이 약해진 문제와 최근 실제 공사에 들어가는 주택이 줄어든... 정비구역 해제는 재개발·재건축 추진을 늦추거나 중단시킬 수 있다. 사업을 다시 시작하더라도 계획 수립과...",
+      "published_at": "2026-10-29T07:56+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 7,
+      "category": "재건축·개발",
+      "summary": [
+        "서울 아파트 공급 부족과 정비구역 해제 문제 다룸",
+        "최근 실제 공사에 들어가는 주택이 줄어든 상황임",
+        "정비구역 해제는 재개발·재건축을 늦추거나 중단시킬 수 있음"
+      ],
+      "importance": 3,
+      "tags": [
+        "서울",
+        "주택공급",
+        "정비구역 해제"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "bc1212c897d7",
+      "title": "[오늘 부동산] 위례선 트램, 개통일 내년으로 연기",
+      "url": "https://www.dailian.co.kr/news/view/1707610/?sc=Naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/119/0003148431?sid=101",
+      "source": "데일리안",
+      "description": "30대도 1억2317만원으로 13년 만에 2.25배 늘었다. 서울 40대는 1억5265만원이다. 주택담보대출이 늘어나면서 30대와 40대를 중심으로 평균 대출액이 늘어난 것으로 풀이된다.",
+      "published_at": "2026-10-29T06:12+09:00",
+      "keywords": [
+        "주택담보대출"
+      ],
+      "relevance": 4,
+      "category": "재건축·개발",
+      "summary": [
+        "위례선 트램 개통일이 내년으로 연기됨",
+        "30대 평균 대출액은 1억2317만원으로 제시됨",
+        "30대 평균 대출액은 13년 만에 2.25배 증가함"
+      ],
+      "importance": 3,
+      "tags": [
+        "위례선 트램",
+        "개통 연기",
+        "대출"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "ff41588095d9",
+      "title": "대출 막히자 사금융으로…고가 재건축 번지는 ‘우회 거래’[집슐랭]",
+      "url": "https://www.sedaily.com/article/20107438?ref=naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/011/0004676330?sid=101",
+      "source": "서울경제",
+      "description": "정부의 대출 규제가 장기화하면서 서울 강남권 고가 아파트 시장의 자금 조달 방식이 달라지고 있다.... 두 단지에서는 지역농협 등 상호금융을 통해 수십억 원의 근저당이 매매 직후 설정된 사례도 각각 2건씩...",
+      "published_at": "2026-10-29T06:01+09:00",
+      "keywords": [
+        "아파트 매매",
+        "주택담보대출"
+      ],
+      "relevance": 3,
+      "category": "금리·대출",
+      "summary": [
+        "대출 규제 장기화로 강남권 고가 아파트 자금 조달 변화",
+        "지역농협 등 상호금융을 통한 근저당 설정 사례 확인",
+        "두 단지에서 매매 직후 수십억원 근저당이 각각 2건 설정됨"
+      ],
+      "importance": 3,
+      "tags": [
+        "강남권",
+        "대출규제",
+        "상호금융"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "서울경제",
+          "title": "“돈 대줄 테니 차익 나누자”…대출 장벽이 부른 ‘사금융 복마전’",
+          "url": "https://www.sedaily.com/article/20107437?ref=naver"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "acf27e154167",
+      "title": "보금자리론 수요 계속…MBS 발행, 전년比 3분기 연속 증가",
+      "url": "https://www.mt.co.kr/stock/2026/10/29/2026102817270085422",
+      "naver_url": "https://n.news.naver.com/mnews/article/008/0005433286?sid=101",
+      "source": "머니투데이",
+      "description": "주택금융공사(주금공)의 보금자리론 수요가 이어지며 주택담보대출 상환금을 담보로 발행하는 MBS(주택저당증권)가 3분기 연속 전년대비 증가했다. 다만 부동산 PF(프로젝트 파이낸싱) 등 대출채권 기초 ABS...",
+      "published_at": "2026-10-29T06:00+09:00",
+      "keywords": [
+        "주택담보대출",
+        "부동산"
+      ],
+      "relevance": 3,
+      "category": "금리·대출",
+      "summary": [
+        "주택금융공사의 보금자리론 수요가 이어지는 상황",
+        "MBS 발행이 3분기 연속 전년 대비 증가함",
+        "MBS는 주택담보대출 상환금을 담보로 발행하는 증권"
+      ],
+      "importance": 3,
+      "tags": [
+        "보금자리론",
+        "MBS",
+        "주택금융공사"
+      ],
+      "why": "",
+      "duplicates": 2,
+      "related": [
+        {
+          "source": "이투데이",
+          "title": "3분기 등록 ABS 12조5천억…8천억 감소",
+          "url": "https://www.etoday.co.kr/news/view/2641463"
+        },
+        {
+          "source": "pointe.co.kr",
+          "title": "부동산PF·대출채권 위축…3분기 ABS 발행액 8000억원 줄어",
+          "url": "https://www.pointe.co.kr/news/articleView.html?idxno=86813"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "d495dc1a82b0",
+      "title": "압구정 아파트 35억 '뚝'…강남권 추가 하락 부르나",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819904&plink=ORI&cooper=NAVER",
+      "naver_url": "https://n.news.naver.com/mnews/article/055/0001398912?sid=101",
+      "source": "SBS",
+      "description": "3달 전 110억 원이 넘었던 신현대 12차 182㎡ 아파트도 24억 5천만 원 낮은 가격에 매매됐습니다. 강남 대표적 재건축 단지에서 수십억씩 낮춘 거래가 이어지고 있는데, 재건축이 본격화 되면 집을 팔지 못하도록 한 제도...",
+      "published_at": "2026-10-29T00:45+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 3,
+      "category": "매매·시세",
+      "summary": [
+        "압구정 아파트에서 35억원 낮아진 거래 발생",
+        "신현대12차 182㎡는 3달 전보다 24억5천만원 낮게 매매됨",
+        "강남 대표 재건축 단지에서 수십억원 낮춘 거래가 이어짐"
+      ],
+      "importance": 3,
+      "tags": [
+        "압구정",
+        "신현대12차",
+        "재건축"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "SBS",
+          "title": "무려 35억 싸게 팔렸다…\"빨리 처분해야\" 곳곳서 비상",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820035&plink=ORI&cooper=NAVER"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "8b6ce21a2649",
+      "title": "청라 아크원 푸르지오, 30일 견본주택 개관",
+      "url": "https://www.asiatime.co.kr/article/20261029500035",
+      "naver_url": "https://www.asiatime.co.kr/article/20261029500035",
+      "source": "asiatime.co.kr",
+      "description": "청약 수요자들이 살펴볼 요소다. 계약금은 분양대금의 5%로 책정됐다. 계약 시 1차 계약금 1000만원을 납부하고 나머지는 30일 이내에 내면 된다. 중도금은 분양대금의 60%이며, 대출 이용 시 이자후불제가 적용된다. 청약...",
+      "published_at": "2026-10-29T09:10+09:00",
+      "keywords": [
+        "청약",
+        "분양"
+      ],
+      "relevance": 4,
+      "category": "분양·청약",
+      "summary": [
+        "청라 아크원 푸르지오가 30일 견본주택 개관",
+        "계약금은 분양대금의 5%로 1차 1000만원 납부",
+        "중도금은 분양대금의 60%이며 대출 시 이자후불제 적용"
+      ],
+      "importance": 2,
+      "tags": [
+        "청라",
+        "아크원 푸르지오",
+        "견본주택"
+      ],
+      "why": "",
+      "duplicates": 2,
+      "related": [
+        {
+          "source": "mediapen.com",
+          "title": "청라 10년 만의 대단지 '청라 아크원 푸르지오', 30일 견본주택 개관",
+          "url": "https://www.mediapen.com/news/view/1133357"
+        },
+        {
+          "source": "pointdaily.co.kr",
+          "title": "청라 10년 만의 대단지 공급…'아크원 푸르지오' 30일 공개",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=324074"
+        }
+      ],
+      "source_known": false
+    },
+    {
+      "id": "c0d8fa6cf390",
+      "title": "국평 분양가 7억원대… 반도건설 '계양신도시 카이브 유보라' 11월 2일 청...",
+      "url": "http://www.ikld.kr/news/articleView.html?idxno=343134",
+      "naver_url": "http://www.ikld.kr/news/articleView.html?idxno=343134",
+      "source": "ikld.kr",
+      "description": "반도건설이 분양하는 계양신도시 첫 민간분양 '카이브 유보라'가 오는 11월 2일(월) 특별공급을 시작으로 청약접수에 나선다. 단지는 계양신도시 핵심 입지에 속하는 AC3블록 614세대와 AC4블록 496세대 등 총 1...",
+      "published_at": "2026-10-29T09:10+09:00",
+      "keywords": [
+        "청약",
+        "분양"
+      ],
+      "relevance": 7,
+      "category": "분양·청약",
+      "summary": [
+        "반도건설 카이브 유보라가 11월 2일 특별공급으로 청약 시작",
+        "계양신도시 첫 민간분양으로 국평 분양가는 7억원대",
+        "AC3블록 614세대와 AC4블록 496세대로 구성됨"
+      ],
+      "importance": 2,
+      "tags": [
+        "계양신도시",
+        "카이브 유보라",
+        "반도건설"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "739380763e36",
+      "title": "원주시, 2천132필지 개별공시지가 결정·공시",
+      "url": "https://www.yna.co.kr/view/AKR20261029043600062?input=1195m",
+      "naver_url": "https://n.news.naver.com/mnews/article/001/0016407712?sid=101",
+      "source": "연합뉴스",
+      "description": "이어 지난 20∼22일 원주시 부동산가격공시위원회 심의를 거쳐 개별공시지가를 결정했다. 결정된 개별공시지가는 부동산공시가격알리미에서 확인할 수 있다. 공시가격에 이의가 있는 토지소유자나 이해관계인은...",
+      "published_at": "2026-10-29T09:05+09:00",
+      "keywords": [
+        "부동산"
+      ],
+      "relevance": 5,
+      "category": "정책·규제",
+      "summary": [
+        "원주시가 2천132필지 개별공시지가를 결정·공시함",
+        "지난 20∼22일 부동산가격공시위원회 심의를 거침",
+        "결정된 지가는 부동산공시가격알리미에서 확인 가능함"
+      ],
+      "importance": 2,
+      "tags": [
+        "원주시",
+        "개별공시지가"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "32f0540f9363",
+      "title": "안산시, 개별공시지가 결정·공시…11월 27일까지 이의신청",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2011675",
+      "naver_url": "https://www.m-i.kr/news/articleView.html?idxno=2011675",
+      "source": "매일일보",
+      "description": "이후 감정평가법인의 검증과 토지소유자 의견 수렴, 안산시 부동산가격공시위원회 심의를 거쳐 개별공시지가를 결정했다. 개별공시지가는 토지의 지번별 단위면적(㎡)당 가격으로 안산시청 누리집과 부동산공시가격...",
+      "published_at": "2026-10-29T08:58+09:00",
+      "keywords": [
+        "부동산"
+      ],
+      "relevance": 5,
+      "category": "정책·규제",
+      "summary": [
+        "안산시가 개별공시지가를 결정·공시함",
+        "감정평가 검증과 소유자 의견 수렴 등을 거침",
+        "개별공시지가 이의신청은 11월 27일까지 가능함"
+      ],
+      "importance": 2,
+      "tags": [
+        "안산시",
+        "개별공시지가",
+        "이의신청"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "shinailbo.co.kr",
+          "title": "시흥시, 개별공시지가 1,429필지 결정·공시…11월 27일까지 이의신청",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5077252"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "7081d4f23a80",
+      "title": "오산시, AI 활용 '경기 안심 부동산' 캠페인으로 전세사기 예방",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2011622",
+      "naver_url": "https://www.m-i.kr/news/articleView.html?idxno=2011622",
+      "source": "매일일보",
+      "description": "오산시는 전세사기 등 부동산 거래 피해를 막기 위해 경기도와 함께 오는 11월 2일부터 27일까지 4주간 '경기 안심 부동산' 캠페인을 추진한다. 캠페인은 AI를 이용한 부동산 거래 위험요소 사전 점검과 안전전세관리단의...",
+      "published_at": "2026-10-29T08:48+09:00",
+      "keywords": [
+        "전세"
+      ],
+      "relevance": 6,
+      "category": "전월세",
+      "summary": [
+        "오산시가 경기도와 경기 안심 부동산 캠페인을 추진함",
+        "11월 2일부터 27일까지 4주간 전세사기 예방 추진",
+        "AI를 활용해 부동산 거래 위험요소를 사전 점검함"
+      ],
+      "importance": 2,
+      "tags": [
+        "오산시",
+        "전세사기",
+        "경기 안심 부동산"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "9da3d70762ca",
+      "title": "아파트값 상승에 오피스텔 반사이익 … 힐스테이트 송파더그리드 뜬다",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900042.html",
+      "naver_url": "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900042.html",
+      "source": "뉴데일리",
+      "description": "뉴데일리 박정환 기자 = 서울을 중심으로 아파트 매매값과 전세값이 동반 상승하면서 오피스텔이 대체제로 주목받고 있다. 한국부동산원에 따르면 전용 60㎡ 초과~85㎡ 이하 중형 오피스텔 매매가격은 2025년 5월부터...",
+      "published_at": "2026-10-29T08:44+09:00",
+      "keywords": [
+        "아파트 매매",
+        "전세",
+        "분양",
+        "청약"
+      ],
+      "relevance": 8,
+      "category": "기타",
+      "summary": [
+        "서울 중심으로 아파트 매매값과 전셋값이 동반 상승함",
+        "아파트 대체제로 오피스텔이 주목받고 있음",
+        "힐스테이트 송파더그리드를 소개하는 기사임"
+      ],
+      "importance": 2,
+      "tags": [
+        "오피스텔",
+        "힐스테이트 송파더그리드"
+      ],
+      "why": "",
+      "duplicates": 3,
+      "related": [
+        {
+          "source": "newsinside.kr",
+          "title": "'힐스테이트 송파더그리드' 분양…1,000만원 계약금에 중도금 무이자 혜...",
+          "url": "https://www.newsinside.kr/news/articleView.html?idxno=5035864"
+        },
+        {
+          "source": "wolyo.co.kr",
+          "title": "현대건설, '힐스테이트 송파더그리드' 분양...복정역 도보권 위치",
+          "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=319716"
+        },
+        {
+          "source": "newsfreezone.co.kr",
+          "title": "현대건설, 복정역 '힐스테이트 송파더그리드' 분양",
+          "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=716541"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "2ae54695f268",
+      "title": "강남구, '재건축, 함께 해법을 찾다' 정책소통간담회 열어",
+      "url": "https://www.yna.co.kr/view/AKR20261029034200004?input=1195m",
+      "naver_url": "https://n.news.naver.com/mnews/article/001/0016407599?sid=102",
+      "source": "연합뉴스",
+      "description": "간담회에서는 통합심의 기준 유연화 및 건축규제 완화, 전문가를 활용한 선제적 갈등관리, 리모델링사업 활성화, 임대·분양 혼합단지를 위한 행정 지원 요청 등 건의사항도 나왔다. 구는 이들 제안 가운데 자체적으로...",
+      "published_at": "2026-10-29T08:34+09:00",
+      "keywords": [
+        "분양",
+        "재건축"
+      ],
+      "relevance": 5,
+      "category": "재건축·개발",
+      "summary": [
+        "강남구가 재건축 해법을 찾는 정책소통간담회를 개최함",
+        "통합심의 기준 유연화와 건축규제 완화 건의가 나옴",
+        "리모델링 활성화와 임대·분양 혼합단지 행정 지원 요청"
+      ],
+      "importance": 2,
+      "tags": [
+        "강남구",
+        "재건축",
+        "리모델링"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "enewstoday.co.kr",
+          "title": "강남구, 재건축 속도 높이고 갈등 줄인다,재건축 정책 소통 간담회 개최",
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2485754"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "e0972dab973d",
+      "title": "안양시의회, 제315회 제1차 정례회 ‘성료’",
+      "url": "https://www.sportsseoul.com/news/read/1645032?ref=naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/468/0001276219?sid=102",
+      "source": "sportsseoul.com",
+      "description": "또 평촌신도시 특별정비구역 지정과 관양초등학교 주변 재개발사업, 무림아파트 재건축사업 등 주요 도시정비사업에 관한 의견청취 안건도 다뤘다. 특히 제10대 시의회 출범 이후 첫 결산 심사가 이뤄졌다. 각 상임위는...",
+      "published_at": "2026-10-29T08:25+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 5,
+      "category": "재건축·개발",
+      "summary": [
+        "안양시의회 제315회 제1차 정례회 종료됨",
+        "평촌신도시 특별정비구역 지정 의견청취 안건 다룸",
+        "관양초 주변 재개발과 무림아파트 재건축 안건도 다룸"
+      ],
+      "importance": 2,
+      "tags": [
+        "안양시",
+        "평촌신도시",
+        "무림아파트"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "enewstoday.co.kr",
+          "title": "안양시의회, 제315회 정례회 마무리",
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2485765"
+        }
+      ],
+      "source_known": false
+    },
+    {
+      "id": "7eca6a8afde9",
+      "title": "'챔피언스시티 1차' 31일부터 선착순 계약…동·호수 지정 가능",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026102816252046232",
+      "naver_url": "https://www.newsway.co.kr/news/view?ud=2026102816252046232",
+      "source": "뉴스웨이",
+      "description": "한국부동산원 자료에 따르면 광주 아파트 매매가격은 7월 0.07% 상승으로 돌아선 데 이어 8월에는 0.23%로 상승폭이 커졌다. 챔피언스시티 1차가 들어서는 북구도 8월 전월 대비 0.15% 올랐다. 업계에서는 반도체 클러스터...",
+      "published_at": "2026-10-29T07:02+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 4,
+      "category": "분양·청약",
+      "summary": [
+        "챔피언스시티 1차가 31일부터 선착순 계약 진행",
+        "선착순 계약 시 동·호수 지정이 가능한 단지임",
+        "광주 아파트 매매가격은 8월 0.23% 상승함"
+      ],
+      "importance": 2,
+      "tags": [
+        "챔피언스시티 1차",
+        "광주",
+        "선착순 계약"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    }
+  ],
+  "usage": {
+    "model": "gpt-6.1-sol",
+    "calls": 6,
+    "errors": 0,
+    "input_tokens": 13507,
+    "cached_tokens": 0,
+    "output_tokens": 5087,
+    "reasoning_tokens": 172,
+    "cost_usd": 0.0779,
+    "cost_krw": 109
+  }
+}
