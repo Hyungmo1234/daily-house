@@ -1,0 +1,1023 @@
+{
+  "date": "2026-10-30",
+  "date_label": "2026년 10월 30일 (금)",
+  "generated_at": "2026-10-30T09:08+09:00",
+  "keywords_searched": [
+    "부동산",
+    "아파트 매매",
+    "전세",
+    "청약",
+    "주택담보대출",
+    "분양",
+    "재건축"
+  ],
+  "overview": "고정형 주담대 평균 금리가 처음 5%를 넘으며 내 집 마련의 자금 부담이 커졌습니다. 서울은 아파트값 상승 속 매물이 늘고, 전세 선택지는 줄어드는 모습입니다. 입주 감소와 착공·인허가 증가가 엇갈려 당장 공급과 향후 물량을 나눠 볼 때입니다.",
+  "keywords": [
+    "주담대",
+    "서울아파트",
+    "주택공급",
+    "전세시장",
+    "청약",
+    "집값",
+    "재건축"
+  ],
+  "headline_ids": [
+    "f135e4e69302",
+    "1969ef612b16",
+    "445299579a6b"
+  ],
+  "categories": {
+    "금리·대출": 2,
+    "매매·시세": 8,
+    "정책·규제": 6,
+    "분양·청약": 8,
+    "재건축·개발": 1,
+    "전월세": 3
+  },
+  "raw_count": 154,
+  "articles": [
+    {
+      "id": "f135e4e69302",
+      "title": "결국 5% 돌파…고정형 주담대 금리 '사상 최고치'",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822206&plink=ORI&cooper=NAVER",
+      "naver_url": "https://n.news.naver.com/mnews/article/055/0001399282?sid=101",
+      "source": "SBS",
+      "description": "'고정형 주담대 5% 돌파'인데요, 주택담보대출 가운데 고정형 대출의 평균 금리가 사상 처음 5%를 넘어섰습니다. 한국은행에 따르면 지난달 새로 취급된 고정형 주택담보대출 평균 금리는 연 5.11%입니다. 관련 통계가...",
+      "published_at": "2026-10-30T08:02+09:00",
+      "keywords": [
+        "주택담보대출",
+        "전세"
+      ],
+      "relevance": 4,
+      "category": "금리·대출",
+      "summary": [
+        "고정형 주택담보대출 평균 금리가 사상 처음 5% 돌파함",
+        "지난달 신규 취급 고정형 주담대 평균 금리는 연 5.11% 기록함",
+        "한국은행에 따르면 고정형 주담대 평균 금리 사상 최고치 기록함"
+      ],
+      "importance": 5,
+      "tags": [
+        "고정형 주담대",
+        "대출금리",
+        "한국은행"
+      ],
+      "why": "신규 고정형 주담대 평균 금리가 연 5.11%로 사상 최고치를 기록했습니다. 대출로 집을 사려는 실수요자는 이자 부담을 반영해 매수 예산을 점검해야 합니다.",
+      "duplicates": 4,
+      "related": [
+        {
+          "source": "뉴스1",
+          "title": "고정형 주담대 5% 돌파에 11월 인상 전망까지…사면초가 '영끌족'",
+          "url": "https://www.news1.kr/economy/trend/6336919"
+        },
+        {
+          "source": "국민일보",
+          "title": "‘보금자리론까지…’ 주담대 고정금리 5% 넘었다",
+          "url": "https://www.kmib.co.kr/article/20261029502359"
+        },
+        {
+          "source": "한국경제",
+          "title": "\"영끌했는데 도저히 감당 안돼\"…주담대 이자 14년 만에 최고",
+          "url": "https://www.hankyung.com/article/2026103051447"
+        },
+        {
+          "source": "파이낸셜뉴스",
+          "title": "\"영끌해서 집샀는데 숨막혀요\" 주담대 이자, 14년 만에 최고…5% 돌파",
+          "url": "https://www.fnnews.com/news/202610300639137763"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "1969ef612b16",
+      "title": "올해 1~9월 서울 아파트 입주 줄고 착공·인허가 늘었다",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699555&ref=A",
+      "naver_url": "https://n.news.naver.com/mnews/article/056/0012283979?sid=101",
+      "source": "KBS",
+      "description": "서울 아파트 매매 거래량은 올해 1~9월 5만 7,254건으로 지난해 같은 기간보다 8.9% 줄었습니다. 서울 전월세 거래량은 올해 1~9월 63만 8,740건으로 지난해 같은 기간보다 2.8% 줄었습니다. 지난달 전국 미분양...",
+      "published_at": "2026-10-30T08:03+09:00",
+      "keywords": [
+        "아파트 매매",
+        "전세",
+        "분양",
+        "재건축",
+        "부동산"
+      ],
+      "relevance": 7,
+      "category": "매매·시세",
+      "summary": [
+        "올해 1~9월 서울 아파트 입주는 줄고 착공·인허가는 증가함",
+        "서울 아파트 매매는 5만 7,254건으로 전년 동기 대비 8.9% 감소함",
+        "서울 전월세 거래는 63만 8,740건으로 전년 동기 대비 2.8% 감소함"
+      ],
+      "importance": 4,
+      "tags": [
+        "서울 아파트",
+        "매매 거래량",
+        "전월세 거래량"
+      ],
+      "why": "서울 아파트 입주는 줄었지만 착공·인허가는 늘어 공급 지표의 방향이 엇갈렸습니다. 실수요자는 당장 입주할 물량과 향후 공급을 구분해 주거 계획을 세울 필요가 있습니다.",
+      "duplicates": 8,
+      "related": [
+        {
+          "source": "sentv.co.kr",
+          "title": "서울 주택 인허가 33% 늘었지만…경기 착공 급감에 수도권 전체 5.7%↓",
+          "url": "https://www.sentv.co.kr/article/view/sentv202610300013"
+        },
+        {
+          "source": "kpenews.com",
+          "title": "서울 주택 인허가 33% 늘었지만..수도권 공급 회복은 '아직'",
+          "url": "https://kpenews.com/View.aspx?No=4289794"
+        },
+        {
+          "source": "financialpost.co.kr",
+          "title": "서울 주택, 인허가 늘었지만 공급은 아직…'절반의 회복'",
+          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=283510"
+        },
+        {
+          "source": "YTN",
+          "title": "1~9월 수도권 주택 착공, 연간 목표치의 35.8%",
+          "url": "https://www.ytn.co.kr/_ln/0102_202610300721301061"
+        },
+        {
+          "source": "아주경제",
+          "title": "서울 주택 인허가·착공 동반 감소…공급 회복세 주츰",
+          "url": "https://www.ajunews.com/view/20261029171917706"
+        },
+        {
+          "source": "연합뉴스TV",
+          "title": "서울 1~9월 인허가 33% 증가…수도권 착공·준공은 감소",
+          "url": "http://www.yonhapnewstv.co.kr/news/AKR20261030084632S59"
+        },
+        {
+          "source": "이투데이",
+          "title": "9월 주택 인허가·착공 40%대 급감…수도권 공급 목표 ‘먹구름’",
+          "url": "https://www.etoday.co.kr/news/view/2641870"
+        },
+        {
+          "source": "이데일리",
+          "title": "“서울에 집 지어야 하는데”…인허가·착공마저 줄었다",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02348486645618168&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "445299579a6b",
+      "title": "[토허제 1년, 규제의 역설②] 갭투자 막았더니 전세도 줄어…실수요자까...",
+      "url": "https://www.dailian.co.kr/news/view/1708230/?sc=Naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/119/0003149149?sid=101",
+      "source": "데일리안",
+      "description": "정부가 서울 전역을 토지거래허가구역으로 지정한 지 1년이 지나면서 갭투자 억제 효과와 전세시장 위축 우려가 동시에 나타나고 있다. 갭투자는 줄었지만 전세 매물과 신규계약도 감소해 임차인의 주거 선택지가...",
+      "published_at": "2026-10-30T07:01+09:00",
+      "keywords": [
+        "전세",
+        "재건축"
+      ],
+      "relevance": 8,
+      "category": "정책·규제",
+      "summary": [
+        "서울 전역의 토지거래허가구역 지정 이후 1년 경과함",
+        "갭투자 억제 효과와 전세시장 위축 우려가 동시에 나타남",
+        "전세 매물과 신규계약 감소로 임차인 주거 선택지 축소됨"
+      ],
+      "importance": 4,
+      "tags": [
+        "토지거래허가구역",
+        "서울 전세",
+        "갭투자"
+      ],
+      "why": "서울 전역 토지거래허가구역 지정 이후 전세 매물과 신규계약 감소로 임차인의 선택지가 줄었습니다. 세입자는 갱신·이사 계획을 세울 때 확보 가능한 매물을 살펴야 합니다.",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "1505ad72b830",
+      "title": "“강남 얘기 아니었어?”…서울 전역서 아파트 매물 급증",
+      "url": "https://www.mk.co.kr/article/12191172",
+      "naver_url": "https://n.news.naver.com/mnews/article/009/0005756360?sid=101",
+      "source": "매일경제",
+      "description": "30일 부동산 빅데이터 플랫폼 아실 자료에 따르면 지난 28일 기준 서울의 아파트 매매 매물은 7만9919건으로... 남혁우 우리은행 부동산연구원은 “서울은 단기간 가격이 크게 상승한 데다 대출이 녹록지 않은 상황이라...",
+      "published_at": "2026-10-30T09:02+09:00",
+      "keywords": [
+        "부동산",
+        "아파트 매매",
+        "주택담보대출"
+      ],
+      "relevance": 3,
+      "category": "매매·시세",
+      "summary": [
+        "서울 전역에서 아파트 매매 매물이 급증함",
+        "아실 집계상 지난 28일 서울 매물 7만9919건 기록함",
+        "남혁우 연구원은 서울 가격 급등과 대출 어려움을 언급함"
+      ],
+      "importance": 4,
+      "tags": [
+        "서울",
+        "아파트 매물",
+        "아실"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "8fff0da8f295",
+      "title": "11월 전국 아파트 4.2만가구 공급…일반분양 한 달 만에 3배 ↑",
+      "url": "https://www.news1.kr/realestate/general/6337239",
+      "naver_url": "https://n.news.naver.com/mnews/article/421/0009259912?sid=101",
+      "source": "뉴스1",
+      "description": "30일 부동산 분석업체 리얼투데이에 따르면 다음 달 일반분양 물량은 3만 5788가구로 10월(1만 1875가구) 대비 201.4% 증가한다. 권역별로 보면 수도권 일반분양은 1만 7195가구(48%), 지방은 1만 8593가구(52%)로...",
+      "published_at": "2026-10-30T08:46+09:00",
+      "keywords": [
+        "부동산",
+        "청약",
+        "분양"
+      ],
+      "relevance": 5,
+      "category": "분양·청약",
+      "summary": [
+        "11월 전국 아파트 4만2천가구 공급 예정",
+        "일반분양 3만5788가구로 전월 대비 201.4% 증가",
+        "수도권 일반분양 1만7195가구, 지방 1만8593가구"
+      ],
+      "importance": 4,
+      "tags": [
+        "일반분양",
+        "공급물량",
+        "리얼투데이"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "조선비즈",
+          "title": "11월 전국 4만2393가구 분양, 일반분양도 3만5788가구",
+          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/30/W5SS7CW3JZAVLCARJWHVIEJZ64/?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "7d3822822d6b",
+      "title": "전국 최초 '지분적립형 분양주택' 수원 광교 내달 9일 청약",
+      "url": "https://www.newsis.com/view/NISX20261030_0003847591",
+      "naver_url": "https://n.news.naver.com/mnews/article/003/0014289396?sid=102",
+      "source": "뉴시스",
+      "description": "공급하고 청약 신청을 받는다. 집값의 25%만 먼저 내고 입주한 뒤 20년에 걸쳐 소유권을 차곡차곡 늘려가는... 9~11일 청약 신청을 받는다. 이번에 공급되는 광교 A17블록은 전용면적 59㎡ 지분적립형 240호와 전용 84...",
+      "published_at": "2026-10-30T08:17+09:00",
+      "keywords": [
+        "청약",
+        "부동산",
+        "분양"
+      ],
+      "relevance": 8,
+      "category": "분양·청약",
+      "summary": [
+        "수원 광교에서 전국 최초 지분적립형 분양주택 공급함",
+        "집값의 25%를 먼저 내고 20년에 걸쳐 소유권 확대함",
+        "광교 A17블록 전용 59㎡ 240호는 내달 9~11일 청약 접수함"
+      ],
+      "importance": 4,
+      "tags": [
+        "수원 광교",
+        "지분적립형 분양주택",
+        "광교 A17블록"
+      ],
+      "why": "",
+      "duplicates": 6,
+      "related": [
+        {
+          "source": "연합뉴스",
+          "title": "경기도, 전국 첫 '지분적립형 분양주택' 240가구 공급",
+          "url": "https://www.yna.co.kr/view/AKR20261030035400061?input=1195m"
+        },
+        {
+          "source": "뉴스1",
+          "title": "경기도, 광교에 지분적립형 분양주택 240호 공급…전국 최초",
+          "url": "https://www.news1.kr/local/gyeonggi/6337264"
+        },
+        {
+          "source": "서울경제",
+          "title": "경기도, 광교에 전국 첫 지분적립형 분양주택 공급",
+          "url": "https://www.sedaily.com/article/20108112?ref=naver"
+        },
+        {
+          "source": "sportsseoul.com",
+          "title": "경기도-GH, 수원 광교 지분적립형 분양주택 240호 공급",
+          "url": "https://www.sportsseoul.com/news/read/1645384?ref=naver"
+        },
+        {
+          "source": "헤럴드경제",
+          "title": "GH·동부건설, ‘광교 자연앤 센트레빌’ 30일 견본주택 개관",
+          "url": "https://biz.heraldcorp.com/article/10919305?ref=naver"
+        },
+        {
+          "source": "동아일보",
+          "title": "GH·동부건설, '광교 자연앤 센트레빌' 30일 견본주택 개관…지분적립형...",
+          "url": "https://edu.donga.com/news/articleView.html?idxno=113311"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "40c84c75de07",
+      "title": "인천 아파트값 25주만에 하락 전환... 미추홀구 하락 가팔라",
+      "url": "http://www.incheonin.com/news/articleView.html?idxno=121894",
+      "naver_url": "http://www.incheonin.com/news/articleView.html?idxno=121894",
+      "source": "incheonin.com",
+      "description": "29일 한국부동산원이 발표한 주간 아파트 가격 동향에 따르면 지난 26일 기준 인천 아파트 매매가격은 직전 주 대비 0.01% 내렸다. 인천 아파트 매매가격이 하락세를 보인 것은 지난 5월 4일 -0.01%를 기록한 이후 25주...",
+      "published_at": "2026-10-30T08:10+09:00",
+      "keywords": [
+        "아파트 매매",
+        "전세"
+      ],
+      "relevance": 5,
+      "category": "매매·시세",
+      "summary": [
+        "26일 기준 인천 아파트 매매가격이 전주 대비 0.01% 하락함",
+        "인천 아파트값은 25주 만에 하락세로 전환함",
+        "인천 미추홀구 아파트값의 하락세가 가파른 것으로 보도됨"
+      ],
+      "importance": 4,
+      "tags": [
+        "인천",
+        "미추홀구",
+        "아파트값"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "news.skbroadband.com",
+          "title": "인천 아파트값 하락세 전환…전세가 0.10% 상승",
+          "url": "https://news.skbroadband.com/news/articleView.html?idxno=241762"
+        }
+      ],
+      "source_known": false
+    },
+    {
+      "id": "edc60f2912cc",
+      "title": "서울 아파트값 90주째 최장기 상승, '서울 빠진' 신규택지 발표 효과는...",
+      "url": "https://www.ytn.co.kr/_ln/0102_202610300726345443",
+      "naver_url": "https://n.news.naver.com/mnews/article/052/0002425879?sid=101",
+      "source": "YTN",
+      "description": "서울 아파트값은 90주 연속으로 올랐는데요. 정부가 신규 주택공급 후보지를 발표했습니다. 다양한 경제... [앵커] 그러면서 전세가 불안해지니까 그게 매매 쪽으로 번져나가기도 하고요. 어제 홍지선 국토교통부 장관도...",
+      "published_at": "2026-10-30T07:26+09:00",
+      "keywords": [
+        "아파트 매매",
+        "전세"
+      ],
+      "relevance": 7,
+      "category": "매매·시세",
+      "summary": [
+        "서울 아파트값이 90주 연속 상승세 기록",
+        "정부가 신규 주택공급 후보지를 발표함",
+        "신규택지 발표 대상에서는 서울이 제외됨"
+      ],
+      "importance": 4,
+      "tags": [
+        "서울 아파트값",
+        "신규택지",
+        "주택공급"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "cefacbd9662d",
+      "title": "공공주택 사업기간 연장 올해만 36곳…공급 속도전 ‘무색’",
+      "url": "https://www.dailian.co.kr/news/view/1708082/?sc=Naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/119/0003149158?sid=101",
+      "source": "데일리안",
+      "description": "당초 지하 2층~지상 최고 25층, 아파트 5개 동, 공공임대주택 378가구 및 부대·복리시설로 계획됐으나 최고... 가뜩이나 정부의 주택 공급계획과 실제 입주 시점 간 괴리가 커지면서 매매·전월세 시장의 불안이...",
+      "published_at": "2026-10-30T07:24+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 6,
+      "category": "정책·규제",
+      "summary": [
+        "올해 공공주택 사업기간 연장 사업지가 36곳에 달함",
+        "기사에 언급된 공공임대주택은 당초 378가구로 계획",
+        "정부 주택 공급계획과 실제 입주 시점 간 괴리 확대"
+      ],
+      "importance": 4,
+      "tags": [
+        "공공주택",
+        "사업기간 연장",
+        "주택공급"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "b9ef9f7f28db",
+      "title": "대출은 조이고 집값은 오르고…멀어지는 내 집 마련 꿈 [소문난 잔칫상...",
+      "url": "https://www.dailian.co.kr/news/view/1708344/?sc=Naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/119/0003149144?sid=101",
+      "source": "데일리안",
+      "description": "집값 상승에 대출까지 제한…무주택자 구매력 약화 한국부동산원이 29일 발표한 ‘10월 넷째 주 주간 아파트가격 동향’에 따르면 서울 아파트 매매가격은 전주보다 0.09% 상승했다. 상승폭은 2주 연속 축소됐으나 90주 연속...",
+      "published_at": "2026-10-30T07:01+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 8,
+      "category": "매매·시세",
+      "summary": [
+        "집값 상승과 대출 제한으로 무주택자 구매력 약화함",
+        "10월 넷째 주 서울 아파트 매매가격은 전주 대비 0.09% 상승함",
+        "서울 아파트 매매가격 상승폭은 2주 연속 축소됨"
+      ],
+      "importance": 4,
+      "tags": [
+        "서울 아파트",
+        "대출 제한",
+        "한국부동산원"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "a5e7f1ebb3bf",
+      "title": "금융당국 ‘10년 고정 주담대’ 드라이브에도 시장 ‘시큰둥’",
+      "url": "https://www.dailian.co.kr/news/view/1708215/?sc=Naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/119/0003149139?sid=101",
+      "source": "데일리안",
+      "description": "금융당국이 만기 10년 이상 장기 고정금리 주택담보대출(주담대) 확대를 재추진한다. 하지만 이미 고정형 주담대 금리가 변동형보다 높은 수준으로 치솟은 데다 차주들의 주담대 평균 유지 기간이 4~5년에 그쳐 갈아탈...",
+      "published_at": "2026-10-30T06:43+09:00",
+      "keywords": [
+        "주택담보대출"
+      ],
+      "relevance": 4,
+      "category": "금리·대출",
+      "summary": [
+        "금융당국이 만기 10년 이상 고정금리 주담대 확대를 재추진함",
+        "고정형 주담대 금리가 변동형보다 높은 수준임",
+        "차주들의 주담대 평균 유지 기간은 4~5년임"
+      ],
+      "importance": 4,
+      "tags": [
+        "금융당국",
+        "고정금리",
+        "주택담보대출"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "abb5daaf9b23",
+      "title": "압구정 재건축은 수십억 낮춰 거래…강남권 기축은 신고가",
+      "url": "https://www.news1.kr/realestate/general/6336651",
+      "naver_url": "https://n.news.naver.com/mnews/article/421/0009259729?sid=101",
+      "source": "뉴스1",
+      "description": "세제 개편을 앞두고 일부 재건축 단지에서는 가격을 낮춘 매물이 거래되는 반면, 입주가 가능한 기존 아파트에서는 신고가 거래가 이어지고 있다. 추가 분담금과 사업 기간 등 재건축의 불확실성도 매수자들의...",
+      "published_at": "2026-10-30T06:05+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 4,
+      "category": "매매·시세",
+      "summary": [
+        "압구정 재건축 단지에서 수십억원 낮춘 거래가 발생함",
+        "입주 가능한 강남권 기존 아파트는 신고가 거래가 이어짐",
+        "일부 재건축 단지는 세제 개편을 앞두고 낮춘 가격에 거래됨"
+      ],
+      "importance": 4,
+      "tags": [
+        "압구정",
+        "강남권",
+        "재건축"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "77961abd83aa",
+      "title": "서울 하이엔드 아파트 청약 경쟁률 119대 1…일반 단지의 3.8배",
+      "url": "http://www.newsdream.kr/news/articleView.html?idxno=121170",
+      "naver_url": "http://www.newsdream.kr/news/articleView.html?idxno=121170",
+      "source": "newsdream.kr",
+      "description": "30일 부동산R114에 따르면 올해 1~9월 서울에서 분양한 하이엔드 브랜드 아파트는 일반공급 815세대 모집에... 한 부동산 전문가는 \"과거에는 건설사 브랜드 자체가 아파트 선택의 중요한 기준이었다면, 최근에는 브랜드에...",
+      "published_at": "2026-10-30T09:02+09:00",
+      "keywords": [
+        "부동산",
+        "청약",
+        "분양",
+        "재건축"
+      ],
+      "relevance": 6,
+      "category": "분양·청약",
+      "summary": [
+        "서울 하이엔드 아파트 청약 경쟁률 119대 1 기록함",
+        "일반 단지 대비 청약 경쟁률이 3.8배에 달함",
+        "올해 1~9월 서울 하이엔드 일반공급 815세대 모집함"
+      ],
+      "importance": 3,
+      "tags": [
+        "서울",
+        "하이엔드 아파트",
+        "청약 경쟁률"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "3a0af3798d0f",
+      "title": "3기 신도시 중 가장 빠른 계양신도시…첫 입주·민간분양 출격",
+      "url": "https://realty.chosun.com/site/data/html_dir/2026/10/30/2026103000728.html",
+      "naver_url": "https://realty.chosun.com/site/data/html_dir/2026/10/30/2026103000728.html",
+      "source": "조선일보",
+      "description": "3기 신도시 중 하남 교산, 남양주 왕숙 등에 비해 상대적으로 관심도가 낮았던 계양신도시가 최근 부동산... 인근 부동산 시장에서는 신도시 개발에 따른 주거 수요 유입과 주변 집값 상승에 대한 기대도 나온다....",
+      "published_at": "2026-10-30T08:44+09:00",
+      "keywords": [
+        "부동산",
+        "청약",
+        "분양"
+      ],
+      "relevance": 8,
+      "category": "분양·청약",
+      "summary": [
+        "계양신도시는 3기 신도시 중 가장 빠른 사업 진행",
+        "계양신도시에서 첫 입주와 민간분양 추진함",
+        "인근 시장에서 주거 수요 유입과 주변 집값 상승 기대 제기됨"
+      ],
+      "importance": 3,
+      "tags": [
+        "계양신도시",
+        "3기 신도시",
+        "민간분양"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "d4dba8fd0cd7",
+      "title": "분양가 상한제 아파트 잇단 분양…청약 흥행 이어갈까?",
+      "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/30/2026103090061.html",
+      "naver_url": "https://n.news.naver.com/mnews/article/448/0000647921?sid=101",
+      "source": "TV조선",
+      "description": "최근 집값이 급등하면서 청약 열기도 다시 뜨거워지고 있습니다. 특히 분양가 상한제가 적용되는 곳은 주변 시세보다 저렴해, 청약 흥행이 이어지는데, 인천 청라를 비롯해 수도권에 분양가 상한제 아파트 분양이...",
+      "published_at": "2026-10-30T08:20+09:00",
+      "keywords": [
+        "청약"
+      ],
+      "relevance": 9,
+      "category": "분양·청약",
+      "summary": [
+        "최근 집값 급등과 함께 청약 열기도 다시 높아지는 상황",
+        "분양가 상한제 적용 아파트는 주변 시세보다 저렴함",
+        "인천 청라를 비롯한 수도권에서 상한제 아파트 분양 이어짐"
+      ],
+      "importance": 3,
+      "tags": [
+        "분양가 상한제",
+        "인천 청라",
+        "수도권 청약"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "b5c1d0937273",
+      "title": "IPARK현산, 매출 줄어도 이익은 늘었다…도시정비 수주 확대",
+      "url": "https://www.fntimes.com/html/view.php?ud=202610291722212793048b718333_18",
+      "naver_url": "https://www.fntimes.com/html/view.php?ud=202610291722212793048b718333_18",
+      "source": "한국금융신문",
+      "description": "이 밖에도 광명 하안주공6·7단지 재건축, 고양능곡3구역 재개발, 숙대입구역세권 장기전세주택 도시정비형 재개발 등을 주요 수주 대상으로 검토하고 있다. IPARK현대산업개발은 지난 26일 공시를 통해 올해 연간...",
+      "published_at": "2026-10-30T08:02+09:00",
+      "keywords": [
+        "전세",
+        "재건축"
+      ],
+      "relevance": 7,
+      "category": "재건축·개발",
+      "summary": [
+        "IPARK현대산업개발은 매출 감소에도 이익 증가",
+        "광명 하안주공6·7단지 재건축 수주 검토",
+        "고양능곡3구역 재개발도 주요 수주 대상으로 검토"
+      ],
+      "importance": 3,
+      "tags": [
+        "IPARK현대산업개발",
+        "도시정비",
+        "하안주공"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "ecdc6b8defb1",
+      "title": "'편법 증여 의심'…위법 의심 주택 직거래 10건 중 4건 서울 강남3구에 ...",
+      "url": "https://www.pressian.com/pages/articles/2026102914260541158?utm_source=naver&utm_medium=search",
+      "naver_url": "https://n.news.naver.com/mnews/article/002/0002463452?sid=101",
+      "source": "프레시안",
+      "description": "거래 가격이나 계약을 거짓신고한 것으로 의심되는 행위 122건, 대출자금 용도 외 유용 16건, 공인중개사법 위반 4건, 명의신탁 의심 6건, 전세사기 의심 1건도 적발됐다. 한편 국토부는 올해 1분기 서울과 경기의...",
+      "published_at": "2026-10-30T07:15+09:00",
+      "keywords": [
+        "전세"
+      ],
+      "relevance": 5,
+      "category": "정책·규제",
+      "summary": [
+        "위법 의심 주택 직거래 10건 중 4건이 강남3구",
+        "거래 가격·계약 거짓신고 의심 행위 122건 적발",
+        "대출자금 용도 외 유용 16건과 명의신탁 의심 6건 적발"
+      ],
+      "importance": 3,
+      "tags": [
+        "주택 직거래",
+        "강남3구",
+        "편법 증여"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "cbci.co.kr",
+          "title": "[부동산 기획조사] 위법 의심 주택 직거래 10건 중 4건은 '강남 3구'에 집...",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=620715"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "b61438fa581a",
+      "title": "용산공원에 아파트를 지으면 안 되는 5가지 이유",
+      "url": "https://shindonga.donga.com/3/all/13/6435904/1",
+      "naver_url": "https://n.news.naver.com/mnews/article/262/0000019798?sid=102",
+      "source": "동아일보",
+      "description": "군인아파트 부지 공원에 편입한 이유 ● 10년 내 지어도 실질적 공급 효과 없어 ● 미군 잔류 부지 반환 시점... 8월 13일 정부는 ‘전월세 및 매매시장 안정을 위한 주택 신속공급 방안’을 발표하면서 수도권에 23만 호...",
+      "published_at": "2026-10-30T07:02+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 4,
+      "category": "정책·규제",
+      "summary": [
+        "용산공원에 아파트를 지으면 안 되는 다섯 이유를 제시함",
+        "군인아파트 부지를 공원에 편입한 이유를 다룸",
+        "정부는 8월 13일 주택 신속공급 방안을 발표함"
+      ],
+      "importance": 3,
+      "tags": [
+        "용산공원",
+        "주택 신속공급 방안"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "8d676e450ca7",
+      "title": "전세 밀어냈더니 집을 샀다…'생존 매수'의 역설 [더 머니이스트-심형석...",
+      "url": "https://www.hankyung.com/article/202610264514Q",
+      "naver_url": "https://n.news.naver.com/mnews/article/015/0005348329?sid=101",
+      "source": "한국경제",
+      "description": "전국 역시 아파트 매매가격이 3.08% 오르는 동안 전셋값은 4.15% 상승했습니다. 집값보다 전셋값이 더 빠르게 오르는 현상이 서울과 전국에서 동시에 나타난 것입니다. 가격만 오른 것도 아닙니다. 올해 초와 비교해 지난 26일...",
+      "published_at": "2026-10-30T06:31+09:00",
+      "keywords": [
+        "아파트 매매",
+        "재건축"
+      ],
+      "relevance": 5,
+      "category": "전월세",
+      "summary": [
+        "전국 아파트 매매가격이 3.08% 상승함",
+        "같은 기간 전국 아파트 전셋값은 4.15% 상승",
+        "서울과 전국에서 전셋값 상승률이 집값 상승률 상회"
+      ],
+      "importance": 3,
+      "tags": [
+        "전셋값",
+        "아파트 매매가격",
+        "서울"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "8a3e6d1d7944",
+      "title": "[한국 건설, 80년의 기록]⑯ 아파트로 쌓아 올린 48년…제일건설, 이제 ...",
+      "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193928",
+      "naver_url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193928",
+      "source": "wikileaks-kr.org",
+      "description": "청약에 9만5000여명이 몰렸고, 1순위에만 7만3769명이 신청했다. 분양가상한제로 주변 시세보다 싸게 나와 '5억 로또'라는 별명이 붙었다. 당첨 가점은 최고 82점까지 올랐다. 지방 주택업체의 브랜드가 서울 청약시...",
+      "published_at": "2026-10-30T09:06+09:00",
+      "keywords": [
+        "청약",
+        "분양"
+      ],
+      "relevance": 6,
+      "category": "분양·청약",
+      "summary": [
+        "청약에 9만5000여명, 1순위에 7만3769명 신청함",
+        "분양가상한제로 주변 시세보다 싸게 공급됨",
+        "'5억 로또'로 불리며 당첨 가점 최고 82점 기록함"
+      ],
+      "importance": 2,
+      "tags": [
+        "제일건설",
+        "분양가상한제",
+        "청약"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "1cf9046adb44",
+      "title": "보령시, 개별공시지가 이의신청 11월 27일까지",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3737190",
+      "naver_url": "https://www.gukjenews.com/news/articleView.html?idxno=3737190",
+      "source": "gukjenews.com",
+      "description": "토지정보과, 읍·면·동 행정복지센터, 원산출장소를 직접 방문하거나, '부동산공시가격알리미' 누리집을... 또는 '부동산공시가격알리미' 누리집을 통해 제출할 수 있다. 접수된 이의신청은 재조사와 감정평가사의...",
+      "published_at": "2026-10-30T09:02+09:00",
+      "keywords": [
+        "부동산"
+      ],
+      "relevance": 5,
+      "category": "정책·규제",
+      "summary": [
+        "보령시 개별공시지가 이의신청은 11월 27일까지 접수함",
+        "토지정보과와 읍·면·동 행정복지센터 등에서 방문 접수함",
+        "부동산공시가격알리미 누리집으로도 제출 가능함"
+      ],
+      "importance": 2,
+      "tags": [
+        "보령시",
+        "개별공시지가",
+        "이의신청"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "chungnamilbo.co.kr",
+          "title": "보령시, 2026년 7월 1일 기준 개별공시지가 결정·공시 및 이의신청 접수",
+          "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=917735"
+        }
+      ],
+      "source_known": false
+    },
+    {
+      "id": "f93c49dbb49e",
+      "title": "영동군, 토지 1천124필지 개별공시지가 공개 및 열람·이의신청 운영",
+      "url": "http://www.breaknews.com/1246931",
+      "naver_url": "http://www.breaknews.com/1246931",
+      "source": "breaknews.com",
+      "description": "방문이 어려운 경우에는 부동산공시가격알리미 누리집을 통해 온라인으로도 간편하게 신청이 가능하다. 이의신청이 접수된 토지는 담당 공무원이 토지 특성과...",
+      "published_at": "2026-10-30T09:02+09:00",
+      "keywords": [
+        "부동산"
+      ],
+      "relevance": 6,
+      "category": "정책·규제",
+      "summary": [
+        "영동군이 토지 1124필지 개별공시지가 공개함",
+        "개별공시지가 열람과 이의신청 절차를 운영함",
+        "부동산공시가격알리미에서 온라인 이의신청 가능함"
+      ],
+      "importance": 2,
+      "tags": [
+        "영동군",
+        "개별공시지가",
+        "이의신청"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "d057c8970685",
+      "title": "‘문수로 비스타 더파크’, 11월 4일부터 잔여 세대 공급… 분양조건 공...",
+      "url": "https://biz.heraldcorp.com/article/10918844?ref=naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/016/0002716478?sid=101",
+      "source": "헤럴드경제",
+      "description": "진행된 청약에서는 전용면적 68㎡B타입이 최고 8대 1의 경쟁률을 기록했다. 68㎡A타입은 3.68대 1, 84㎡A타입은 1.28대 1의 경쟁률을 나타냈다. 지난 10월 26일 잔여 세대를 대상으로 진행된 무순위(사후) 청약에서는 68...",
+      "published_at": "2026-10-30T09:01+09:00",
+      "keywords": [
+        "청약",
+        "분양"
+      ],
+      "relevance": 3,
+      "category": "분양·청약",
+      "summary": [
+        "문수로 비스타 더파크가 11월 4일부터 잔여 세대 공급함",
+        "청약에서 전용 68㎡B타입 최고 8대 1 기록함",
+        "68㎡A는 3.68대 1, 84㎡A는 1.28대 1 기록함"
+      ],
+      "importance": 2,
+      "tags": [
+        "문수로 비스타 더파크",
+        "잔여 세대",
+        "청약"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "a2a078e3bc35",
+      "title": "신축에 살고 싶은데 집 사긴 부담… 8년 임대로 만나는 ‘부경경마공원...",
+      "url": "https://www.dt.co.kr/article/12092153?ref=naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/029/0003056203?sid=101",
+      "source": "디지털타임스",
+      "description": "전 세대 전세형 공공지원 민간임대주택으로 공급돼 월 임대료 부담을 없애고 보증금 중심으로 주거비를 계획할 수 있다. 임대기간은 8년이다. 단기간 전월세 계약을 반복하는 대신 비교적 장기간 한곳에서 거주할 수 있어...",
+      "published_at": "2026-10-30T09:00+09:00",
+      "keywords": [
+        "전세",
+        "분양"
+      ],
+      "relevance": 5,
+      "category": "전월세",
+      "summary": [
+        "전 세대 전세형 공공지원 민간임대주택으로 공급",
+        "월 임대료 없이 보증금 중심으로 주거비 계획 가능",
+        "임대기간은 8년으로 장기간 한곳에서 거주 가능"
+      ],
+      "importance": 2,
+      "tags": [
+        "공공지원 민간임대",
+        "전세형",
+        "8년 임대"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "c4e514c36c9a",
+      "title": "전세사기 고소, 계약 당시 무엇을 숨겼는지가 핵심",
+      "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071011",
+      "naver_url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071011",
+      "source": "ksilbo.co.kr",
+      "description": "피해가 발생했다면 계약 체결부터 보증금 지급, 권리관계 변화와 반환 거절까지 시간순으로 자료를 정리해 형사고소와 보증금 회수절차를 함께 검토해야 한다. 도움말: 법무법인 오현 양제민 부동산전문변호사",
+      "published_at": "2026-10-30T09:00+09:00",
+      "keywords": [
+        "부동산",
+        "전세"
+      ],
+      "relevance": 7,
+      "category": "전월세",
+      "summary": [
+        "전세사기 고소는 계약 당시 숨긴 내용이 핵심임",
+        "계약부터 보증금 지급·반환 거절까지 자료 정리가 필요함",
+        "형사고소와 보증금 회수절차의 병행 검토를 안내함"
+      ],
+      "importance": 2,
+      "tags": [
+        "전세사기",
+        "보증금",
+        "형사고소"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "6c5f1359ac63",
+      "title": "\"아파트 포기해야 하나\"…내 집 마련 실수요자 신축빌라로 눈 돌리는 이...",
+      "url": "https://www.eroun.net/news/articleView.html?idxno=93799",
+      "naver_url": "https://www.eroun.net/news/articleView.html?idxno=93799",
+      "source": "eroun.net",
+      "description": "부동산업계에서는 최근 내 집 마련의 기준이 '어떤 주택을 가장 선호하는가'에서 '내 소득으로 감당할 수... 빌라정보통 관계자는 \"20년간 부동산 현장에서 상담하다 보면 아파트를 사고 싶지만 자금 부담 때문에 내 집 마련...",
+      "published_at": "2026-10-30T09:00+09:00",
+      "keywords": [
+        "부동산",
+        "아파트 매매",
+        "분양"
+      ],
+      "relevance": 6,
+      "category": "매매·시세",
+      "summary": [
+        "내 집 마련 실수요자들이 신축빌라로 눈을 돌림",
+        "업계는 주택 마련 기준이 소득 감당 여부로 바뀐다고 언급함",
+        "빌라정보통 관계자는 아파트 구입 자금 부담을 언급함"
+      ],
+      "importance": 2,
+      "tags": [
+        "신축빌라",
+        "실수요자",
+        "빌라정보통"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "2018eb357352",
+      "title": "더샵 분당하이스트 58가구, 11월 2일 무순위 청약…분양가 23억200만원부...",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=398352",
+      "naver_url": "https://www.vegannews.co.kr/news/article.html?no=398352",
+      "source": "vegannews.co.kr",
+      "description": "수도권 무주택세대구성원 대상…청약통장 불필요 추가선택품목 비용 별도 경기 성남시 분당구 정자동의 ‘더샵 분당하이스트’가 11월 2일 잔여 58가구에 대한 무순위 청약을 받는다. 청약통장은 필요하지 않지만...",
+      "published_at": "2026-10-30T08:50+09:00",
+      "keywords": [
+        "청약",
+        "분양"
+      ],
+      "relevance": 8,
+      "category": "분양·청약",
+      "summary": [
+        "더샵 분당하이스트 잔여 58가구 무순위 청약 진행",
+        "11월 2일 수도권 무주택세대구성원 대상 접수",
+        "청약통장은 불필요하며 추가선택품목 비용은 별도"
+      ],
+      "importance": 2,
+      "tags": [
+        "더샵 분당하이스트",
+        "무순위 청약",
+        "성남시 분당구"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "179b0f2c166c",
+      "title": "‘구해줘홈즈’ 아산 신도시 집값",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202610300068",
+      "naver_url": "https://www.bntnews.co.kr/article/view/bnt202610300068",
+      "source": "bntnews.co.kr",
+      "description": "홈즈’에서 충남 아산 신도시의 다양한 주택과 매매가 11억 원의 황토 한옥이 공개됐다. 삼성디스플레이 인근 아파트부터 외국인 출장객을 위한 단기 임대 건물까지 눈길을 끌었다. 지난 23일 방송된 MBC ‘구해줘!...",
+      "published_at": "2026-10-30T08:16+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 9,
+      "category": "매매·시세",
+      "summary": [
+        "MBC 구해줘 홈즈에서 충남 아산 신도시 주택 소개함",
+        "방송에서 매매가 11억 원의 황토 한옥 공개함",
+        "삼성디스플레이 인근 아파트와 단기 임대 건물 소개함"
+      ],
+      "importance": 2,
+      "tags": [
+        "아산 신도시",
+        "구해줘 홈즈",
+        "황토 한옥"
+      ],
+      "why": "",
+      "duplicates": 3,
+      "related": [
+        {
+          "source": "enews.imbc.com",
+          "title": "'홈즈' 장동민·박소영·강다은, 아산 신도시 임장 출격",
+          "url": "http://enews.imbc.com/News/RetrieveNewsInfo/522969"
+        },
+        {
+          "source": "topstarnews.net",
+          "title": "구해줘! 홈즈, KTX 40분 거리 아산 신도시 임장… 초역세권부터 황토 한...",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16263098"
+        },
+        {
+          "source": "mhnse.com",
+          "title": "장동민·박소영·강다은, 아산 신도시 매물 탐방…11억 원 한옥 등장 ('...",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1645189"
+        }
+      ],
+      "source_known": false
+    }
+  ],
+  "usage": {
+    "model": "gpt-6.1-sol",
+    "calls": 6,
+    "errors": 0,
+    "input_tokens": 13382,
+    "cached_tokens": 0,
+    "output_tokens": 4354,
+    "reasoning_tokens": 157,
+    "cost_usd": 0.0703,
+    "cost_krw": 98
+  }
+}
