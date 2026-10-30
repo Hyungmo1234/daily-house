@@ -1,0 +1,1108 @@
+{
+  "date": "2026-10-31",
+  "date_label": "2026년 10월 31일 (토)",
+  "generated_at": "2026-10-31T03:36+09:00",
+  "keywords_searched": [
+    "부동산",
+    "아파트 매매",
+    "전세",
+    "청약",
+    "주택담보대출",
+    "분양",
+    "재건축"
+  ],
+  "overview": "서울 아파트값은 상승을 이어갔지만 오름폭은 2주 연속 둔화했고, 강남3구는 하락세를 보였습니다. 11월 전국 4만2393가구 분양과 하나은행 비대면 주담대 재개를 앞두고, 실수요자는 청약 일정과 자금 조달 조건을 함께 살펴볼 때입니다.",
+  "keywords": [
+    "아파트값",
+    "분양",
+    "청약",
+    "주담대",
+    "주택공급",
+    "재건축",
+    "수도권"
+  ],
+  "headline_ids": [
+    "662a7940bb96",
+    "23abe29a553a",
+    "d7efb7c10bd5"
+  ],
+  "categories": {
+    "분양·청약": 7,
+    "매매·시세": 7,
+    "금리·대출": 1,
+    "정책·규제": 7,
+    "재건축·개발": 2,
+    "기타": 3,
+    "전월세": 1
+  },
+  "raw_count": 150,
+  "articles": [
+    {
+      "id": "d7efb7c10bd5",
+      "title": "11월 분양시장 큰 장 선다…전국 4만2393가구 공급",
+      "url": "https://www.asiatime.co.kr/article/20261030500054",
+      "naver_url": "https://www.asiatime.co.kr/article/20261030500054",
+      "source": "asiatime.co.kr",
+      "description": "11월 주요 분양 예정 단지(표=리얼투데이) 31일 부동산 전문 리서치업체 리얼투데이에 따르면 11월 전국 분양 예정 물량은 55개 단지, 총 4만2393가구다. 임대 물량을 포함한 수치로 오피스텔은 제외했다. 이 가운데...",
+      "published_at": "2026-10-31T00:02+09:00",
+      "keywords": [
+        "부동산",
+        "청약",
+        "분양",
+        "재건축"
+      ],
+      "relevance": 5,
+      "category": "분양·청약",
+      "summary": [
+        "11월 전국 55개 단지에서 분양 예정.",
+        "리얼투데이 집계 예정 물량은 총 4만2393가구.",
+        "임대 물량을 포함하고 오피스텔은 제외한 수치."
+      ],
+      "importance": 4,
+      "tags": [
+        "11월 분양",
+        "전국 공급",
+        "리얼투데이"
+      ],
+      "why": "11월 전국 55개 단지에서 임대를 포함해 4만2393가구가 분양될 예정입니다. 청약을 준비하는 무주택 실수요자는 관심 지역의 공급 일정과 단지별 조건을 비교할 시점입니다.",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "662a7940bb96",
+      "title": "서울 아파트값 2주 연속 둔화…강남3구 하락세 이어져",
+      "url": "https://www.theguru.co.kr/news/article.html?no=109012",
+      "naver_url": "https://www.theguru.co.kr/news/article.html?no=109012",
+      "source": "theguru.co.kr",
+      "description": "31일 한국부동산원에 따르면 이번주(26일 기준) 서울 아파트 매매가격은 전주(0.13%) 대비 0.09% 올랐다. 상승 폭은 축소됐지만 지난해 2월 첫째 주(0.02%) 상승 전환한 이후 90주째 오름세를 이어갔다. 부동산원 관계자는...",
+      "published_at": "2026-10-31T00:02+09:00",
+      "keywords": [
+        "부동산",
+        "아파트 매매",
+        "전세",
+        "재건축"
+      ],
+      "relevance": 5,
+      "category": "매매·시세",
+      "summary": [
+        "26일 기준 서울 아파트 매매가격 0.09% 상승.",
+        "전주 0.13%보다 상승 폭 축소, 90주째 상승.",
+        "서울 상승 폭 2주 연속 둔화, 강남3구 하락 지속."
+      ],
+      "importance": 4,
+      "tags": [
+        "서울 아파트값",
+        "강남3구",
+        "한국부동산원"
+      ],
+      "why": "서울 아파트값 상승 폭이 2주 연속 줄고 강남3구는 하락세를 이어갔습니다. 실수요자와 투자자는 서울 전체의 상승세와 지역별 흐름을 구분해 매수 판단을 할 필요가 있습니다.",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "23abe29a553a",
+      "title": "하나은행, 비대면 주담대 판매 재개…내달 2일부터",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026103019235017924",
+      "naver_url": "https://www.newsway.co.kr/news/view?ud=2026103019235017924",
+      "source": "뉴스웨이",
+      "description": "하나은행이 가계대출 총량 관리를 위해 중단했던 비대면 주택담보대출 판매를 재개한다. 정부의 가계대출 관리 기조에 따라 제한했던 대출 취급을 다시 허용해 실수요자의 자금 조달을 지원한다는 방침이다. 30일...",
+      "published_at": "2026-10-30T19:24+09:00",
+      "keywords": [
+        "주택담보대출"
+      ],
+      "relevance": 5,
+      "category": "금리·대출",
+      "summary": [
+        "하나은행이 내달 2일부터 비대면 주담대 판매 재개",
+        "가계대출 총량 관리를 위해 중단했던 상품 판매 재개",
+        "대출 취급을 다시 허용해 실수요자 자금 조달 지원 방침"
+      ],
+      "importance": 3,
+      "tags": [
+        "하나은행",
+        "주택담보대출",
+        "가계대출"
+      ],
+      "why": "하나은행이 내달 2일부터 중단했던 비대면 주택담보대출 판매를 재개합니다. 주택 구입 자금을 마련하는 실수요자는 다시 열린 대출 창구의 이용 조건을 확인할 필요가 있습니다.",
+      "duplicates": 15,
+      "related": [
+        {
+          "source": "뉴데일리",
+          "title": "하나은행, 내달 2일부터 비대면 주담대 빗장 푼다 … 혼합형 MCI·MCG도 재...",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/30/2026103000298.html"
+        },
+        {
+          "source": "데일리안",
+          "title": "하나은행, 다음달 2일부터 비대면 주담대 신규 취급 재개",
+          "url": "https://www.dailian.co.kr/news/view/1708942/?sc=Naver"
+        },
+        {
+          "source": "헤럴드경제",
+          "title": "하나은행, 11월부터 비대면 주담대 신규 취급 재개",
+          "url": "https://biz.heraldcorp.com/article/10920893?ref=naver"
+        },
+        {
+          "source": "서울경제",
+          "title": "하나은행, 비대면 신규 주담대 3개월 만에 재개",
+          "url": "https://www.sedaily.com/article/20108400?ref=naver"
+        },
+        {
+          "source": "아주경제",
+          "title": "하나은행, 비대면 주담대 내달 2일부터 일부 재개",
+          "url": "https://www.ajunews.com/view/20261030161726101"
+        },
+        {
+          "source": "sateconomy.co.kr",
+          "title": "하나은행, 11월 2일부터 비대면 주담대 일부 재개…혼합형 모기지보험도...",
+          "url": "https://sateconomy.co.kr/news/view/1065613116233494"
+        },
+        {
+          "source": "segyebiz.com",
+          "title": "하나은행, 내달부터 비대면 주담대 재개",
+          "url": "http://www.segyebiz.com/newsView/20261030512754?OutUrl=naver"
+        },
+        {
+          "source": "cstimes.com",
+          "title": "하나은행, 내달 2일부터 비대면 주담대 판매 재개",
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=726070"
+        },
+        {
+          "source": "ziksir.com",
+          "title": "하나은행, 11월부터 비대면 주담대 신규 취급 재개",
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=151504"
+        },
+        {
+          "source": "seoulfn.com",
+          "title": "하나은행, '비대면 주담대' 재개···\"실수요자 대상 취급\"",
+          "url": "https://www.seoulfn.com/news/articleView.html?idxno=641507"
+        },
+        {
+          "source": "srtimes.kr",
+          "title": "하나은행, 비대면 주담대 3개월 만에 재개…MCI·MCG도 일부 허용",
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=216361"
+        },
+        {
+          "source": "financialpost.co.kr",
+          "title": "하나은행, 3개월 만에 비대면 주담대 재개...대출 문턱 낮춘다",
+          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=283714"
+        },
+        {
+          "source": "4th.kr",
+          "title": "하나은행, 비대면 주담대 3개월 만에 재개…모기지보험도 일부 허용",
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2120822"
+        },
+        {
+          "source": "delighti.co.kr",
+          "title": "하나은행, 비대면 주담대 신규 취급 재개…\"실수요자 지원\"",
+          "url": "https://www.delighti.co.kr/news/articleView.html?idxno=124165"
+        },
+        {
+          "source": "뉴스1",
+          "title": "연말 주담대 빗장 푼다…하나은행, 비대면 주담대·MCI 재개",
+          "url": "https://www.news1.kr/finance/general-finance/6338039"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "d3507969faa5",
+      "title": "수도권 아파트값 0.14% 오를 때 전남광주는 0.02%…집값 회복 격차",
+      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078301",
+      "naver_url": "https://www.jnilbo.com/news/articleView.html?idxno=90000078301",
+      "source": "jnilbo.com",
+      "description": "29일 한국부동산원이 발표한 '전국주택가격동향조사'(10월 4주·26일 기준)에 따르면 전남광주 아파트... 한국부동산원 관계자는 \"수도권 중심의 상승 흐름이 이어지는 가운데 지방에서는 세종과 제주처럼 지역별...",
+      "published_at": "2026-10-31T00:07+09:00",
+      "keywords": [
+        "부동산",
+        "아파트 매매",
+        "전세"
+      ],
+      "relevance": 7,
+      "category": "매매·시세",
+      "summary": [
+        "10월 4주 수도권 아파트값이 0.14% 상승함",
+        "같은 기간 전남광주 아파트값은 0.02% 상승함",
+        "한국부동산원은 수도권 중심의 상승 흐름이 이어진다고 설명함"
+      ],
+      "importance": 4,
+      "tags": [
+        "수도권",
+        "전남광주",
+        "아파트값"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "d9e98b6c661b",
+      "title": "5년 만에 서울 아파트 분양가 2배…평당 5400만 원",
+      "url": "https://www.munhwa.com/article/11627695?ref=naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/021/0002829227?sid=101",
+      "source": "문화일보",
+      "description": "서울 아파트 평균 분양가가 5년 새 두 배 가까이 치솟은 것으로 나타났다. 새 아파트 공급마저... 30일 부동산114에 따르면 올해 서울 아파트 평균 분양가는 3.3㎡당 5401만원으로 집계됐다. 2021년 2799만원이었던...",
+      "published_at": "2026-10-30T22:17+09:00",
+      "keywords": [
+        "분양",
+        "재건축"
+      ],
+      "relevance": 7,
+      "category": "분양·청약",
+      "summary": [
+        "서울 아파트 평균 분양가가 5년 새 두 배 가까이 상승",
+        "부동산114 집계 올해 서울 분양가 평당 5401만원",
+        "2021년 서울 아파트 평균 분양가는 평당 2799만원"
+      ],
+      "importance": 4,
+      "tags": [
+        "서울",
+        "분양가",
+        "부동산114"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "1cf2511a0246",
+      "title": "충남 '악성 미분양' 15.9% 증가...전체 미분양 감소에도 부담 여전",
+      "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=917918",
+      "naver_url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=917918",
+      "source": "chungnamilbo.co.kr",
+      "description": "2026년 9월 지역별 미분양 주택 현황. (사진제공=국토부) 충남지역의 미분양 주택이 감소했지만 준공 후에도 팔리지 않은 이른바 '악성 미분양'은 오히려 15.9% 증가한 것으로 나타났다. 대전과 충북은 전체...",
+      "published_at": "2026-10-30T22:14+09:00",
+      "keywords": [
+        "분양"
+      ],
+      "relevance": 6,
+      "category": "분양·청약",
+      "summary": [
+        "충남지역 전체 미분양 주택은 감소한 것으로 나타남",
+        "충남 준공 후 미분양은 15.9% 증가한 것으로 집계됨",
+        "국토부의 2026년 9월 지역별 미분양 현황을 제시함"
+      ],
+      "importance": 4,
+      "tags": [
+        "충남",
+        "준공 후 미분양",
+        "미분양"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "a9c75286e85a",
+      "title": "한 총리, 통합공모 첫 적용 불광동 찾아 “기간 단축, 주택 품질 높이는...",
+      "url": "https://www.viva100.com/article/20261030500987",
+      "naver_url": "https://www.viva100.com/article/20261030500987",
+      "source": "브릿지경제",
+      "description": "한 총리는 이와 함께 이재명 대통령의 3기 신도시 현장 점검 후속 조치와 관련해 관계부처가 공급 절차 전면 재검토, 원형지 분양, 토지수용 절차의 입법적 보완 등 지시 사항에 대한 조치 계획을 신속히 수립하도록...",
+      "published_at": "2026-10-30T22:00+09:00",
+      "keywords": [
+        "분양"
+      ],
+      "relevance": 5,
+      "category": "정책·규제",
+      "summary": [
+        "한 총리가 통합공모 첫 적용 지역인 불광동을 방문함",
+        "3기 신도시 현장 점검 후속 조치 계획의 신속한 수립 주문",
+        "공급 절차 전면 재검토와 원형지 분양 등이 지시 사항에 포함됨"
+      ],
+      "importance": 4,
+      "tags": [
+        "통합공모",
+        "불광동",
+        "3기 신도시"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "98ef46ef630e",
+      "title": "강원 아파트값 0.04% 하락…올해 누적 0.26%↓",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700060&ref=A",
+      "naver_url": "https://n.news.naver.com/mnews/article/056/0012284440?sid=101",
+      "source": "KBS",
+      "description": "한국부동산원의 주간 아파트 가격 동향을 보면, 이번 주 강원도의 아파트 매매가격은 1주일 전보다 0.04% 하락했습니다. 올해 1월부터 이달(10월)까지, 강원도 아파트 매매 가격 누적 하락률은 0.26%로 집계됐습니다.",
+      "published_at": "2026-10-30T19:44+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 5,
+      "category": "매매·시세",
+      "summary": [
+        "이번 주 강원 아파트 매매가격은 전주 대비 0.04% 하락함",
+        "올해 1~10월 강원 아파트값 누적 하락률은 0.26%로 집계됨",
+        "한국부동산원 주간 아파트 가격 동향에서 확인됨"
+      ],
+      "importance": 4,
+      "tags": [
+        "강원",
+        "아파트값",
+        "한국부동산원"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "f89d4e3457b9",
+      "title": "다문화 가족은 어린이집·주택청약 우선권… 주담대 이자도 깎아줘",
+      "url": "https://www.chosun.com/national/national_general/2026/10/31/QUMPBWFKQ5EHPFZV2T5ZTHIIFM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "naver_url": "https://n.news.naver.com/mnews/article/023/0004007030?sid=102",
+      "source": "조선일보",
+      "description": "정부 정책 대출로 전세나 주택 구입 자금을 빌릴 때에도 금리를 연 0.2%포인트 낮춰준다. 시중은행도 다문화 가족에게 대출 금리를 낮춰주는 우대 상품을 내놓았다. 인구 유치가 필요한 지방자치단체들도 다양한 다문화...",
+      "published_at": "2026-10-31T00:53+09:00",
+      "keywords": [
+        "전세",
+        "청약",
+        "분양"
+      ],
+      "relevance": 7,
+      "category": "정책·규제",
+      "summary": [
+        "다문화 가족에게 주택청약 우선권 부여",
+        "정책 대출 전세·주택 구입 자금 금리 연 0.2%포인트 인하",
+        "시중은행도 다문화 가족 대상 대출금리 우대 상품 출시"
+      ],
+      "importance": 3,
+      "tags": [
+        "다문화 가족",
+        "주택청약",
+        "우대금리"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "8485691f3da7",
+      "title": "[사설] 수도권 신규 택지 공급… '베드타운' 전락해선 안 돼",
+      "url": "https://www.hankookilbo.com/news/article/A2026103014560002662?did=NA",
+      "naver_url": "https://n.news.naver.com/mnews/article/469/0000962774?sid=110",
+      "source": "한국일보",
+      "description": "수도권 신규 택지에선 교통 대책과 자족 기능을 보완하고, 서울에선 재개발 재건축 등 기존 주택을 활용한 도심 공급책도 함께 병행하는 게 주택 시장 안정을 앞당기는 길이다.",
+      "published_at": "2026-10-31T00:10+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 5,
+      "category": "정책·규제",
+      "summary": [
+        "수도권 신규 택지의 베드타운 전락 방지를 주문함",
+        "신규 택지의 교통 대책과 자족 기능 보완을 제안함",
+        "서울 재개발·재건축을 통한 도심 공급 병행을 제안함"
+      ],
+      "importance": 3,
+      "tags": [
+        "수도권 신규 택지",
+        "자족 기능",
+        "도심 공급"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "f9d6451bb564",
+      "title": "[11월 첫째주 분양동향] 전국 4,928가구 분양…서울 '반값 아파트' 고덕...",
+      "url": "http://www.srtimes.kr/news/articleView.html?idxno=216382",
+      "naver_url": "http://www.srtimes.kr/news/articleView.html?idxno=216382",
+      "source": "srtimes.kr",
+      "description": "31일 부동산 전문 리서치업체 리얼투데이에 따르면 다음 주에는 전국 5곳에서 총 4,928가구(오피스텔·조합원 취소분 포함, 행복주택 제외)가 청약 접수를 받는다. 다음 주 청약 시장의 최대 관심사는 단연 서울...",
+      "published_at": "2026-10-31T00:06+09:00",
+      "keywords": [
+        "부동산",
+        "청약",
+        "분양"
+      ],
+      "relevance": 8,
+      "category": "분양·청약",
+      "summary": [
+        "11월 첫째 주 전국 5곳에서 청약 접수를 진행할 예정",
+        "리얼투데이에 따르면 청약 물량은 총 4928가구임",
+        "오피스텔·조합원 취소분을 포함하고 행복주택은 제외함"
+      ],
+      "importance": 3,
+      "tags": [
+        "분양동향",
+        "청약",
+        "리얼투데이"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "c306ceaca445",
+      "title": "하이엔드 아파트 청약 경쟁률 일반 단지의 3.8배…상품성이 흥행 갈랐다",
+      "url": "https://www.asiatime.co.kr/article/20261030500107",
+      "naver_url": "https://www.asiatime.co.kr/article/20261030500107",
+      "source": "asiatime.co.kr",
+      "description": "(인포그래픽=더피알) 31일 부동산R114에 따르면 올해 1~9월 서울에서 분양한 하이엔드 브랜드 아파트는... 한 부동산업계 관계자는 \"과거에는 건설사 브랜드 자체가 아파트 선택의 중요한 기준이었다면 최근에는 브랜드에...",
+      "published_at": "2026-10-31T00:02+09:00",
+      "keywords": [
+        "부동산",
+        "청약",
+        "분양"
+      ],
+      "relevance": 6,
+      "category": "분양·청약",
+      "summary": [
+        "하이엔드 아파트 청약 경쟁률이 일반 단지의 3.8배로 나타남",
+        "부동산R114가 올해 1~9월 서울 분양 단지를 분석함",
+        "하이엔드 아파트 상품성이 청약 흥행을 가른 요인으로 제시됨"
+      ],
+      "importance": 3,
+      "tags": [
+        "하이엔드 아파트",
+        "청약경쟁률",
+        "서울"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "d5e53ea60a82",
+      "title": "[시선+]7.6만 가구 결국 입주시점은 2033년…'교통 없는 택지'의 반복 그...",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=119042",
+      "naver_url": "https://www.businessplus.kr/news/articleView.html?idxno=119042",
+      "source": "businessplus.kr",
+      "description": "주택시장 안정이 목표라면 착공 목표뿐 아니라 연도별 분양·입주 물량과 교통망 완공 시점, 기반시설 재원까지 함께 공개해야 한다. 주택 공급 정책을 평가하는 기준도 바뀌어야 한다. 발표한 가구 수가 아니라 실제...",
+      "published_at": "2026-10-31T00:00+09:00",
+      "keywords": [
+        "분양"
+      ],
+      "relevance": 6,
+      "category": "정책·규제",
+      "summary": [
+        "7.6만 가구의 입주 시점이 2033년으로 제시됨",
+        "연도별 분양·입주 물량과 교통망 완공 시점 공개를 요구함",
+        "주택공급 평가 기준을 발표 가구 수에서 바꿔야 한다고 주장함"
+      ],
+      "importance": 3,
+      "tags": [
+        "주택공급",
+        "택지",
+        "교통망"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "34691c450241",
+      "title": "‘마산자유무역 토지·공장 분양 허용’…실행 방안 논의",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700270&ref=A",
+      "naver_url": "https://n.news.naver.com/mnews/article/056/0012284619?sid=101",
+      "source": "KBS",
+      "description": "오는 12월 시행령과 시행규칙 마련을 앞두고 마련된 이번 간담회에서 산업통상자원부와 입주업체들은 분양 활성화를 위한 매각 기준과 처분 제한, 지가상승분 환수 기준 등에 관해 논의했습니다.",
+      "published_at": "2026-10-30T22:26+09:00",
+      "keywords": [
+        "분양"
+      ],
+      "relevance": 6,
+      "category": "정책·규제",
+      "summary": [
+        "마산자유무역 토지·공장 분양 실행 방안을 논의함",
+        "산업통상자원부와 입주업체들이 매각 기준 등을 논의함",
+        "오는 12월 시행령과 시행규칙 마련을 앞둔 간담회임"
+      ],
+      "importance": 3,
+      "tags": [
+        "마산자유무역",
+        "토지·공장 분양",
+        "산업통상자원부"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "9ecaed2d429d",
+      "title": "은마 아파트 '480억 지분' 한보 상속인에 이전 판결...서울시 \"재건축 지...",
+      "url": "https://www.hankookilbo.com/news/article/A2026103022100002805?did=NA",
+      "naver_url": "https://n.news.naver.com/mnews/article/469/0000962767?sid=102",
+      "source": "한국일보",
+      "description": "해당 토지는 정 전 회장이 1978년 은마아파트를 시행·시공하는 과정에서 서울시로부터 매입한 것으로 알려졌다. 정 전 회장의 상속인 측은 당시 매매대금을 지급했으나 소유권 등기가 서울시 명의로 남아있어...",
+      "published_at": "2026-10-30T22:25+09:00",
+      "keywords": [
+        "아파트 매매",
+        "재건축",
+        "분양"
+      ],
+      "relevance": 5,
+      "category": "재건축·개발",
+      "summary": [
+        "은마아파트 480억원 지분을 한보 상속인에 이전 판결",
+        "해당 토지는 정 전 회장이 1978년 서울시에서 매입",
+        "상속인 측은 대금 지급 후에도 서울시 명의 등기 주장"
+      ],
+      "importance": 3,
+      "tags": [
+        "은마아파트",
+        "서울시",
+        "한보 상속인"
+      ],
+      "why": "",
+      "duplicates": 10,
+      "related": [
+        {
+          "source": "뉴스1",
+          "title": "서울시 명의 은마 땅, 한보 상속인에 이전 판결…480억 규모 추산",
+          "url": "https://www.news1.kr/realestate/general/6338411"
+        },
+        {
+          "source": "한국경제",
+          "title": "법원 \"은마아파트 내 240평 정태수 상속인에\"…재건축 변수",
+          "url": "https://www.hankyung.com/article/2026103070837"
+        },
+        {
+          "source": "wowtv.co.kr",
+          "title": "法 \"은마 240평 땅 정태수 상속인에\"…재건축 향방은",
+          "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610300173&t=NN"
+        },
+        {
+          "source": "중앙일보",
+          "title": "은마아파트 내 서울시 땅 795㎡…정태수 상속인에 이전 판결",
+          "url": "https://www.joongang.co.kr/article/25474581"
+        },
+        {
+          "source": "서울경제",
+          "title": "은마아파트 내 795㎡ 소유권 정태수 상속인에…“재건축 지장 없어”",
+          "url": "https://www.sedaily.com/article/20108513?ref=naver"
+        },
+        {
+          "source": "헤럴드경제",
+          "title": "은마아파트 단지 내 795㎡, 정태수 상속인에…“재건축 사업 지장 없어...",
+          "url": "https://biz.heraldcorp.com/article/10921066?ref=naver"
+        },
+        {
+          "source": "연합뉴스",
+          "title": "강남 은마 795㎡ 소유권 정태수 상속인에…\"재건축엔 지장 없어\"",
+          "url": "https://www.yna.co.kr/view/AKR20261030179300004?input=1195m"
+        },
+        {
+          "source": "파이낸셜뉴스",
+          "title": "은마 속 '480억 서울시 땅' 정태수 상속인 품으로..재건축 변수",
+          "url": "https://www.fnnews.com/news/202610301853387681"
+        },
+        {
+          "source": "아시아경제",
+          "title": "법원 \"은마 땅 240평 정태수 상속인에\"…조합 \"토지 매입 전제로 사업 준...",
+          "url": "https://view.asiae.co.kr/article/2026103022070429604"
+        },
+        {
+          "source": "매일경제",
+          "title": "[단독] \"은마 480억 땅, 한보家에 소유권\"… 재건축 암초",
+          "url": "https://www.mk.co.kr/article/12191826"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "e153ed9c94b9",
+      "title": "DL이앤씨, 누적 영업이익 4241억원…지난해 연간 실적 넘어섰다",
+      "url": "https://sateconomy.co.kr/news/view/1065615732194687",
+      "naver_url": "https://sateconomy.co.kr/news/view/1065615732194687",
+      "source": "sateconomy.co.kr",
+      "description": "주택사업에서는 올해 서울 목동6단지 재건축사업 시공권을 확보했다. 성수2지구 재개발과 하안주공9단지 재건축사업에서는 수의계약 절차를 진행하고 있다. 두 사업은 아직 최종 수주가 확정된 단계는 아니다....",
+      "published_at": "2026-10-30T21:30+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 3,
+      "category": "기타",
+      "summary": [
+        "DL이앤씨 누적 영업이익 4241억원으로 지난해 연간 실적 초과",
+        "올해 서울 목동6단지 재건축사업 시공권을 확보함",
+        "성수2지구·하안주공9단지는 수의계약 절차 진행 중임"
+      ],
+      "importance": 3,
+      "tags": [
+        "DL이앤씨",
+        "목동6단지",
+        "수의계약"
+      ],
+      "why": "",
+      "duplicates": 3,
+      "related": [
+        {
+          "source": "biztribune.co.kr",
+          "title": "DL이앤씨, 3분기 누적 영업이익 4241억원… 전년 대비 30.9% 증가",
+          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=361655"
+        },
+        {
+          "source": "apnews.kr",
+          "title": "박상신의 '내실경영'…DL이앤씨, 3분기 만에 작년 연간 영업익 추월",
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3052659"
+        },
+        {
+          "source": "ttlnews.com",
+          "title": "DL이앤씨 3분기 누적 영업익 4241억원… 북미 SMR·데이터센터 신사업 가...",
+          "url": "http://www.ttlnews.com/news/articleView.html?idxno=3157366"
+        }
+      ],
+      "source_known": false
+    },
+    {
+      "id": "622de22c21f0",
+      "title": "전국 100만 평 수용지구 토지주들, \"정부 신도시 공공임대주택 비율 높...",
+      "url": "https://www.kgnews.co.kr/news/article.html?no=917527",
+      "naver_url": "https://www.kgnews.co.kr/news/article.html?no=917527",
+      "source": "kgnews.co.kr",
+      "description": "대책위 연합은 이날 공공임대 물량이 늘어날수록 이주자 주택, 협의양도인 주택 등 원주민이 재정착할 수 있는 주택 물량이 줄어드는데다 특히 분양 물량 축소로 인해 각 지구의 사업성까지 흔들릴수 있다는 깊은 우려를...",
+      "published_at": "2026-10-30T20:06+09:00",
+      "keywords": [
+        "분양"
+      ],
+      "relevance": 9,
+      "category": "정책·규제",
+      "summary": [
+        "수용지구 토지주들이 공공임대 비율 확대에 우려 표명",
+        "대책위 연합은 원주민 재정착 주택 물량 감소를 우려함",
+        "분양 물량 축소로 각 지구 사업성이 흔들릴 수 있다고 주장함"
+      ],
+      "importance": 3,
+      "tags": [
+        "공공임대주택",
+        "수용지구",
+        "원주민 재정착"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "ad6c2cd4440c",
+      "title": "[부동산 패트롤] 인천 서해·검단·부평, 같은 도시 안의 서로 다른 부동...",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738041",
+      "naver_url": "https://www.gukjenews.com/news/articleView.html?idxno=3738041",
+      "source": "gukjenews.com",
+      "description": "청라의 새 아파트, 검단의 신설 지하철역, 부평역 주변의 오래된 상가. 모두 인천 서북권에 속하지만 부동산... 매매와 임대차가 보내는 다른 신호 최근 지표에서도 지역별 온도 차가 드러난다. 인천시가 발표한 2026년 9월...",
+      "published_at": "2026-10-30T20:04+09:00",
+      "keywords": [
+        "아파트 매매",
+        "전세",
+        "분양"
+      ],
+      "relevance": 6,
+      "category": "매매·시세",
+      "summary": [
+        "인천 서북권 부동산의 지역별 온도 차 조명.",
+        "청라 새 아파트와 검단 신설 지하철역 언급.",
+        "매매와 임대차 지표에서 서로 다른 신호 포착."
+      ],
+      "importance": 3,
+      "tags": [
+        "인천",
+        "검단",
+        "부평"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "bd0f6999c0bd",
+      "title": "3개월 만에 1억 넘게 뛰었다…서울서 주목 받는 아파트",
+      "url": "https://www.hankyung.com/article/2026102941721",
+      "naver_url": "https://n.news.naver.com/mnews/article/015/0005348680?sid=101",
+      "source": "한국경제",
+      "description": "◇아파트 매매 4건 중 1건은 소규모 29일 부동산114에 따르면 올해 1~9월 서울의 300가구 미만 아파트 거래량은 1만2895건으로 집계됐다. 지난해 같은 기간(1만1992건)보다 7.5%(903건) 증가했다. 2024년 1~9월(7620건)과...",
+      "published_at": "2026-10-30T19:49+09:00",
+      "keywords": [
+        "아파트 매매",
+        "재건축"
+      ],
+      "relevance": 3,
+      "category": "매매·시세",
+      "summary": [
+        "서울 아파트 매매 4건 중 1건은 소규모 단지.",
+        "올해 1~9월 300가구 미만 거래 1만2895건.",
+        "지난해 같은 기간보다 7.5%, 903건 증가함."
+      ],
+      "importance": 3,
+      "tags": [
+        "서울",
+        "소규모 아파트",
+        "부동산114"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "67336efea95d",
+      "title": "청주 아파트 청약 극명한 희비…호황 속 불경기 계속",
+      "url": "https://www.nocutnews.co.kr/news/6600062?utm_source=naver&utm_medium=article&utm_campaign=20261030185037",
+      "naver_url": "https://n.news.naver.com/mnews/article/079/0004204986?sid=102",
+      "source": "노컷뉴스",
+      "description": "청주 '신분평' 완판 실패, '가경'은 역대급 성적 '희비' 충북 청주에서 비슷한 시기에 청약을 진행한 신규 아파트의 분양 성적이 극명하게 엇갈렸다. 한국부동산원 청약홈에 따르면 최근 청약을 마친 '신분평 에피트...",
+      "published_at": "2026-10-30T18:51+09:00",
+      "keywords": [
+        "청약",
+        "분양"
+      ],
+      "relevance": 7,
+      "category": "분양·청약",
+      "summary": [
+        "충북 청주 신규 아파트의 청약 성적이 극명하게 엇갈림",
+        "청주 신분평 에피트는 완판에 실패한 것으로 보도",
+        "비슷한 시기 청약한 가경은 역대급 성적 기록"
+      ],
+      "importance": 3,
+      "tags": [
+        "청주",
+        "신분평 에피트",
+        "가경"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "ac91cf63a1cf",
+      "title": "'6.8억 집, 1.7억에 입주;…지분적립형 아파트 최초 분양",
+      "url": "https://news.bizwatch.co.kr/article/real_estate/2026/10/30/0056",
+      "naver_url": "https://n.news.naver.com/mnews/article/648/0000052137?sid=101",
+      "source": "비즈워치",
+      "description": "청약 신청 대상은 입주자모집공고일인 30일 기준 현재 무주택가구 구성원이다. 소득·자산 기준과 공급... 청약은 한국부동산원 청약홈을 통해 온라인으로 신청할 수 있다. 내달 9일 특별공급을 시작으로 10일 1순위...",
+      "published_at": "2026-10-30T18:17+09:00",
+      "keywords": [
+        "청약",
+        "분양"
+      ],
+      "relevance": 11,
+      "category": "분양·청약",
+      "summary": [
+        "6억8000만원 주택에 1억7000만원으로 입주하는 최초 분양",
+        "공고일인 30일 기준 무주택가구 구성원이 청약 대상",
+        "내달 9일 특별공급에 이어 10일 1순위 청약 진행"
+      ],
+      "importance": 3,
+      "tags": [
+        "지분적립형",
+        "청약홈",
+        "특별공급"
+      ],
+      "why": "",
+      "duplicates": 4,
+      "related": [
+        {
+          "source": "nspna.com",
+          "title": "[바뀌는 우리동네] 초기 부담 확 낮춘 수원 광교 ‘지분적립형 주택’…...",
+          "url": "https://www.nspna.com/news/?mode=view&newsid=834135"
+        },
+        {
+          "source": "cwn.kr",
+          "title": "수원 광교에 전국 첫 지분적립형 주택 240가구 공급",
+          "url": "https://www.cwn.kr/news/articleView.html?idxno=60646"
+        },
+        {
+          "source": "globalepic.co.kr",
+          "title": "경기도·GH, 광교에 전국 첫 지분적립형 주택 240호 공급",
+          "url": "https://www.globalepic.co.kr/view.php?ud=2026103013135342775f69d33b22_29"
+        },
+        {
+          "source": "lawissue.co.kr",
+          "title": "경기도·GH, 광교에 지분적립형 주택 240가구 공급… 분양가 25%로 입주",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202610301353043816d94aa4ada6_12"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "9796d7c0ce26",
+      "title": "GS건설, 주택사업 부진에 3분기 영업익 35.7% 감소…주택 매출 감소 속 ...",
+      "url": "https://www.viva100.com/article/20261030500940",
+      "naver_url": "https://www.viva100.com/article/20261030500940",
+      "source": "브릿지경제",
+      "description": "한편 GS건설은 오는 11월 경기도 안산시 상록구 성포동 일원에 ‘아르뮤제자이’를 분양할 예정이다. 단지는 지하 6층~지상 최고 49층, 6개 동 규모로 아파트 984가구(전용면적 84~104㎡)와 오피스텔 370실 등 총...",
+      "published_at": "2026-10-30T18:14+09:00",
+      "keywords": [
+        "분양",
+        "재건축"
+      ],
+      "relevance": 5,
+      "category": "기타",
+      "summary": [
+        "GS건설의 3분기 영업이익이 35.7% 감소",
+        "GS건설이 오는 11월 안산 아르뮤제자이 분양 예정",
+        "아파트 984가구와 오피스텔 370실로 구성"
+      ],
+      "importance": 3,
+      "tags": [
+        "GS건설",
+        "아르뮤제자이",
+        "안산"
+      ],
+      "why": "",
+      "duplicates": 2,
+      "related": [
+        {
+          "source": "ftoday.co.kr",
+          "title": "주택 올랐지만…GS건설, 해외·인프라 부진에 3분기 이익 '뒷걸음'",
+          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=368556"
+        },
+        {
+          "source": "biztribune.co.kr",
+          "title": "GS건설, 3분기 영업이익 955억원… 전년 대비 35.7% 감소",
+          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=361650"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "edb8f1bba456",
+      "title": "보유·소득세도 벅찬데 월세까지 치솟아…“거주 이전 족쇄될 판”",
+      "url": "https://www.sedaily.com/article/20108443?ref=naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/011/0004677171?sid=101",
+      "source": "서울경제",
+      "description": "하지만 지난해부터 고강도 전세대출이 시작되면서 보증금 부족분이 월세 상승으로 이어져 최근에는 서울... 집주인이 세제 혜택을 받기 위해 직접 입주하면 전세보증금 상승과 무주택자의 주거 불안으로 이어질 수...",
+      "published_at": "2026-10-30T18:01+09:00",
+      "keywords": [
+        "전세"
+      ],
+      "relevance": 6,
+      "category": "전월세",
+      "summary": [
+        "보유·소득세 부담과 월세 상승 문제를 다룸",
+        "보증금 부족분이 월세 상승으로 이어지는 상황을 언급함",
+        "집주인 직접 입주에 따른 무주택자 주거 불안 가능성 제기"
+      ],
+      "importance": 3,
+      "tags": [
+        "월세",
+        "전세보증금",
+        "주거 불안"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "e0765c4fd1a8",
+      "title": "갈아타기 고민된다면 … 내년 2~3월 강남급매 노려볼만",
+      "url": "https://www.mk.co.kr/article/12191792",
+      "naver_url": "https://n.news.naver.com/mnews/article/009/0005756779?sid=101",
+      "source": "매일경제",
+      "description": "월세 부담 확대 역시 매매 시장에 영향을 미칠 변수로 꼽혔다. 아기곰(닉네임) 아기곰아카데미 대표는 서울 아파트 임대차 시장에서 월세 비중이 높아지고 월세 부담도 전세보다 빠르게 커지고 있다는 점에 주목했다. 월세...",
+      "published_at": "2026-10-30T17:44+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 5,
+      "category": "매매·시세",
+      "summary": [
+        "내년 2~3월 강남 급매를 갈아타기 기회로 제시함",
+        "아기곰 대표는 서울 아파트 임대차의 월세 비중 확대에 주목함",
+        "월세 부담이 전세보다 빠르게 커지는 점을 매매시장 변수로 꼽음"
+      ],
+      "importance": 3,
+      "tags": [
+        "강남",
+        "갈아타기",
+        "월세"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "44393d907879",
+      "title": "\"공급 의지 긍정적\" vs “당장 전세난 못풀어\"",
+      "url": "https://www.mk.co.kr/article/12191789",
+      "naver_url": "https://n.news.naver.com/mnews/article/009/0005756776?sid=101",
+      "source": "매일경제",
+      "description": "김학렬(빠숑) 스마트튜브 부동산조사연구소 소장은 \"공급은 2033년에 오지만 전세난은 올겨울에 온다\"며 공급 속도에 한계가 있음을 지적했다. 공급 확대 방향에는 동의하지만 시장이 겪는 2027~2029년 입주 공백을 이번...",
+      "published_at": "2026-10-30T17:44+09:00",
+      "keywords": [
+        "전세"
+      ],
+      "relevance": 4,
+      "category": "정책·규제",
+      "summary": [
+        "공급 확대 의지에 대한 긍정 평가와 전세난 해소 우려가 제기됨",
+        "김학렬 소장은 공급은 2033년, 전세난은 올겨울이라고 지적함",
+        "공급 확대 방향에는 동의하되 공급 속도의 한계를 지적함"
+      ],
+      "importance": 3,
+      "tags": [
+        "주택공급",
+        "전세난",
+        "입주공백"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "41f15a513afd",
+      "title": "\"15억 아파트 있어도 생활비 없으면 팔아라\"…은퇴 후 자산관리 이렇게",
+      "url": "https://www.newsis.com/view/NISX20261030_0003847639",
+      "naver_url": "https://n.news.naver.com/mnews/article/003/0014291737?sid=101",
+      "source": "뉴시스",
+      "description": "위해서는 부동산에 집중된 자산을 분산하고 지속적인 현금흐름을 확보해야 한다는 전문가 조언이 나왔다. 29일 구독자 101만명 유튜브 채널 '셀코TV' 영상에 출연한 존리 존리의부자학교 대표는 부동산 중심의 자산 구조가...",
+      "published_at": "2026-10-31T00:25+09:00",
+      "keywords": [
+        "부동산",
+        "아파트 매매"
+      ],
+      "relevance": 3,
+      "category": "기타",
+      "summary": [
+        "존리 대표가 셀코TV 영상에서 은퇴 후 자산관리 방안을 조언함",
+        "부동산에 집중된 자산을 분산해야 한다는 조언을 제시함",
+        "은퇴 후 지속적인 현금흐름 확보의 필요성을 강조함"
+      ],
+      "importance": 2,
+      "tags": [
+        "은퇴",
+        "자산관리",
+        "존리"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "cc4672c7af6a",
+      "title": "김동현, 압구정 100억 아파트 샀는데…50억 빌려준 사람 누구? [집코노미...",
+      "url": "https://www.hankyung.com/article/2026103070927",
+      "naver_url": "https://n.news.naver.com/mnews/article/015/0005348688?sid=101",
+      "source": "한국경제",
+      "description": "30일 헤럴드경제 보도에 따르면 김동현은 지난 9월 23일 압구정 신현대12차아파트 182㎡(이하 전용면적)를 100억원에 매입하는 매매계약을 체결했고, 지난 21일 잔금을 치러 소유권을 넘겨받았다. 매수대금 중 절반에...",
+      "published_at": "2026-10-30T21:36+09:00",
+      "keywords": [
+        "아파트 매매",
+        "재건축",
+        "전세",
+        "주택담보대출"
+      ],
+      "relevance": 4,
+      "category": "매매·시세",
+      "summary": [
+        "김동현이 압구정 신현대12차를 100억원에 매입",
+        "지난 9월 23일 전용면적 182㎡ 매매계약 체결",
+        "지난 21일 잔금을 치러 아파트 소유권 이전 완료"
+      ],
+      "importance": 2,
+      "tags": [
+        "압구정",
+        "신현대12차",
+        "김동현"
+      ],
+      "why": "",
+      "duplicates": 8,
+      "related": [
+        {
+          "source": "mhnse.com",
+          "title": "김동현, 반포 반전세 청산…압구정 '100억 아파트' 새 주인→50억 빌려준...",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1648696"
+        },
+        {
+          "source": "xportsnews.com",
+          "title": "'집 팔아 코인투자' 김동현, 압구정 100억 아파트 매입…50억은 집주인에...",
+          "url": "https://www.xportsnews.com/article/2213663"
+        },
+        {
+          "source": "topstarnews.net",
+          "title": "'반포 거주' 김동현, 압구정 아파트 100억 매입…50억은 집주인 대출",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264130"
+        },
+        {
+          "source": "sportsseoul.com",
+          "title": "김동현, 압구정 100억 아파트 샀다…50억은 ‘집주인 대출’",
+          "url": "https://www.sportsseoul.com/news/read/1645598?ref=naver"
+        },
+        {
+          "source": "stoo.com",
+          "title": "김동현, 반포 60평대 반전세→압구정 아파트 100억에 매입…50억은 집주...",
+          "url": "http://www.stoo.com/article.php?aid=109634332021"
+        },
+        {
+          "source": "newsen.com",
+          "title": "김동현, 반포 60평 반전세→압구정 신현대 100억 매수…50억은 집주인 대...",
+          "url": "https://www.newsen.com/news_view.php?uid=202610301749010310"
+        },
+        {
+          "source": "pennmike.com",
+          "title": "김동현, 압구정현대 100억 매입에 '집주인 대출' 50억...온라인 반응 \"대...",
+          "url": "https://www.pennmike.com/news/articleView.html?idxno=130671"
+        },
+        {
+          "source": "헤럴드경제",
+          "title": "[단독] 반포 살던 김동현, 압구정현대 100억에 샀다…50억원이 ‘집주인...",
+          "url": "https://biz.heraldcorp.com/article/10920861?ref=naver"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "e51b2a65d66f",
+      "title": "“재개발 1순위는 단연 이곳이죠”…부동산 고수가 찍은 서울 알짜 지역...",
+      "url": "https://www.mk.co.kr/article/12191838",
+      "naver_url": "https://n.news.naver.com/mnews/article/009/0005756814?sid=101",
+      "source": "매일경제",
+      "description": "그중에서도 역세권 장기전세주택(시프트), 역세권 활성화 사업, 민간 도심복합개발 등 역세권 재개발에 집중하라고 했다. 지역으로는 서울 영등포구를 1순위로 꼽았다. 영등포는 구 전체 정비사업 물량이 6만가구에...",
+      "published_at": "2026-10-30T18:16+09:00",
+      "keywords": [
+        "전세",
+        "분양"
+      ],
+      "relevance": 7,
+      "category": "재건축·개발",
+      "summary": [
+        "부동산 고수가 역세권 재개발에 집중할 것을 제안함",
+        "서울 영등포구를 재개발 투자 1순위로 꼽음",
+        "역세권 장기전세주택과 민간 도심복합개발 등을 언급함"
+      ],
+      "importance": 2,
+      "tags": [
+        "영등포구",
+        "역세권 재개발",
+        "장기전세주택"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    }
+  ],
+  "usage": {
+    "model": "gpt-6.1-sol",
+    "calls": 6,
+    "errors": 0,
+    "input_tokens": 12691,
+    "cached_tokens": 0,
+    "output_tokens": 4475,
+    "reasoning_tokens": 166,
+    "cost_usd": 0.0701,
+    "cost_krw": 98
+  }
+}
