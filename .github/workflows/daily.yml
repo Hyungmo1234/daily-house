@@ -2,12 +2,13 @@ name: Daily publish
 
 on:
   schedule:
-    # GitHub cron은 매시 정각·30분에 잘 빠짐. 분을 흩뿌리고 아침 동안 여러 번 재시도.
-    - cron: "17 20 * * *"   # 05:17 KST
-    - cron: "11 21 * * *"   # 06:11 KST
-    - cron: "23 22 * * *"   # 07:23 KST
-    - cron: "41 23 * * *"   # 08:41 KST
-    - cron: "7 0 * * *"     # 09:07 KST
+    # 1차: 05:30 KST. GitHub cron은 정각·30분에 수 시간 지연될 수 있음.
+    - cron: "30 20 * * *"
+    # 실패/미실행 시 당일 종일 재시도. 이미 올렸으면 gate에서 즉시 종료.
+    # 06:17~08:17 KST
+    - cron: "17 21-23 * * *"
+    # 09:17~23:17 KST
+    - cron: "17 0-14 * * *"
   repository_dispatch:
     types: [daily-publish]
   workflow_dispatch:
@@ -33,6 +34,8 @@ jobs:
       skip: ${{ steps.gate.outputs.skip }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - id: gate
         name: Skip if today already published
@@ -92,6 +95,7 @@ jobs:
             echo "no data changes"
           else
             git commit -m "data: $(TZ=Asia/Seoul date +%F)"
+            git pull --rebase origin main
             git push
           fi
 
@@ -121,6 +125,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: main
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -148,5 +153,6 @@ jobs:
             echo "no instagram marker"
           else
             git commit -m "instagram: $(TZ=Asia/Seoul date +%F)"
+            git pull --rebase origin main
             git push
           fi
