@@ -1,0 +1,1077 @@
+{
+  "date": "2026-11-05",
+  "date_label": "2026년 11월 5일 (목)",
+  "generated_at": "2026-11-05T09:59+09:00",
+  "keywords_searched": [
+    "부동산",
+    "아파트 매매",
+    "전세",
+    "청약",
+    "주택담보대출",
+    "분양",
+    "재건축"
+  ],
+  "overview": "수도권 분양가 급등과 서울 전세 품귀가 내 집 마련·주거비 부담을 함께 키우고 있습니다. 매매 매물이 쌓이는 가운데 분양·입주권 거래도 위축됐습니다. 지분형 공공분양과 분양가 상한제 물량 등 비용을 낮출 선택지를 살펴볼 때입니다.",
+  "keywords": [
+    "분양가",
+    "재건축",
+    "월세",
+    "공공주택",
+    "청약",
+    "보유세",
+    "대출규제",
+    "주택공급"
+  ],
+  "headline_ids": [
+    "eedb458b4673",
+    "542447edd439",
+    "0f6a393c05b6"
+  ],
+  "categories": {
+    "분양·청약": 11,
+    "전월세": 3,
+    "정책·규제": 6,
+    "재건축·개발": 4,
+    "매매·시세": 3,
+    "기타": 1
+  },
+  "raw_count": 160,
+  "articles": [
+    {
+      "id": "eedb458b4673",
+      "title": "수도권 아파트 분양가 1년 새 26% 급등…서울은 38% 올라",
+      "url": "https://www.g-enews.com/view.php?ud=2026110508313393562aa6f4cdad_1",
+      "naver_url": "https://www.g-enews.com/view.php?ud=2026110508313393562aa6f4cdad_1",
+      "source": "글로벌이코노믹",
+      "description": "공사비 상승과 주택 공급 감소가 맞물리면서 신규 아파트의 가격 상승 압력이 이어지는 가운데 청약... 하지만 분양가 상승에도 서울 핵심 입지와 수도권 주요 단지는 높은 청약 경쟁률을 보였다. 올해 서울...",
+      "published_at": "2026-11-05T09:02+09:00",
+      "keywords": [
+        "청약",
+        "재건축",
+        "분양"
+      ],
+      "relevance": 8,
+      "category": "분양·청약",
+      "summary": [
+        "수도권 아파트 분양가가 1년 새 26% 급등함",
+        "서울 아파트 분양가는 같은 기간 38% 상승함",
+        "서울 핵심 입지와 수도권 주요 단지는 높은 청약 경쟁률 기록"
+      ],
+      "importance": 4,
+      "tags": [
+        "수도권",
+        "분양가",
+        "청약 경쟁률"
+      ],
+      "why": "수도권 분양가가 1년 새 26%, 서울은 38% 올라 실수요자의 자금 부담이 커졌습니다. 핵심 입지는 청약 경쟁도 높아 가격과 당첨 가능성을 함께 따져야 합니다.",
+      "duplicates": 2,
+      "related": [
+        {
+          "source": "pinpointnews.co.kr",
+          "title": "수도권 외곽까지 번진 고분양가…인천 국평마저 8억 벽 뚫었다",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501463"
+        },
+        {
+          "source": "뉴시스",
+          "title": "인천도 국평 분양가 8억원 돌파…1년 새 1억6000만원 올라",
+          "url": "https://www.newsis.com/view/NISX20261105_0003855821"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "542447edd439",
+      "title": "\"85%가 월세 산다\" 실화냐...15년만에 경험못한 수치 나왔다",
+      "url": "https://www.fnnews.com/news/202611050740128901",
+      "naver_url": "https://n.news.naver.com/mnews/article/014/0005599660?sid=101",
+      "source": "파이낸셜뉴스",
+      "description": "아실에 따르면 서울 아파트 매매 매물이 8만건을 돌파했다. 하지만 임대차 매물은 소폭 증가하는 데 그치고 있다. 전세 품귀 속에 월세화 속도가 갈수록 빨라지고 있는 것이다. 한편 9월 서울 아파트 월세 거래 비중은...",
+      "published_at": "2026-11-05T08:01+09:00",
+      "keywords": [
+        "아파트 매매",
+        "전세"
+      ],
+      "relevance": 6,
+      "category": "전월세",
+      "summary": [
+        "아실에 따르면 서울 아파트 매매 매물이 8만건을 돌파함",
+        "서울 아파트 임대차 매물은 소폭 증가에 그침",
+        "전세 품귀 속에 월세화 속도가 빨라지는 상황임"
+      ],
+      "importance": 4,
+      "tags": [
+        "서울",
+        "전세 품귀",
+        "월세화"
+      ],
+      "why": "서울 아파트 매매 매물은 8만건을 넘었지만 임대차 매물 증가는 제한적입니다. 세입자는 전세 품귀와 월세화 속에서 계약 갱신·이사에 필요한 비용을 점검해야 합니다.",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "weeklytoday.com",
+          "title": "[위클리오늘] '월세 대란' 서울 아파트 월세 비중 51%…중랑구는 85%까지...",
+          "url": "http://www.weeklytoday.com/news/articleView.html?idxno=801056"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "0f6a393c05b6",
+      "title": "\"분양가 25%로 내 집 마련\"…LH 지분형 공공분양, 관건은 물량 확보",
+      "url": "https://www.newspim.com/news/view/20261104001307",
+      "naver_url": "https://www.newspim.com/news/view/20261104001307",
+      "source": "뉴스핌",
+      "description": "특히 이재명 정부 출범 이후 대폭 축소된 주택담보대출이 이들 유형에서는 다시 허용되는 만큼, 목돈이 부족한 데다 대출마저 어려워진 무주택 실수요자에게 새로운 '주거 사다리'가 될 수 있다는 기대가 나온다. 다만...",
+      "published_at": "2026-11-05T06:00+09:00",
+      "keywords": [
+        "주택담보대출",
+        "전세"
+      ],
+      "relevance": 9,
+      "category": "분양·청약",
+      "summary": [
+        "LH 지분형 공공분양은 분양가 25%로 내 집 마련하는 방식",
+        "해당 유형에서는 주택담보대출이 다시 허용됨",
+        "LH 지분형 공공분양의 관건으로 물량 확보가 제시됨"
+      ],
+      "importance": 3,
+      "tags": [
+        "LH",
+        "지분형 공공분양",
+        "주택담보대출"
+      ],
+      "why": "LH 지분형 공공분양은 분양가의 25%로 내 집 마련에 나서는 방식이며 주택담보대출도 다시 허용됩니다. 초기 자금이 부족한 실수요자에게 의미가 있지만 물량 확보가 관건입니다.",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "ibabynews.com",
+          "title": "[카드뉴스] 초기 지분 25%부터 내 집 마련… 12월 고양창릉 지분적립형...",
+          "url": "https://www.ibabynews.com/news/articleView.html?idxno=156550"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "bb2dd76b8b24",
+      "title": "부과 앞둔 서초구, 국토부에 재초환 폐지 촉구 “재건축 사업 정상화해...",
+      "url": "https://www.sedaily.com/article/20110509?ref=naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/011/0004678957?sid=101",
+      "source": "서울경제",
+      "description": "재건축초과이익환수 부담금 부과를 앞둔 서울 서초구가 국토교통부에 제도 폐지를 촉구했다. 부담금을 부과... 재건축 조합원의 부담을 키우고 사업성을 떨어뜨려 도심 주택 공급을 지연시킨다는 이유다. 서초구는 4일...",
+      "published_at": "2026-11-05T09:51+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 6,
+      "category": "정책·규제",
+      "summary": [
+        "서울 서초구가 국토부에 재건축초과이익환수제 폐지를 촉구함",
+        "서초구는 재건축초과이익환수 부담금 부과를 앞둔 상황임",
+        "조합원 부담과 사업성 저하에 따른 주택 공급 지연을 이유로 제시함"
+      ],
+      "importance": 4,
+      "tags": [
+        "서초구",
+        "재건축초과이익환수제",
+        "국토교통부"
+      ],
+      "why": "",
+      "duplicates": 2,
+      "related": [
+        {
+          "source": "아시아경제",
+          "title": "서초구 \"재초환이 재건축 발목\"… 국토부에 폐지 건의",
+          "url": "https://view.asiae.co.kr/article/2026110509353054134"
+        },
+        {
+          "source": "gukjenews.com",
+          "title": "재초환 폐지 촉구한 서초구…국토부에 건의문·탄원서 전달",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3742776"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "59529eff307f",
+      "title": "인천시 15조9000억 예산 승부수…민생 지키고 미래 키운다",
+      "url": "https://www.viva100.com/article/20261105500200",
+      "naver_url": "https://www.viva100.com/article/20261105500200",
+      "source": "브릿지경제",
+      "description": "청년 월세 지원 122억 원, 재직청년 Dream for 청년통장 43억 원을 비롯해 신혼부부 천원주택 84억 원, 신생아 출생가구 1.0대출 이자 지원 30억 원, 전세사기 피해자 지원 37억 원을 반영했다. 주거급여와 매입·전세임대...",
+      "published_at": "2026-11-05T09:44+09:00",
+      "keywords": [
+        "전세",
+        "주택담보대출"
+      ],
+      "relevance": 5,
+      "category": "정책·규제",
+      "summary": [
+        "인천시가 청년 월세 지원 예산 122억 원을 반영함",
+        "신혼부부 천원주택에 84억 원의 예산을 반영함",
+        "신생아 가구 대출 이자 지원 30억·전세사기 피해 지원 37억 반영"
+      ],
+      "importance": 4,
+      "tags": [
+        "인천시",
+        "천원주택",
+        "주거지원"
+      ],
+      "why": "",
+      "duplicates": 6,
+      "related": [
+        {
+          "source": "beyondpost.co.kr",
+          "title": "박찬대 인천시장, 15조9000억 예산안 편성…민생 챙기고 미래 성장 집중...",
+          "url": "http://www.beyondpost.co.kr/view.php?ud=2026110509381335474c878f8fa1_30"
+        },
+        {
+          "source": "한국경제",
+          "title": "인천시, 내년 예산 15조9000억원 편성...인천e음 월50만원 적용",
+          "url": "https://www.hankyung.com/article/202611057294h"
+        },
+        {
+          "source": "incheontoday.com",
+          "title": "인천시 내년 예산 15조9000억원 편성··· 복지 늘리고 교육·지역개발...",
+          "url": "https://www.incheontoday.com/news/articleView.html?idxno=325927"
+        },
+        {
+          "source": "프레시안",
+          "title": "인천시, 내년 예산안 15조9000억 편성…민생·미래성장 집중 투자",
+          "url": "https://www.pressian.com/pages/articles/2026110509481560181?utm_source=naver&utm_medium=search"
+        },
+        {
+          "source": "livesnews.com",
+          "title": "인천시, 2027년 예산안 15조 9천억 원 편성… 민생·미래산업 집중 투자",
+          "url": "https://www.livesnews.com/news/article.html?no=65682"
+        },
+        {
+          "source": "kyeonggi.com",
+          "title": "인천시, 민선 9기 첫 예산 15조9천억원…민생 안정·미래 투자에 방점",
+          "url": "https://www.kyeonggi.com/article/20261105580019"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "9178a89be9d5",
+      "title": "인천시, '재개발·재건축' 행정 문턱 낮추고 사업 속도 높인다",
+      "url": "https://ic.newdaily.co.kr/site/data/html/2026/11/05/2026110500049.html",
+      "naver_url": "https://ic.newdaily.co.kr/site/data/html/2026/11/05/2026110500049.html",
+      "source": "뉴데일리",
+      "description": "뉴데일리 송원영 기자 = 인천시가 재개발·재건축 등 정비사업의 초기 행정절차를 간소화해 사업 추진 속도를 높인다. 불필요한 검토 과정을 줄여 주민 부담을 완화하고 도심 주택공급을 촉진한다는 취지다. 인천시는...",
+      "published_at": "2026-11-05T09:22+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 5,
+      "category": "재건축·개발",
+      "summary": [
+        "인천시가 정비사업 초기 행정절차를 간소화함",
+        "불필요한 검토를 줄여 주민 부담 완화를 추진함",
+        "재개발·재건축 속도와 도심 주택공급 촉진 목적"
+      ],
+      "importance": 4,
+      "tags": [
+        "인천시",
+        "정비사업",
+        "행정절차 간소화"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "08aa2247cde0",
+      "title": "앞자리 바뀐 반포·대치…강남 집값 하락에 분양시장도 영향권",
+      "url": "https://www.dt.co.kr/article/12093194?ref=naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/029/0003057254?sid=101",
+      "source": "디지털타임스",
+      "description": "서울 강남권 주요 아파트 가격이 매도 호가의 앞자리가 바뀔 정도로 빠르게 내려가고 있다. 세제개편으로... 반포자이 매매 호가가 내린 것은 세제개편 이후 초고가 주택 보유세율이 높아졌기 때문이다. 비거주 1주택자가...",
+      "published_at": "2026-11-05T07:53+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 7,
+      "category": "매매·시세",
+      "summary": [
+        "서울 강남권 주요 아파트 매도 호가가 빠르게 하락함",
+        "세제개편 이후 초고가 주택 보유세율이 높아짐",
+        "반포·대치 집값 하락이 분양시장에도 영향을 줌"
+      ],
+      "importance": 4,
+      "tags": [
+        "강남",
+        "반포자이",
+        "보유세"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "1b9d93d600c1",
+      "title": "서울 집값 뛰자 내년 공시가격도 ‘들썩’…중저가 아파트 보유세 오르...",
+      "url": "https://www.dailian.co.kr/news/view/1710858/?sc=Naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/119/0003151475?sid=101",
+      "source": "데일리안",
+      "description": "올해 서울 아파트값이 큰 폭으로 오르면서 내년도 공동주택 공시가격도 상승할 것이라는 전망이 나온다.... “세금 부담이 가시화되면 급매물이 나올 수 있지만 조세가 매매대금에 전가될 가능성도 있다”고 전망했다.",
+      "published_at": "2026-11-05T07:31+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 9,
+      "category": "정책·규제",
+      "summary": [
+        "올해 서울 아파트값이 큰 폭으로 상승함",
+        "내년도 공동주택 공시가격도 상승할 것이라는 전망",
+        "중저가 아파트의 보유세 부담도 커질 것이라는 전망"
+      ],
+      "importance": 4,
+      "tags": [
+        "서울",
+        "공시가격",
+        "보유세"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "eb7c2bb7e174",
+      "title": "이 대통령 \"집값 떨어진다\"는데…토허제·대출규제는 그대로?",
+      "url": "https://www.dailian.co.kr/news/view/1710688/?sc=Naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/119/0003151469?sid=101",
+      "source": "데일리안",
+      "description": "실제로 한국부동산원에 따르면 10월 26일 기준 서울 아파트 매매가격은 전주보다 0.09% 상승하며 90주 연속 오름세를 이어갔다. 올해 누적 상승률은 8.73%에 달한다. 강남·서초·송파 등 강남3구는 하락했지만 나머지 22개...",
+      "published_at": "2026-11-05T07:05+09:00",
+      "keywords": [
+        "아파트 매매",
+        "주택담보대출"
+      ],
+      "relevance": 6,
+      "category": "정책·규제",
+      "summary": [
+        "이 대통령의 집값 하락 발언 속 토허제·대출규제 유지 여부 조명",
+        "10월 26일 기준 서울 아파트값이 전주 대비 0.09% 상승함",
+        "서울 아파트값은 90주 연속 상승하며 올해 누적 8.73% 상승함"
+      ],
+      "importance": 4,
+      "tags": [
+        "토지거래허가제",
+        "대출규제",
+        "서울 아파트값"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "6d792c5bf4e5",
+      "title": "서울 분양·입주권 거래 반토막…강남3구는 월 4~5건 ‘뚝’[코주부]",
+      "url": "https://www.sedaily.com/article/20110382?ref=naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/011/0004678875?sid=101",
+      "source": "서울경제",
+      "description": "대출 규제와 세제 개편에 따른 보유세 부담 우려 등으로 서울 아파트 매매시장의 ‘거래 절벽’이 심화하는 가운데 분양권·입주권 시장에도 찬바람이 불고 있다. 서울 전체 거래량이 절반 가까이 줄어든 데 이어...",
+      "published_at": "2026-11-05T06:15+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 9,
+      "category": "매매·시세",
+      "summary": [
+        "서울 분양권·입주권 거래량이 절반 가까이 감소함",
+        "강남3구 분양권·입주권 거래가 월 4~5건으로 감소함",
+        "대출 규제와 보유세 부담 우려 속 서울 거래 절벽 심화함"
+      ],
+      "importance": 4,
+      "tags": [
+        "서울",
+        "분양권·입주권",
+        "강남3구"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "9cace4088f6a",
+      "title": "GTX-A 삼성역 무정차 개통 연기…파주 울고 동탄은 버텼다",
+      "url": "https://www.newspim.com/news/view/20261104001224",
+      "naver_url": "https://www.newspim.com/news/view/20261104001224",
+      "source": "뉴스핌",
+      "description": "한국부동산원 주간아파트가격동향 기준으로 GTX 삼성역 철근 누락 논란이 발생한 올해 5월 둘째주 이후부터 10월 넷째주 사이 파주 지역은 1.13% 하락했으나 화성 동탄 집값은 16.34% 올랐다. 특히 올해 경기도 매매가격...",
+      "published_at": "2026-11-05T06:00+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 7,
+      "category": "매매·시세",
+      "summary": [
+        "GTX-A 삼성역 무정차 개통이 연기됨",
+        "올해 5월 둘째주부터 10월 넷째주까지 파주 집값 1.13% 하락함",
+        "같은 기간 화성 동탄 집값은 16.34% 상승함"
+      ],
+      "importance": 4,
+      "tags": [
+        "GTX-A",
+        "파주",
+        "동탄"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "954897d4f7f4",
+      "title": "1000가구 넘는 대단지, 관리비 덜 들고 거래 활발…수도권 분양 잇따라",
+      "url": "https://www.hankyung.com/article/202611057526i",
+      "naver_url": "https://n.news.naver.com/mnews/article/015/0005350568?sid=101",
+      "source": "한국경제",
+      "description": "한국부동산원 청약홈에 따르면 지난 5월 서울 동작구 흑석동에서 분양한 ‘써밋 더힐’(1515가구)은 특별공급을 제외한 211가구 모집에 6860건이 몰려 평균 32.5 대 1로 1순위 마감했다. 6월 인천 검단신도시 ‘더샵...",
+      "published_at": "2026-11-05T09:55+09:00",
+      "keywords": [
+        "부동산",
+        "청약",
+        "분양",
+        "아파트 매매"
+      ],
+      "relevance": 7,
+      "category": "분양·청약",
+      "summary": [
+        "수도권에서 1000가구 넘는 대단지 분양이 잇따름",
+        "흑석동 써밋 더힐은 1515가구 규모로 지난 5월 분양함",
+        "특별공급 제외 211가구 모집에 6860건 접수돼 1순위 마감"
+      ],
+      "importance": 3,
+      "tags": [
+        "수도권",
+        "대단지",
+        "써밋 더힐"
+      ],
+      "why": "",
+      "duplicates": 2,
+      "related": [
+        {
+          "source": "businessplus.kr",
+          "title": "수도권 분양시장 '대단지 선호' 지속…집값·환금성·관리비 격차 뚜렷",
+          "url": "https://www.businessplus.kr/news/articleView.html?idxno=119317"
+        },
+        {
+          "source": "ikld.kr",
+          "title": "규모가 경쟁력… 부동산 시장 '대단지 효과' 노려라",
+          "url": "http://www.ikld.kr/news/articleView.html?idxno=343558"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "35c150334cb4",
+      "title": "쌍용건설, 두바이 최대 부동산기업 와슬 그룹과 3.6조원 MOU 체결",
+      "url": "https://biz.heraldcorp.com/article/10926603?ref=naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/016/0002719162?sid=101",
+      "source": "헤럴드경제",
+      "description": "쌍용건설이 5일 두바이의 최대 부동산 개발∙운영 기업 중 하나인 와슬 그룹과 전략적 협업에 관한... 와슬 그룹은 두바이부동산공사(DREC)가 설립한 두바이 최대 규모의 부동산 개발 및 운영 기업 중 하나로 주택 분양을...",
+      "published_at": "2026-11-05T09:55+09:00",
+      "keywords": [
+        "부동산",
+        "분양"
+      ],
+      "relevance": 4,
+      "category": "기타",
+      "summary": [
+        "쌍용건설이 와슬 그룹과 3.6조원 규모 MOU 체결함",
+        "5일 두바이 와슬 그룹과 전략적 협업에 합의함",
+        "와슬 그룹은 두바이부동산공사가 설립한 부동산 기업임"
+      ],
+      "importance": 3,
+      "tags": [
+        "쌍용건설",
+        "와슬 그룹",
+        "두바이"
+      ],
+      "why": "",
+      "duplicates": 4,
+      "related": [
+        {
+          "source": "seoulfn.com",
+          "title": "[건설브리핑 ] 쌍용건설,두바이 와슬 그룹과 MOU 외",
+          "url": "https://www.seoulfn.com/news/articleView.html?idxno=641963"
+        },
+        {
+          "source": "cstimes.com",
+          "title": "쌍용건설, 두바이 와슬 그룹과 3조6000억원 규모 MOU 체결",
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=726718"
+        },
+        {
+          "source": "businessplus.kr",
+          "title": "[비즈+]쌍용건설, 두바이 와슬 그룹과 3.6조원 MOU… 해외 수주 기반 확...",
+          "url": "https://www.businessplus.kr/news/articleView.html?idxno=119323"
+        },
+        {
+          "source": "sisacast.kr",
+          "title": "쌍용건설, 두바이 최대 부동산 기업 '와슬 그룹'과 총 3조6000억 신규 개...",
+          "url": "http://www.sisacast.kr/news/articleView.html?idxno=101626"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "ed598fd16f1d",
+      "title": "대전시 특사경, 이사 철 부동산 중개행위 단속…10건 적발",
+      "url": "https://www.yna.co.kr/view/AKR20261105050800063?input=1195m",
+      "naver_url": "https://n.news.naver.com/mnews/article/001/0016423271?sid=101",
+      "source": "연합뉴스",
+      "description": "대전시 특법사법경찰은 올해 9∼10월 5개 자치구와 공동으로 시내 37곳에 대한 부동산 중개행위 합동수사를 벌여 공인중개사법 위반 등 불법 중개행위 10건을 적발했다고 5일 밝혔다. 이번 합동수사는 가을 이사 철 전월세...",
+      "published_at": "2026-11-05T09:54+09:00",
+      "keywords": [
+        "부동산",
+        "전세"
+      ],
+      "relevance": 3,
+      "category": "정책·규제",
+      "summary": [
+        "대전시 특사경이 5개 자치구와 불법 중개행위 합동수사 실시",
+        "올해 9∼10월 시내 부동산 중개업소 등 37곳 수사",
+        "공인중개사법 위반 등 불법 중개행위 10건 적발"
+      ],
+      "importance": 3,
+      "tags": [
+        "대전",
+        "불법 중개행위",
+        "공인중개사법"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "ccdn.co.kr",
+          "title": "대전시 특사경, 불법 부동산 중개행위 10건 적발",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1109109"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "20065d16e8f8",
+      "title": "서울 아파트 70% 이상 '월세 100만원' 넘어…대안 찾는 수요자들",
+      "url": "https://www.hankyung.com/article/2026110573456",
+      "naver_url": "https://n.news.naver.com/mnews/article/015/0005350564?sid=101",
+      "source": "한국경제",
+      "description": "한국부동산원에 따르면 9월 서울 오피스텔 평균 수익률은 5.15%로, 통계 작성 이래 가장 높았다. 매매가도... 한 부동산 업계 관계자는 \"최근 주택 임대차 시장이 월세 중심으로 재편되면서, 높은 월세 지출 대신...",
+      "published_at": "2026-11-05T09:50+09:00",
+      "keywords": [
+        "부동산",
+        "아파트 매매",
+        "분양"
+      ],
+      "relevance": 11,
+      "category": "전월세",
+      "summary": [
+        "서울 아파트 70% 이상이 월세 100만원을 넘어섬",
+        "9월 서울 오피스텔 평균 수익률은 5.15% 기록",
+        "서울 오피스텔 평균 수익률이 통계 작성 이래 최고치 기록"
+      ],
+      "importance": 3,
+      "tags": [
+        "서울",
+        "월세",
+        "오피스텔"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "fd620b7af45f",
+      "title": "내 집 마련 수요자, 분양가 넘어 공정률·사업 안정성까지 살핀다",
+      "url": "https://biz.heraldcorp.com/article/10926578?ref=naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/016/0002719153?sid=101",
+      "source": "헤럴드경제",
+      "description": "한 부동산 전문가는 “선분양 단지는 계약 후 입주까지 2~3년이 걸리는 만큼 그동안 공사가 계획대로 진행되는지가 계약자들의 주요 관심사”라며 “원자재 가격 상승 등 사업 안정성과 공정에 영향을 줄 수 있는...",
+      "published_at": "2026-11-05T09:48+09:00",
+      "keywords": [
+        "부동산",
+        "청약",
+        "분양"
+      ],
+      "relevance": 7,
+      "category": "분양·청약",
+      "summary": [
+        "내 집 마련 수요자가 분양가 외 공정률과 사업 안정성도 살핌",
+        "선분양 단지는 계약 후 입주까지 2~3년이 걸림",
+        "원자재 가격 상승 등이 사업 안정성과 공정에 영향을 줄 수 있음"
+      ],
+      "importance": 3,
+      "tags": [
+        "선분양",
+        "공정률",
+        "사업 안정성"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "17683ee2bdcd",
+      "title": "[2026국감] HUG 든든전세 5채 중 1채 '하자 주택' 논란…당첨 후 집 바꾸...",
+      "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524629",
+      "naver_url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524629",
+      "source": "ilyoseoul.co.kr",
+      "description": "주택도시보증공사(HUG)가 운영하는 '든든전세주택' 사업에서 입주자 모집공고 이후 중대한 하자가 발견된... 든든전세주택 10차 모집 물량 780호 가운데 163호(20.9%)가 공고 이후 추가 보수가 필요한 것으로 파악됐다....",
+      "published_at": "2026-11-05T09:12+09:00",
+      "keywords": [
+        "전세",
+        "청약"
+      ],
+      "relevance": 8,
+      "category": "전월세",
+      "summary": [
+        "HUG 든든전세주택에서 공고 이후 하자 발견",
+        "10차 모집 물량 780호 중 163호 추가 보수 필요",
+        "추가 보수가 필요한 주택 비율은 20.9%로 파악됨"
+      ],
+      "importance": 3,
+      "tags": [
+        "HUG",
+        "든든전세주택",
+        "하자"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "31088063e0aa",
+      "title": "성남시, 국토부에 '닭죽촌 일대' 공공주택사업 제안",
+      "url": "https://www.yna.co.kr/view/AKR20261105030300061?input=1195m",
+      "naver_url": "https://n.news.naver.com/mnews/article/001/0016423020?sid=101",
+      "source": "연합뉴스",
+      "description": "1만7천여㎡ 대상…원도심 재개발·분당 재건축 이주수요 대응 경기 성남시는 수정구 닭죽촌 일대를 신규 공공주택지구 후보지로 지정해 사업을 시행해 달라고 국토교통부에 공식 제안했다고 5일 밝혔다. 시가 제안한...",
+      "published_at": "2026-11-05T08:46+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 8,
+      "category": "재건축·개발",
+      "summary": [
+        "성남시가 국토부에 닭죽촌 일대 공공주택사업을 제안함",
+        "신규 공공주택지구 후보지 제안 대상은 1만7천여㎡",
+        "원도심 재개발과 분당 재건축 이주수요에 대응"
+      ],
+      "importance": 3,
+      "tags": [
+        "성남시",
+        "닭죽촌",
+        "공공주택"
+      ],
+      "why": "",
+      "duplicates": 2,
+      "related": [
+        {
+          "source": "asiatime.co.kr",
+          "title": "[5일 성남시] 단대동 닭죽촌 일대 공공주택사업 국토부에 제안 등",
+          "url": "https://www.asiatime.co.kr/article/20261105500090"
+        },
+        {
+          "source": "sportsseoul.com",
+          "title": "신상진“‘닭죽촌’ 정부의 주택공급 정책 실현 핵심 거점”",
+          "url": "https://www.sportsseoul.com/news/read/1647209?ref=naver"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "4ef5d33f7b89",
+      "title": "청약 경쟁률 3배 가른 '분양가'…11월 5205가구 공급에 쏠린 눈",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730527",
+      "naver_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730527",
+      "source": "EBN",
+      "description": "이런 가운데 11월 서울 강남권 재건축과 수도권 공공택지 등을 중심으로 분양가 상한제 적용 아파트... 서울 서초구 반포동 대규모 재건축을 비롯해 경기 시흥거모·부천대장 공공주택지구, 의정부법조타운, 화성...",
+      "published_at": "2026-11-05T08:46+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 10,
+      "category": "분양·청약",
+      "summary": [
+        "분양가에 따라 청약 경쟁률이 3배 차이를 보임",
+        "11월 분양가 상한제 적용 아파트 5205가구 공급 예정임",
+        "서울 강남권 재건축과 수도권 공공택지 등이 공급 대상임"
+      ],
+      "importance": 3,
+      "tags": [
+        "분양가 상한제",
+        "청약 경쟁률",
+        "수도권"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "b4bb044cf633",
+      "title": "재건축 설명회 ‘뜨거운 관심’…집값 상승·분담금 변수",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8704449&ref=A",
+      "naver_url": "https://n.news.naver.com/mnews/article/056/0012287691?sid=101",
+      "source": "KBS",
+      "description": "실제 이 아파트 189제곱미터형의 경우 지난달 매매 가격이 29억 원을 넘겼는데, 선도지구 지정 전보다 5억 원 넘게 올랐습니다. 1차 선도지구 아파트를 중심으로 둔산동 외곽까지 재건축 기대감이 확산하는 가운데 열린...",
+      "published_at": "2026-11-05T07:39+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 5,
+      "category": "재건축·개발",
+      "summary": [
+        "해당 아파트 189㎡형 지난달 매매가 29억원 돌파",
+        "선도지구 지정 전보다 매매가 5억원 넘게 상승함",
+        "둔산동 외곽까지 재건축 기대감이 확산하는 상황"
+      ],
+      "importance": 3,
+      "tags": [
+        "둔산동",
+        "선도지구",
+        "재건축"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "e06de34932ac",
+      "title": "평택 고덕 핵심 입지 품은 '우미린 더 프리미어' 분양 돌입… 623가구 공...",
+      "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524645",
+      "naver_url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524645",
+      "source": "ilyoseoul.co.kr",
+      "description": "청약 일정은 11월 9일 특별공급을 시작으로 10일 1순위, 11일 2순위 접수가 진행된다. 당첨자 발표는 11월 17일이며 정당계약은 11월 29일부터 12월 1일까지 3일간 실시된다. 1순위 청약은 청약통장 가입 후 12개월이...",
+      "published_at": "2026-11-05T09:58+09:00",
+      "keywords": [
+        "청약",
+        "분양"
+      ],
+      "relevance": 3,
+      "category": "분양·청약",
+      "summary": [
+        "평택 고덕 우미린 더 프리미어 623가구 분양 돌입",
+        "11월 9일 특별공급에 이어 10일 1순위 청약 진행",
+        "당첨자 발표는 11월 17일, 정당계약은 29일부터 진행"
+      ],
+      "importance": 2,
+      "tags": [
+        "평택 고덕",
+        "우미린 더 프리미어",
+        "청약"
+      ],
+      "why": "",
+      "duplicates": 5,
+      "related": [
+        {
+          "source": "ikld.kr",
+          "title": "우미건설, '평택 고덕 우미린 더 프리미어' 견본주택 6일 오픈",
+          "url": "http://www.ikld.kr/news/articleView.html?idxno=343577"
+        },
+        {
+          "source": "bizwork.co.kr",
+          "title": "우미건설, '평택 고덕 우미린 더 프리미어' 6일 견본주택 개관",
+          "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=420544"
+        },
+        {
+          "source": "ftoday.co.kr",
+          "title": "우미건설 컨소시엄, '평택 고덕 우미린 더 프리미어' 6일 견본주택 개관",
+          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=368979"
+        },
+        {
+          "source": "gokorea.kr",
+          "title": "우미건설, '평택 고덕 우미린 더 프리미어' 6일 견본주택 개관",
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=884197"
+        },
+        {
+          "source": "pointdaily.co.kr",
+          "title": "우미건설, '평택 고덕 우미린 더 프리미어' 6일 견본주택 개관",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=324859"
+        }
+      ],
+      "source_known": false
+    },
+    {
+      "id": "ff205ae743b5",
+      "title": "전용 84㎡ 5억원대 분상제아파트… 계룡건설 '엘리프 시흥 더프라임' 6일...",
+      "url": "http://www.ikld.kr/news/articleView.html?idxno=343576",
+      "naver_url": "http://www.ikld.kr/news/articleView.html?idxno=343576",
+      "source": "ikld.kr",
+      "description": "본격적인 청약 일정에 돌입한다. '엘리프 시흥 더프라임'은 경기도 시흥시 거모동 일원(시흥거모... 청약 일정은 11월 9일(월) 특별공급을 시작으로 10일(화) 1순위, 11일(수) 2순위 청약 접수를 받는다. 당첨자 발표는 11월...",
+      "published_at": "2026-11-05T09:58+09:00",
+      "keywords": [
+        "청약",
+        "분양"
+      ],
+      "relevance": 3,
+      "category": "분양·청약",
+      "summary": [
+        "시흥 거모동 엘리프 시흥 더프라임 청약 돌입",
+        "분양가상한제 적용 전용 84㎡ 분양가는 5억원대",
+        "11월 9일 특별공급, 10일 1순위·11일 2순위 접수"
+      ],
+      "importance": 2,
+      "tags": [
+        "엘리프 시흥 더프라임",
+        "시흥시",
+        "분양가상한제"
+      ],
+      "why": "",
+      "duplicates": 2,
+      "related": [
+        {
+          "source": "ftoday.co.kr",
+          "title": "계룡건설, '엘리프 시흥 더프라임' 6일 견본주택 개관",
+          "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=368980"
+        },
+        {
+          "source": "bizwork.co.kr",
+          "title": "계룡건설, '엘리프 시흥 더프라임' 분양 돌입…6일 견본주태 개관",
+          "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=420546"
+        }
+      ],
+      "source_known": false
+    },
+    {
+      "id": "ad3c9272cd33",
+      "title": "경북도청신도시·서울·안산에 새 주거시설… 건설사 신규 공급 잇따라",
+      "url": "https://www.pressman.kr/news/articleView.html?idxno=104330",
+      "naver_url": "https://www.pressman.kr/news/articleView.html?idxno=104330",
+      "source": "pressman.kr",
+      "description": "주거형 오피스텔을 아파트와 함께 공급하는 복합개발 방식으로 사업을 추진한다. 각 단지의 구체적인 분양가격과 청약 조건은 입주자모집공고 등을 통해 확정될 예정이다. [프레스맨]",
+      "published_at": "2026-11-05T09:54+09:00",
+      "keywords": [
+        "청약",
+        "분양"
+      ],
+      "relevance": 8,
+      "category": "분양·청약",
+      "summary": [
+        "경북도청신도시·서울·안산에 새 주거시설 공급 추진",
+        "주거형 오피스텔과 아파트를 함께 공급하는 복합개발 추진",
+        "구체적인 분양가격과 청약 조건은 입주자모집공고 등으로 확정 예정"
+      ],
+      "importance": 2,
+      "tags": [
+        "경북도청신도시",
+        "신규 공급",
+        "주거형 오피스텔"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "20fe060a4c65",
+      "title": "대우건설 컨소시엄, ‘경북도청 푸르지오 퍼스티온’ 이달 분양",
+      "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/05/EY7NJ5XHOJFVXCA6NGI5OEE7WA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "naver_url": "https://n.news.naver.com/mnews/article/366/0001202730?sid=101",
+      "source": "조선비즈",
+      "description": "대우건설 컨소시엄은 경상북도 예천군 호명읍 경북도청신도시에 들어서는 ‘경북도청 푸르지오 퍼스티온’을 이달 분양할 예정이라고 5일 밝혔다. 단지는 지하 2층~지상 최고 25층, 12개 동, 전용면적 84㎡ 단일...",
+      "published_at": "2026-11-05T09:53+09:00",
+      "keywords": [
+        "분양",
+        "청약"
+      ],
+      "relevance": 5,
+      "category": "분양·청약",
+      "summary": [
+        "대우건설 컨소시엄이 경북도청 푸르지오 퍼스티온 이달 분양 예정",
+        "단지는 예천군 호명읍 경북도청신도시에 조성 예정",
+        "지하 2층~지상 최고 25층, 12개 동에 전용 84㎡ 단일 구성"
+      ],
+      "importance": 2,
+      "tags": [
+        "예천군",
+        "경북도청 푸르지오 퍼스티온",
+        "대우건설"
+      ],
+      "why": "",
+      "duplicates": 3,
+      "related": [
+        {
+          "source": "EBN",
+          "title": "대우건설, '경북도청 푸르지오 퍼스티온' 11월 분양",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730550"
+        },
+        {
+          "source": "inthenews.co.kr",
+          "title": "대우건설 컨소시엄, 경북도청 푸르지오 퍼스티온 1165세대 11월 분양",
+          "url": "https://www.inthenews.co.kr/news/article.html?no=94059"
+        },
+        {
+          "source": "businessplus.kr",
+          "title": "경북도청신도시 10년 만의 민간분양…대우건설 컨소, '경북도청 푸르지...",
+          "url": "https://www.businessplus.kr/news/articleView.html?idxno=119321"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "0be4a4583a6c",
+      "title": "부산 집값 상승 단지 살펴보니…역세권 입지 두드러져",
+      "url": "https://magazine.hankyung.com/business/article/202611057491b",
+      "naver_url": "https://n.news.naver.com/mnews/article/050/0000112847?sid=101",
+      "source": "한국경제",
+      "description": "일반분양 물량이다. 단지는 신혼부부와 다자녀가구를 위한 부산시 주거지원 정책 '아이맘 부산플랜' 특별공급이 함께 진행될 예정이다. 당첨 후 계약을 체결한 가구에는 분양가의 5%를 할인해 내 집 마련 부담도 덜어줄...",
+      "published_at": "2026-11-05T09:53+09:00",
+      "keywords": [
+        "분양"
+      ],
+      "relevance": 6,
+      "category": "분양·청약",
+      "summary": [
+        "부산 집값 상승 단지에서 역세권 입지가 두드러짐",
+        "신혼부부·다자녀가구 대상 아이맘 부산플랜 특별공급 예정",
+        "당첨 후 계약을 체결한 가구에 분양가 5% 할인"
+      ],
+      "importance": 2,
+      "tags": [
+        "부산",
+        "아이맘 부산플랜",
+        "특별공급"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "14d96753aecb",
+      "title": "용산구, 24일 재개발·재건축 '정비사업 아카데미'",
+      "url": "https://view.asiae.co.kr/article/2026110509415047379",
+      "naver_url": "https://n.news.naver.com/mnews/article/277/0005838368?sid=102",
+      "source": "아시아경제",
+      "description": "서울 용산구가 주민들이 어려워하는 재개발·재건축 절차와 전문용어를 풀어주는 ‘2026년 정비사업 아카데미'를 연다고 5일 밝혔다. 정비사업을 처음 접하는 주민부터 조합원까지 수준에 맞춰 들을 수 있도록 기초...",
+      "published_at": "2026-11-05T09:41+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 4,
+      "category": "재건축·개발",
+      "summary": [
+        "서울 용산구가 24일 정비사업 아카데미 개최",
+        "재개발·재건축 절차와 전문용어를 설명하는 교육",
+        "정비사업 입문 주민부터 조합원까지 수준별 수강"
+      ],
+      "importance": 2,
+      "tags": [
+        "용산구",
+        "정비사업 아카데미",
+        "재개발·재건축"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "1b52cdd062d2",
+      "title": "인천시 공인중개사 연수교육 6회 추가… 미이수 땐 과태료 최대 100만원",
+      "url": "https://www.viva100.com/article/20261105500106",
+      "naver_url": "https://www.viva100.com/article/20261105500106",
+      "source": "브릿지경제",
+      "description": "부동산 중개 관련 법령과 제도 변화, 중개업 경영 실무, 직업윤리, 전세사기 예방 등을 다룬다. 특히 부동산 거래 과정에서 발생할 수 있는 소비자 피해를 줄이고 중개업자의 책임과 전문성을 강화하는 데 무게를 뒀다....",
+      "published_at": "2026-11-05T09:06+09:00",
+      "keywords": [
+        "전세"
+      ],
+      "relevance": 5,
+      "category": "정책·규제",
+      "summary": [
+        "인천시가 공인중개사 연수교육을 6회 추가함",
+        "연수교육 미이수 시 최대 100만원 과태료 부과",
+        "중개 관련 법령과 실무·직업윤리·전세사기 예방 등을 교육"
+      ],
+      "importance": 2,
+      "tags": [
+        "인천시",
+        "공인중개사",
+        "연수교육"
+      ],
+      "why": "",
+      "duplicates": 5,
+      "related": [
+        {
+          "source": "뉴시스",
+          "title": "인천시, 공인중개사 연수교육 6차례 추가 실시…미이수 과태료 주의",
+          "url": "https://www.newsis.com/view/NISX20261105_0003855587"
+        },
+        {
+          "source": "businesskorea.co.kr",
+          "title": "인천시, 공인중개사 연수교육 6회 추가 실시",
+          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280509"
+        },
+        {
+          "source": "ppss.kr",
+          "title": "인천시, 공인중개사 연수교육 6차례 추가…미이수 과태료 주의",
+          "url": "https://www.ppss.kr/news/articleView.html?idxno=319171"
+        },
+        {
+          "source": "kmaeil.com",
+          "title": "인천시, 11~12월 공인중개사 추가 교육...전세사기 예방·직업윤리 강화",
+          "url": "https://www.kmaeil.com/news/articleView.html?idxno=657069"
+        },
+        {
+          "source": "tournews21.com",
+          "title": "인천시, 공인중개사 연수교육 추가 실시... 불이익 예방·전문성 강화",
+          "url": "https://www.tournews21.com/news/articleView.html?idxno=147580"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "33496effdf6d",
+      "title": "역세권이라더니 갈매역도, 별내역도 도보 20분…악취·소음은 어쩌지? ...",
+      "url": "https://realty.chosun.com/site/data/html_dir/2026/11/05/2026110500531.html",
+      "naver_url": "https://realty.chosun.com/site/data/html_dir/2026/11/05/2026110500531.html",
+      "source": "조선일보",
+      "description": "분양가상한제가 적용된 만큼 주변 아파트 매매가격과 비교해 낮은 수준이다. 2일 국토교통부 실거래가 공개시스템에 따르면 인근 갈매동 ‘갈매역아이파크’ 전용 84㎡는 지난달 9억4800만원에 거래됐다. 비교했을 때...",
+      "published_at": "2026-11-05T07:42+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 7,
+      "category": "분양·청약",
+      "summary": [
+        "갈매역과 별내역까지 도보 20분 거리로 소개됨",
+        "분양가상한제 적용으로 주변 매매가보다 낮은 수준",
+        "갈매역아이파크 전용 84㎡가 지난달 9억4800만원에 거래됨"
+      ],
+      "importance": 2,
+      "tags": [
+        "갈매역",
+        "별내역",
+        "분양가상한제"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    }
+  ],
+  "usage": {
+    "model": "gpt-6.1-sol",
+    "calls": 6,
+    "errors": 0,
+    "input_tokens": 14238,
+    "cached_tokens": 0,
+    "output_tokens": 4872,
+    "reasoning_tokens": 172,
+    "cost_usd": 0.0772,
+    "cost_krw": 108
+  }
+}
