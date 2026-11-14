@@ -1058,5 +1058,9 @@
     "reasoning_tokens": 123,
     "cost_usd": 0.0752,
     "cost_krw": 105
+  },
+  "instagram": {
+    "media_id": "18648418210029926",
+    "posted_at": "2026-11-15T04:10+09:00"
   }
 }
