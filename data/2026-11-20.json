@@ -1,0 +1,1023 @@
+{
+  "date": "2026-11-20",
+  "date_label": "2026년 11월 20일 (금)",
+  "generated_at": "2026-11-20T02:21+09:00",
+  "keywords_searched": [
+    "부동산",
+    "아파트 매매",
+    "전세",
+    "청약",
+    "주택담보대출",
+    "분양",
+    "재건축"
+  ],
+  "overview": "서울 아파트값 상승폭이 줄고 용산·동작은 하락했지만, 수도권 월세 부담은 커지고 있습니다. 매매시장 둔화와 임대료 상승이 엇갈리는 가운데, 주담대 금리 오름세와 전세사기 피해자 최소보장제도 눈여겨볼 소식입니다.",
+  "keywords": [
+    "아파트값",
+    "월세",
+    "주담대",
+    "정비사업",
+    "재건축",
+    "청약",
+    "분양가"
+  ],
+  "headline_ids": [
+    "ff24c183f2cf",
+    "69058275b969",
+    "cf251e5e12d4"
+  ],
+  "categories": {
+    "전월세": 3,
+    "정책·규제": 4,
+    "매매·시세": 4,
+    "금리·대출": 2,
+    "분양·청약": 6,
+    "기타": 2,
+    "재건축·개발": 4
+  },
+  "raw_count": 167,
+  "articles": [
+    {
+      "id": "69058275b969",
+      "title": "서울 월세 168만원, 경기 120만원… 인천도 100만원 넘겨",
+      "url": "https://www.chosun.com/economy/real_estate/2026/11/20/FL5NOZW2XZAPHMT5D5W6ACDF2I/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "naver_url": "https://n.news.naver.com/mnews/article/023/0004010662?sid=101",
+      "source": "조선일보",
+      "description": "19일 한국부동산원에 따르면, 지난달 서울 아파트 평균 월세는 168만1000원으로 1년 전(146만원)보다... 남혁우 우리은행 부동산연구원은 “종합부동산세 부담 등으로 임대인은 현금 흐름을 확보해야 하고...",
+      "published_at": "2026-11-20T00:33+09:00",
+      "keywords": [
+        "부동산",
+        "아파트 매매",
+        "전세"
+      ],
+      "relevance": 6,
+      "category": "전월세",
+      "summary": [
+        "지난달 서울 아파트 평균 월세 168만1000원 기록",
+        "서울 아파트 평균 월세는 1년 전 146만원 기록",
+        "경기 월세 120만원, 인천도 100만원 초과"
+      ],
+      "importance": 4,
+      "tags": [
+        "아파트 월세",
+        "서울",
+        "수도권"
+      ],
+      "why": "서울 아파트 평균 월세가 1년 전 146만원에서 168만1000원으로 올랐습니다. 경기·인천도 각각 120만원, 100만원을 넘어 세입자의 주거비 부담이 커졌습니다.",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "cf251e5e12d4",
+      "title": "전세사기 피해자, 보증금 최소 3분의 1 돌려받는다[부동산 빨간펜]",
+      "url": "https://www.donga.com/news/Economy/article/all/20261119/135056128/2",
+      "naver_url": "https://n.news.naver.com/mnews/article/020/0003763813?sid=101",
+      "source": "동아일보",
+      "description": "이번 부동산 빨간펜에서는 최소보장제란 무엇인지, 어떻게 받을 수 있는지 살펴보겠습니다. Q.... 신고하지 않거나 거짓으로 신고할 경우 과태료가 부과될 수 있습니다.” ‘부동산 빨간펜’에 무엇이든 물어보세요!...",
+      "published_at": "2026-11-20T00:31+09:00",
+      "keywords": [
+        "부동산",
+        "전세",
+        "청약"
+      ],
+      "relevance": 6,
+      "category": "정책·규제",
+      "summary": [
+        "전세사기 피해자 보증금 최소 3분의 1 반환",
+        "전세사기 피해자를 위한 최소보장제 소개",
+        "최소보장제의 내용과 지원받는 방법 안내"
+      ],
+      "importance": 4,
+      "tags": [
+        "전세사기",
+        "최소보장제",
+        "보증금"
+      ],
+      "why": "전세사기 피해자의 보증금을 최소 3분의 1 돌려주는 최소보장제가 소개됐습니다. 피해 세입자는 보증금 회복을 위해 지원 내용과 신청 방법을 확인할 필요가 있습니다.",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "ff24c183f2cf",
+      "title": "‘한강벨트’ 용산·동작도 집값 하락",
+      "url": "https://www.khan.co.kr/article/202611192049035",
+      "naver_url": "https://n.news.naver.com/mnews/article/032/0003483875?sid=101",
+      "source": "경향신문",
+      "description": "한국부동산원이 19일 발표한 11월 셋째 주(지난 16일 기준) 주간 아파트 가격 동향에 따르면, 서울 아파트 매매가격은 전주보다 0.03% 올랐다. 상승폭은 전주(0.07%)보다 0.04%포인트 줄었다. 이는 주간 단위 상승률로는...",
+      "published_at": "2026-11-19T20:49+09:00",
+      "keywords": [
+        "아파트 매매",
+        "전세",
+        "부동산",
+        "재건축",
+        "주택담보대출"
+      ],
+      "relevance": 7,
+      "category": "매매·시세",
+      "summary": [
+        "한국부동산원이 11월 셋째 주 가격 동향을 발표함",
+        "서울 아파트 매매가격이 전주 대비 0.03% 상승함",
+        "용산·동작 집값이 하락하고 서울 상승폭도 축소됨"
+      ],
+      "importance": 4,
+      "tags": [
+        "서울 아파트",
+        "용산구",
+        "동작구"
+      ],
+      "why": "서울 아파트값은 전주보다 0.03% 올랐지만 용산·동작은 하락했습니다. 실수요자와 투자자는 서울 전체 상승률보다 관심 지역의 가격 흐름을 살펴야 합니다.",
+      "duplicates": 16,
+      "related": [
+        {
+          "source": "서울경제",
+          "title": "용산·동작도 하락…서울 20개구, 집값 상승폭 둔화",
+          "url": "https://www.sedaily.com/article/20116670?ref=naver"
+        },
+        {
+          "source": "매일경제",
+          "title": "용산·동작도 집값 떨어져…하락세 번지는 한강벨트",
+          "url": "https://www.mk.co.kr/article/12213784"
+        },
+        {
+          "source": "gukjenews.com",
+          "title": "한국부동산원, 전국 아파트값 0.06%·전셋값 0.08% 상승…서울 매매 0.03...",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757676"
+        },
+        {
+          "source": "kyongbuk.co.kr",
+          "title": "대구 아파트 매매가 0.01% 하락…전셋값 0.05% 상승",
+          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091436"
+        },
+        {
+          "source": "usmbc.co.kr",
+          "title": "주간 아파트 매매가 '보합'‥동구 하락 주도",
+          "url": "https://www.usmbc.co.kr/NewsArticle/874395"
+        },
+        {
+          "source": "국민일보",
+          "title": "서울 집값 용산·동작도 하락했지만… 외곽은 여전히 상승",
+          "url": "https://www.kmib.co.kr/article/20261119502308"
+        },
+        {
+          "source": "idaegu.co.kr",
+          "title": "대구 아파트 다시 하락…전세는 상승 확대",
+          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=565925"
+        },
+        {
+          "source": "ksmnews.co.kr",
+          "title": "포항 아파트 시장 ‘한파’…북구 낙폭 확대",
+          "url": "https://www.ksmnews.co.kr/news/view.php?idx=630392"
+        },
+        {
+          "source": "kwangju.co.kr",
+          "title": "전남광주 아파트값 보합 전환…전셋값 하락 폭 확대",
+          "url": "http://www.kwangju.co.kr/article.php?aid=1795079400805526278"
+        },
+        {
+          "source": "한국경제",
+          "title": "서울·경기 전셋값은 여전히 고공행진",
+          "url": "https://www.hankyung.com/article/2026111982481"
+        },
+        {
+          "source": "머니투데이방송",
+          "title": "서울 아파트값 93주 연속 상승…5주째 상승폭 둔화",
+          "url": "https://news.mtn.co.kr/article/2026111916401269928"
+        },
+        {
+          "source": "ksilbo.co.kr",
+          "title": "울산 아파트값 상승세 주춤…16개월 만에 제자리 걸음",
+          "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073131"
+        },
+        {
+          "source": "연합뉴스TV",
+          "title": "서울 아파트값 상승폭 '뚝'…한강벨트 하락세 확산",
+          "url": "http://www.yonhapnewstv.co.kr/news/MYH20261119231015MBP"
+        },
+        {
+          "source": "매일경제",
+          "title": "용산·동작도 뚝 … 한강벨트 하락세 확산",
+          "url": "https://www.mk.co.kr/article/12213942"
+        },
+        {
+          "source": "한국경제",
+          "title": "\"여기도 집값 꺾였다\"…강남 넘어 확산하는 '하락 공포'",
+          "url": "https://www.hankyung.com/article/2026111982811"
+        },
+        {
+          "source": "한국경제",
+          "title": "강남 3구·한강벨트 '거래 빙하기'…하락 지역 더 늘어날 수도",
+          "url": "https://www.hankyung.com/article/2026111982491"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "ca2a67c214ca",
+      "title": "외국인 ‘토허제’ 1년… 서울 매수자 25% 줄고 부산은 46% 늘어",
+      "url": "https://www.chosun.com/economy/real_estate/2026/11/20/NABRGIGIYNGTBK5UQPL6TXLK6M/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "naver_url": "https://n.news.naver.com/mnews/article/023/0004010658?sid=101",
+      "source": "조선일보",
+      "description": "외국인 부동산 수요가 지방으로 분산되고 있다. 서울·경기 지역 외국인 매수자는 20% 넘게 줄었지만, 비수도권 외국인 부동산 소유자는 수도권보다 빠르게 늘었다. 실거주 의무가 붙은 수도권 대신 외국인...",
+      "published_at": "2026-11-20T00:32+09:00",
+      "keywords": [
+        "부동산"
+      ],
+      "relevance": 2,
+      "category": "매매·시세",
+      "summary": [
+        "외국인 토허제 1년간 서울 매수자 25% 감소함",
+        "같은 기간 부산 외국인 매수자는 46% 증가함",
+        "비수도권 외국인 부동산 소유자가 수도권보다 빠르게 증가함"
+      ],
+      "importance": 4,
+      "tags": [
+        "외국인 매수",
+        "토지거래허가제",
+        "부산"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "49da62580d56",
+      "title": "재초환 첫 부과 확정…한강벨트 하락 확산?",
+      "url": "https://biz.sbs.co.kr/article_hub/20000347661?division=NAVER",
+      "naver_url": "https://n.news.naver.com/mnews/article/374/0000544806?sid=101",
+      "source": "SBS",
+      "description": "[기자] 네, 한국부동산원이 발표한 주간 아파트 가격 동향에 따르면 이번 주 서울 아파트 매매가격지수는 지난주보다 0.03% 상승하는 데 그쳐 오름폭이 축소됐습니다. 강남권은 재건축 사업 초기 단지를 중심으로...",
+      "published_at": "2026-11-19T18:22+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 5,
+      "category": "매매·시세",
+      "summary": [
+        "재건축 초과이익환수제 첫 부과 확정",
+        "이번 주 서울 아파트 매매가격지수 0.03% 상승",
+        "서울 아파트 매매가격지수 상승폭이 전주보다 축소됨"
+      ],
+      "importance": 4,
+      "tags": [
+        "재초환",
+        "서울 아파트",
+        "매매가격지수"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "동아일보",
+          "title": "재초환 부과 확정…반포현대 등 약 80개 단지 1인당 최대 7억원",
+          "url": "https://www.donga.com/news/Economy/article/all/20261119/135055302/1"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "b53b9e4fdaee",
+      "title": "②빚 1200조 시대, 주담대 금리↑...차주도 은행도 ‘한숨’ [머니+]",
+      "url": "https://www.ekn.kr/web/view.php?key=20261119024551856",
+      "naver_url": "https://www.ekn.kr/web/view.php?key=20261119024551856",
+      "source": "에너지경제",
+      "description": "19일 은행권에 따르면 지난 17일 기준 KB국민·신한·하나·우리·NH농협은행 등 5대 은행의 주택담보대출 변동형(6개월) 금리는 연 4.44~6.51%로 나타났다. 약 일주일 전인 지난 9일 연 4.38~6.38% 대비 하단은 0.06%포인트(p)...",
+      "published_at": "2026-11-19T16:30+09:00",
+      "keywords": [
+        "주택담보대출"
+      ],
+      "relevance": 4,
+      "category": "금리·대출",
+      "summary": [
+        "17일 5대 은행 변동형 주담대 금리 연 4.44~6.51%",
+        "9일 변동형 주담대 금리는 연 4.38~6.38% 기록",
+        "변동형 주담대 금리 하단이 0.06%포인트 상승"
+      ],
+      "importance": 4,
+      "tags": [
+        "주택담보대출",
+        "변동금리",
+        "5대 은행"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "9e45e569db82",
+      "title": "전국 청약 가능 반도체 배후 단지 잇달아… 용인·평택 등 연말 분양",
+      "url": "https://www.donga.com/news/Economy/article/all/20261120/135058045/2",
+      "naver_url": "https://n.news.naver.com/mnews/article/020/0003763823?sid=101",
+      "source": "동아일보",
+      "description": "거주지와 관계없이 1순위 청약이 가능한 ‘전국 청약’ 아파트가 분양시장에서 주목받고 있다. 반도체 산업단지 등 대규모 개발사업이 추진되는 지역을 중심으로 미래 주거 수요와 가치 상승 기대가 맞물리면서...",
+      "published_at": "2026-11-20T01:17+09:00",
+      "keywords": [
+        "청약",
+        "분양"
+      ],
+      "relevance": 5,
+      "category": "분양·청약",
+      "summary": [
+        "용인·평택 등 반도체 배후 단지 연말 분양",
+        "거주지와 관계없이 1순위 청약 가능한 단지 주목",
+        "대규모 개발사업 추진 지역 중심으로 분양 이어짐"
+      ],
+      "importance": 3,
+      "tags": [
+        "전국 청약",
+        "용인",
+        "평택"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "0c1399d5d9b1",
+      "title": "디에이치 신반포에스테라 경쟁률 282대 1…40억 분양가에도 청약 흥행",
+      "url": "https://www.news1.kr/realestate/general/6360237",
+      "naver_url": "https://n.news.naver.com/mnews/article/421/0009300290?sid=101",
+      "source": "뉴스1",
+      "description": "3.3㎡당 역대 최고 분양가로 관심을 끈 서울 서초구 '디에이치 신반포에스테라' 5가구 청약에 1411명이 몰렸다. 40억 넘는 분양가에도 평균 경쟁률 282.2대 1을 기록했다. 19일 한국부동산원 청약홈에 따르면...",
+      "published_at": "2026-11-19T21:33+09:00",
+      "keywords": [
+        "청약",
+        "재건축"
+      ],
+      "relevance": 8,
+      "category": "분양·청약",
+      "summary": [
+        "디에이치 신반포에스테라 5가구에 1411명이 청약함",
+        "40억원 넘는 분양가에도 평균 경쟁률 282.2대 1 기록함",
+        "3.3㎡당 역대 최고 분양가로 관심을 끈 단지임"
+      ],
+      "importance": 3,
+      "tags": [
+        "디에이치 신반포에스테라",
+        "청약 경쟁률",
+        "서초구"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "67f6c31a873c",
+      "title": "부동산신탁사 적자 줄었는데...9.6조원 신탁계정대 '부담'",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1732395",
+      "naver_url": "https://www.ebn.co.kr/news/articleView.html?idxno=1732395",
+      "source": "EBN",
+      "description": "재개발·재건축 사업은 계약을 따내더라도 실제 수수료를 벌기까지 시간이 걸린다. 연말 실적도 변수다. 신탁사들은 통상 4분기에 회수하기 어려운 자금을 점검하고 손실을 한꺼번에 반영하는 경향이 있다. 올해...",
+      "published_at": "2026-11-19T21:02+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 4,
+      "category": "기타",
+      "summary": [
+        "부동산신탁사 적자 감소에도 신탁계정대 9.6조원 부담",
+        "재개발·재건축은 수주 후 수수료 수익까지 시간 소요",
+        "신탁사들은 통상 4분기에 회수 곤란 자금 손실 반영"
+      ],
+      "importance": 3,
+      "tags": [
+        "부동산신탁사",
+        "신탁계정대",
+        "재개발·재건축"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "7b3f70b4bed9",
+      "title": "[참성단] 카드로 막는 집세",
+      "url": "https://www.kyeongin.com/article/1775116",
+      "naver_url": "https://www.kyeongin.com/article/1775116",
+      "source": "경인일보",
+      "description": "‘전세의 월세화’ 속도가 무섭다. 실거주 의무 등 고강도 규제 탓에 전세 매물이 귀해졌고 시장은 빠르게 월세로 기울었다. 올해 1~8월 전국 전월세 거래 가운데 68.5%가 월세 낀 계약이다. 지난해 같은 기간보다 6.3%p...",
+      "published_at": "2026-11-19T20:40+09:00",
+      "keywords": [
+        "전세"
+      ],
+      "relevance": 3,
+      "category": "전월세",
+      "summary": [
+        "올해 1~8월 전국 전월세 거래 중 월세 낀 계약 68.5% 기록함",
+        "월세 낀 계약 비중은 전년 동기보다 6.3%p 상승함",
+        "전세 매물이 귀해지며 전세의 월세화가 빠르게 진행됨"
+      ],
+      "importance": 3,
+      "tags": [
+        "월세",
+        "전세의 월세화",
+        "전월세 거래"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "82b577c7b161",
+      "title": "최대호 안양시장, 평촌 정비사업 제도 개선 추진…구역 지정 물량 제한...",
+      "url": "http://www.beyondpost.co.kr/view.php?ud=2026111920034825664c878f8fa1_30",
+      "naver_url": "http://www.beyondpost.co.kr/view.php?ud=2026111920034825664c878f8fa1_30",
+      "source": "beyondpost.co.kr",
+      "description": "중앙정부와 지방정부의 협력을 바탕으로 신규 주택공급과 민간 재개발·재건축을 활성화하기 위한 지역별 현안과 개선 방안을 논의했다. 시는 간담회에 앞서 평촌신도시 정비구역 지정 물량 제한 개선과 개발제한구역...",
+      "published_at": "2026-11-19T20:26+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 4,
+      "category": "재건축·개발",
+      "summary": [
+        "최대호 안양시장, 평촌 정비사업 제도 개선 추진함",
+        "평촌신도시 정비구역 지정 물량 제한 개선 건의함",
+        "중앙·지방정부, 주택공급과 민간 정비사업 활성화 방안 논의함"
+      ],
+      "importance": 3,
+      "tags": [
+        "안양시",
+        "평촌신도시",
+        "정비구역"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "newstown.co.kr",
+          "title": "안양시, 평촌 정비 물량 관리 '이주·착공 단계로' 건의",
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=722683"
+        }
+      ],
+      "source_known": false
+    },
+    {
+      "id": "48090075e8bb",
+      "title": "이재준 수원시장, 한성숙 국무총리에게 ‘정비사업 기간 단축 위한 제도...",
+      "url": "https://biz.heraldcorp.com/article/10943226?ref=naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/016/0002725931?sid=100",
+      "source": "헤럴드경제",
+      "description": "참석자들은 수도권 내 재개발·재건축사업의 사업 기간 단축 방안, ‘8.13 후속 조치’로 발표된 신규 택지에 대해 ‘최단기 착공모델’ 적용 방안 등을 논의했다. 한성숙 국무총리는 “재개발·재건축 등 민간정비사업은...",
+      "published_at": "2026-11-19T20:08+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 6,
+      "category": "정책·규제",
+      "summary": [
+        "이재준 수원시장이 정비사업 기간 단축 제도를 건의함",
+        "참석자들이 수도권 재개발·재건축 기간 단축을 논의함",
+        "8.13 후속 신규 택지의 최단기 착공모델 적용을 논의함"
+      ],
+      "importance": 3,
+      "tags": [
+        "정비사업",
+        "수원시",
+        "최단기 착공모델"
+      ],
+      "why": "",
+      "duplicates": 2,
+      "related": [
+        {
+          "source": "newscj.com",
+          "title": "이재준 수원시장, 주택 재개발·재건축사업 기간 단축 정부에 건의",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3450486"
+        },
+        {
+          "source": "newstown.co.kr",
+          "title": "수원특례시, 정비사업 지연 줄일 제도개선 정부에 요청",
+          "url": "http://www.newstown.co.kr/news/articleView.html?idxno=722702"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "ff4f7b4093cd",
+      "title": "3기 신도시, 내년 공공분양 9,200가구 공급… 남양주 왕숙 교통·주거 인...",
+      "url": "https://www.lawissue.co.kr/view.php?ud=20261119170200481807f28b58b8_12",
+      "naver_url": "https://www.lawissue.co.kr/view.php?ud=20261119170200481807f28b58b8_12",
+      "source": "lawissue.co.kr",
+      "description": "왕숙지구에서는 LH와 한신공영 컨소시엄이 참여하는 민간참여 공공분양 아파트 ‘왕숙 한신더휴 센텀’... 한국부동산원이 발표한 10월 주택 매매가격지수는 전국 0.28%, 수도권 0.57%, 서울 0.65%의 전월 대비 상승률을...",
+      "published_at": "2026-11-19T18:32+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 10,
+      "category": "분양·청약",
+      "summary": [
+        "3기 신도시 내년 공공분양 9,200가구 공급 예정",
+        "왕숙 한신더휴 센텀에 LH·한신공영 컨소시엄 참여",
+        "10월 전국 주택 매매가격지수 전월 대비 0.28% 상승"
+      ],
+      "importance": 3,
+      "tags": [
+        "3기 신도시",
+        "남양주 왕숙",
+        "공공분양"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "8958e277595b",
+      "title": "반포 ‘분양가 1억’ 제동…시장 왜곡하는 분상제",
+      "url": "https://www.sedaily.com/article/20116668?ref=naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/011/0004684136?sid=101",
+      "source": "서울경제",
+      "description": "정부가 25억 원 초과 고가 아파트의 주택담보대출 한도를 2억 원으로 제한하면서 디에이치 반포124는 30억 원 안팎의 현금을 동원할 수 있는 자산가들만 청약에 나설 수 있는 구조가 됐다. 재건축의 경우 일반분양 수익이...",
+      "published_at": "2026-11-19T18:28+09:00",
+      "keywords": [
+        "주택담보대출"
+      ],
+      "relevance": 9,
+      "category": "정책·규제",
+      "summary": [
+        "반포의 3.3㎡당 분양가 1억원에 제동이 걸림",
+        "25억원 초과 아파트 주담대 한도가 2억원으로 제한됨",
+        "디에이치 반포124 청약에 현금 30억원 안팎이 필요함"
+      ],
+      "importance": 3,
+      "tags": [
+        "분양가상한제",
+        "디에이치 반포124",
+        "주택담보대출"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "65e4acdc14fb",
+      "title": "국토부, 이혜훈 반포 원펜타스 계약취소 요청…조합에 공문",
+      "url": "https://news.jtbc.co.kr/article/NB12328933?influxDiv=NAVER",
+      "naver_url": "https://n.news.naver.com/mnews/article/437/0000521534?sid=101",
+      "source": "JTBC",
+      "description": "당첨된 전용 137㎡의 분양가는 36억 7천840만 원인데, 현재 매매 호가는 84억에서 86억 원입니다. 40억 원대 시세차익이 기대되는 상황입니다. 경찰은 이 아파트를 범죄수익으로 판단하고, 기소 전 몰수보전을...",
+      "published_at": "2026-11-19T18:06+09:00",
+      "keywords": [
+        "아파트 매매",
+        "청약",
+        "분양",
+        "재건축"
+      ],
+      "relevance": 6,
+      "category": "분양·청약",
+      "summary": [
+        "국토부가 조합에 이혜훈 원펜타스 계약취소를 요청함",
+        "당첨된 전용 137㎡ 분양가는 36억 7천840만원임",
+        "현재 해당 아파트 매매 호가는 84억~86억원임"
+      ],
+      "importance": 3,
+      "tags": [
+        "원펜타스",
+        "계약취소",
+        "국토부"
+      ],
+      "why": "",
+      "duplicates": 2,
+      "related": [
+        {
+          "source": "tjb.co.kr",
+          "title": "국토부, 이혜훈 '반포 아파트' 계약 취소 요청",
+          "url": "https://www.tjb.co.kr/news05/bodo/view/id/106301"
+        },
+        {
+          "source": "국민일보",
+          "title": "이혜훈 반포아파트 ‘계약취소’… 부정청약 354건도 동일 절차",
+          "url": "https://www.kmib.co.kr/article/20261119502314"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "4ce054636563",
+      "title": "(현장+)월세 '불장' 대 매매 '빙하기'…오피스텔 '극과 극'",
+      "url": "http://www.newstomato.com/ReadNews.aspx?no=1321152&inflow=N",
+      "naver_url": "http://www.newstomato.com/ReadNews.aspx?no=1321152&inflow=N",
+      "source": "newstomato.com",
+      "description": "(사진=박선영 기자) 서울 소형 오피스텔 시장에서 월세는 꾸준히 오르고 있지만 매매거래는 좀처럼... 김은선 직방 빅데이터랩장은 \"아파트는 실거주 수요에 시세차익을 기대하는 매수세가 더해지는 반면, 업무지구...",
+      "published_at": "2026-11-19T17:34+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 6,
+      "category": "전월세",
+      "summary": [
+        "서울 소형 오피스텔 시장에서 월세 상승세 지속됨",
+        "월세 상승과 달리 오피스텔 매매거래는 부진함",
+        "직방 김은선, 아파트는 실거주·시세차익 매수세가 더해진다고 설명함"
+      ],
+      "importance": 3,
+      "tags": [
+        "서울",
+        "소형 오피스텔",
+        "월세"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "bace501cc1ad",
+      "title": "집 팔아 10억 남겨도…서울 '국평' 후보 19→15곳",
+      "url": "http://www.inews24.com/view/2028215",
+      "naver_url": "https://n.news.naver.com/mnews/article/031/0001076721?sid=101",
+      "source": "아이뉴스24",
+      "description": "부부 합산 연소득은 1억3000만원 정도였는데 주택담보대출이 최대 4억원으로 제한되면서 1억4500만원이 부족했던 거죠.\"(서울 강동구 고덕동 A공인중개사무소 대표) 서울에서 기존 아파트를 팔아 현금 10억원을...",
+      "published_at": "2026-11-19T16:38+09:00",
+      "keywords": [
+        "주택담보대출"
+      ],
+      "relevance": 3,
+      "category": "금리·대출",
+      "summary": [
+        "현금 10억원 보유 시 서울 국평 후보 19곳서 15곳으로 감소함",
+        "부부 합산 연소득 약 1억3000만원 사례가 소개됨",
+        "주택담보대출 최대 4억원 제한으로 1억4500만원 부족함"
+      ],
+      "importance": 3,
+      "tags": [
+        "서울",
+        "주택담보대출",
+        "국민평형"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "346758eae437",
+      "title": "부경연, 민간 주택공급·지방 미분양 해소 제도개선 건의",
+      "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=420983",
+      "naver_url": "https://www.bizwork.co.kr/news/articleView.html?idxno=420983",
+      "source": "bizwork.co.kr",
+      "description": "금융 분야에서는 규제지역을 제외한 지방 주택담보대출에 2028년 말까지 스트레스 DSR을 적용하지 말 것을 건의했다. 6개월 단위 유예가 반복되면서 구입자가 잔금대출 규모를 예측하기 어렵다는 지적이다. 부경연은...",
+      "published_at": "2026-11-19T15:44+09:00",
+      "keywords": [
+        "주택담보대출"
+      ],
+      "relevance": 7,
+      "category": "정책·규제",
+      "summary": [
+        "부경연, 민간 주택공급·지방 미분양 해소 제도개선 건의함",
+        "규제지역 외 지방 주담대 스트레스 DSR 유예 건의함",
+        "2028년 말까지 유예해 잔금대출 예측 곤란 해소 건의함"
+      ],
+      "importance": 3,
+      "tags": [
+        "부경연",
+        "지방 미분양",
+        "스트레스 DSR"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "006c13af98b0",
+      "title": "“아파트 이미지 고급화해야 집값 올라” 유명 가수 부르고 상가 간판까...",
+      "url": "https://www.chosun.com/national/national_general/2026/11/20/IWMCT2ZTSREVPFDK34HMNRYXAM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "naver_url": "https://n.news.naver.com/mnews/article/023/0004010708?sid=102",
+      "source": "조선일보",
+      "description": "서진형 광운대 부동산법무학과 교수는 “최근 아파트 외관과 브랜드 이미지가 집값에 영향을 미치는 요인으로 여겨지면서 입주민들이 단지 고급화 경쟁에 나선 것”이라고 했다.",
+      "published_at": "2026-11-20T00:48+09:00",
+      "keywords": [
+        "부동산"
+      ],
+      "relevance": 9,
+      "category": "기타",
+      "summary": [
+        "아파트 입주민들이 단지 고급화 경쟁에 나섬",
+        "단지 고급화를 위해 유명 가수를 부르는 사례가 등장함",
+        "서진형 교수는 외관·브랜드가 집값 요인으로 여겨진다고 설명함"
+      ],
+      "importance": 2,
+      "tags": [
+        "아파트 고급화",
+        "브랜드 이미지"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "a43dca64b38b",
+      "title": "재개발 신축 빌라 투자, 사용승인일 확인해야[박일규의 정비 이슈 분석...",
+      "url": "https://www.donga.com/news/Economy/article/all/20261119/135056123/2",
+      "naver_url": "https://n.news.naver.com/mnews/article/020/0003763814?sid=101",
+      "source": "동아일보",
+      "description": "예를 들어 단독주택이 헐린 자리에 다세대주택 열 채가 분양됐다고 생각해보자. 매수인은 정상적으로 집을... 빌라 분양 안내문, 매도인이나 중개인이 설명한 내용 등을 계약서에 반영하거나 입주권이 인정되지 않을 때...",
+      "published_at": "2026-11-20T00:31+09:00",
+      "keywords": [
+        "분양"
+      ],
+      "relevance": 8,
+      "category": "재건축·개발",
+      "summary": [
+        "재개발 신축 빌라 투자 시 사용승인일 확인을 강조함",
+        "빌라 분양 안내와 중개 설명의 계약서 반영을 제시함",
+        "입주권이 인정되지 않는 경우의 계약 대응을 다룸"
+      ],
+      "importance": 2,
+      "tags": [
+        "재개발",
+        "신축 빌라",
+        "사용승인일"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "298a3d56439e",
+      "title": "'집값 급등 사과' 김용범, 서초 아파트값 4.7억 뛰었다 … 퇴직 재산 49....",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950360.html",
+      "naver_url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950360.html",
+      "source": "뉴데일리",
+      "description": "김 비서관은 본인과 배우자 명의의 서울 서초구 반포동 아파트 분양권 42억원과 강남구 도곡동 아파트 전세권 13억원 등 건물 관련 재산 55억원을 신고했다. 예금은 13억4752만원, 증권은 6억4962만원이다. 재직자 재산...",
+      "published_at": "2026-11-20T00:00+09:00",
+      "keywords": [
+        "분양",
+        "부동산",
+        "전세",
+        "아파트 매매"
+      ],
+      "relevance": 8,
+      "category": "매매·시세",
+      "summary": [
+        "김용범의 서초 아파트값이 4.7억원 상승함",
+        "반포동 아파트 분양권 42억원을 신고함",
+        "도곡동 아파트 전세권 13억원을 신고함"
+      ],
+      "importance": 2,
+      "tags": [
+        "김용범",
+        "반포동",
+        "재산신고"
+      ],
+      "why": "",
+      "duplicates": 23,
+      "related": [
+        {
+          "source": "아시아경제",
+          "title": "김용범 전 정책실장, 집값 상승에 재산 4억4000만원 늘어",
+          "url": "https://view.asiae.co.kr/article/2026111923163624781"
+        },
+        {
+          "source": "한국경제",
+          "title": "김휘강 靑 사이버안보비서관 재산 75억",
+          "url": "https://www.hankyung.com/article/2026111982641"
+        },
+        {
+          "source": "뉴시스",
+          "title": "김휘강 사이버안보비서관 재산 75억…퇴직 1위는 김상호 前 춘추관장 55...",
+          "url": "https://www.newsis.com/view/NISX20261119_0003875185"
+        },
+        {
+          "source": "imnews.imbc.com",
+          "title": "김휘강 안보실 사이버안보비서관 '75억'..고위공직자 재산 공개",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6867083_36911.html"
+        },
+        {
+          "source": "파이낸셜뉴스",
+          "title": "'해커' 출신 김휘강 국가안보실 비서관 재산 75억...반포분양권 42억 보...",
+          "url": "https://www.fnnews.com/news/202611191614510268"
+        },
+        {
+          "source": "국민일보",
+          "title": "김휘강 靑 사이버안보비서관, 보안업체 주식 4억 보유",
+          "url": "https://www.kmib.co.kr/article/20261119502472"
+        },
+        {
+          "source": "동아일보",
+          "title": "김휘강 靑사이버안보비서관, 75억 재산신고…고위공직자 1위",
+          "url": "https://www.donga.com/news/Politics/article/all/20261119/135055093/1"
+        },
+        {
+          "source": "헤럴드경제",
+          "title": "[재산공개] 김휘강 사이버안보비서관 75억…신규 공개대상 중 1위",
+          "url": "https://biz.heraldcorp.com/article/10943121?ref=naver"
+        },
+        {
+          "source": "경향신문",
+          "title": "김휘강 사이버안보비서관 75억·김회승 춘추관장 18억 각각 신고",
+          "url": "https://www.khan.co.kr/article/202611200001001"
+        },
+        {
+          "source": "뉴시스",
+          "title": "靑 김휘강 사이버안보비서관 75억…김회승 춘추관장 18억[재산공개]",
+          "url": "https://www.newsis.com/view/NISX20261119_0003875381"
+        },
+        {
+          "source": "노컷뉴스",
+          "title": "김휘강 靑 비서관, 재산 75억 신고…고위공직 60명 중 1위",
+          "url": "https://www.nocutnews.co.kr/news/6609898?utm_source=naver&utm_medium=article&utm_campaign=20261120011107"
+        },
+        {
+          "source": "뉴스핌",
+          "title": "[재산공개] 김휘강 비서관 75억 신고…김용범 전 정책실장 재산 4.5억 늘...",
+          "url": "https://www.newspim.com/news/view/20261119001481"
+        },
+        {
+          "source": "한국일보",
+          "title": "반포 아파트 분양권만 42억… 김휘강 靑 비서관, 재산 75억 신고",
+          "url": "https://www.hankookilbo.com/news/article/A2026111915490000224?did=NA"
+        },
+        {
+          "source": "머니투데이",
+          "title": "김휘강 국가안보실 비서관 '75억' 재산 1위…11월 고위공직자 재산 공개",
+          "url": "https://www.mt.co.kr/policy/2026/11/20/2026111914445899929"
+        },
+        {
+          "source": "뉴스핌",
+          "title": "[재산공개] 박광수 한국여성인권진흥원장, 전세 임차권 등 14억8500만원 ...",
+          "url": "https://www.newspim.com/news/view/20261119001106"
+        },
+        {
+          "source": "뉴스1",
+          "title": "김휘강 75억·김상호 55억…11월 재산공개 재직·퇴직자 각각 1위",
+          "url": "https://www.news1.kr/politics/pm-bai-comm/6359767"
+        },
+        {
+          "source": "연합뉴스TV",
+          "title": "고위공직 60명 재산공개…김휘강 안보비서관 75억 최다",
+          "url": "http://www.yonhapnewstv.co.kr/news/AKR20261119165636MCZ"
+        },
+        {
+          "source": "조선비즈",
+          "title": "고위공직자 60명 재산공개…1위는 김휘강 靑 사이버안보비서관",
+          "url": "https://biz.chosun.com/policy/politics/2026/11/20/WLYSOWMMFRC2XHFZCNRDXDYTVI/?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        },
+        {
+          "source": "연합뉴스",
+          "title": "고위공직 60명 재산공개…김휘강 靑사이버안보비서관 75억 최다",
+          "url": "https://www.yna.co.kr/view/AKR20261119130800001?input=1195m"
+        },
+        {
+          "source": "머니투데이",
+          "title": "서울시 '1급 승진자' 3명 고위공직자 재산 공개…이동률·마채숙·정진우",
+          "url": "https://www.mt.co.kr/policy/2026/11/20/2026111916294231616"
+        },
+        {
+          "source": "뉴스1",
+          "title": "권민수 한은 부총재, 재산 16.8억 신고…분당 18억대 아파트 보유",
+          "url": "https://www.news1.kr/economy/trend/6360102"
+        },
+        {
+          "source": "세계일보",
+          "title": "김휘강 국가안보실 사이버안보비서관 재산 75억원…남영준 국립중앙도...",
+          "url": "https://www.segye.com/newsView/20261119518554?OutUrl=naver"
+        },
+        {
+          "source": "연합뉴스",
+          "title": "[재산공개] 박광수 한국여성인권진흥원장 14억8천만원 첫 신고",
+          "url": "https://www.yna.co.kr/view/AKR20261119131000530?input=1195m"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "ae1256bea07d",
+      "title": "유재석, 논현동 198억 현금 매입 부지 신축 건물 완공…\"얼마나 더 오를...",
+      "url": "https://www.newsis.com/view/NISX20261119_0003874712",
+      "naver_url": "https://m.entertain.naver.com/article/003/0014334489",
+      "source": "뉴시스",
+      "description": "특히 이번 신축 과정에서는 유재석 씨의 영리한 부동산 투자 전략이 돋보인다는 평가가 나온다. 유 씨는 기존 두 개의 필지를 매입한 뒤 이를 하나로 합쳐 신축함으로써 앞뒤 도로 양방향에서 모두 건물로 접근할 수...",
+      "published_at": "2026-11-20T00:00+09:00",
+      "keywords": [
+        "부동산"
+      ],
+      "relevance": 3,
+      "category": "재건축·개발",
+      "summary": [
+        "유재석, 논현동 198억원 현금 매입 부지 신축 건물 완공함",
+        "기존 두 필지를 매입한 뒤 하나로 합쳐 신축함",
+        "앞뒤 도로 양방향에서 건물 접근이 가능해짐"
+      ],
+      "importance": 2,
+      "tags": [
+        "논현동",
+        "유재석",
+        "신축"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "b55306084318",
+      "title": "청약홈, 글로벌스탠더드 경영대상 BEST BRAND 대상 수상",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757707",
+      "naver_url": "https://www.gukjenews.com/news/articleView.html?idxno=3757707",
+      "source": "gukjenews.com",
+      "description": "2026 글로벌스탠더드 경영대상 시상식(한국부동산원 서동진 주택공급지원본부장(우측)) 한국부동산원은 주택청약시스템 '청약홈'이 한국경영인증원(KMR)이 주관한 '제25회 글로벌스탠더드 경영대상'에서 'BEST BRAND 대상...",
+      "published_at": "2026-11-19T23:50+09:00",
+      "keywords": [
+        "청약"
+      ],
+      "relevance": 5,
+      "category": "분양·청약",
+      "summary": [
+        "한국부동산원 주택청약시스템 청약홈의 수상 소식임",
+        "제25회 글로벌스탠더드 경영대상 BEST BRAND 대상 수상함",
+        "한국경영인증원이 주관한 경영대상 시상식에서 수상함"
+      ],
+      "importance": 2,
+      "tags": [
+        "청약홈",
+        "한국부동산원",
+        "글로벌스탠더드 경영대상"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "4890bfc2ef13",
+      "title": "성북구, 정비사업 공사장 9곳 동절기 안전점검…강풍·폭설 대비",
+      "url": "https://biz.heraldcorp.com/article/10943277?ref=naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/016/0002725954?sid=102",
+      "source": "헤럴드경제",
+      "description": "주거정비과 소관 사업장은 장위4·6·10구역, 신월곡1구역, 장위동 63-112 일대 공공지원 민간임대주택 사업장, 동신아파트 소규모 재건축 사업장이다. 신속도시정비과 소관은 삼선5구역, 동선2구역, 개운산마을 등이다....",
+      "published_at": "2026-11-19T22:19+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 5,
+      "category": "재건축·개발",
+      "summary": [
+        "성북구 정비사업 공사장 9곳 동절기 안전점검",
+        "강풍·폭설에 대비한 정비사업 현장 점검",
+        "장위4·6·10구역과 삼선5구역 등 점검 대상"
+      ],
+      "importance": 2,
+      "tags": [
+        "성북구",
+        "정비사업",
+        "동절기 안전점검"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "606668b33f24",
+      "title": "태영건설, '구미 파크원 데시앙' 분양 …지역 첫 민간공원 특례단지",
+      "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/19/2026111990333.html",
+      "naver_url": "https://n.news.naver.com/mnews/article/448/0000652197?sid=101",
+      "source": "TV조선",
+      "description": "청약 일정은 오는 23일일 특별공급을 시작으로 24일 1순위, 25일 2순위 청약을 받는다. 이후 12월 2일 당첨자를 발표한다. 1순위 청약은 청약통장 가입기간 6개월 이상, 지역별·면적별 예치금을 충족한 만 19세 이상의...",
+      "published_at": "2026-11-19T21:31+09:00",
+      "keywords": [
+        "청약"
+      ],
+      "relevance": 3,
+      "category": "분양·청약",
+      "summary": [
+        "태영건설, 구미 첫 민간공원 특례단지 파크원 데시앙 분양함",
+        "23일 특별공급 후 24일 1순위·25일 2순위 청약 진행함",
+        "당첨자 발표는 청약 이후 12월 2일로 예정됨"
+      ],
+      "importance": 2,
+      "tags": [
+        "구미 파크원 데시앙",
+        "태영건설",
+        "청약"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    }
+  ],
+  "usage": {
+    "model": "gpt-6.1-sol",
+    "calls": 6,
+    "errors": 0,
+    "input_tokens": 13512,
+    "cached_tokens": 0,
+    "output_tokens": 4707,
+    "reasoning_tokens": 136,
+    "cost_usd": 0.0741,
+    "cost_krw": 104
+  }
+}
