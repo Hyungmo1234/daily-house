@@ -1,0 +1,996 @@
+{
+  "date": "2026-11-21",
+  "date_label": "2026년 11월 21일 (토)",
+  "generated_at": "2026-11-21T01:07+09:00",
+  "keywords_searched": [
+    "부동산",
+    "아파트 매매",
+    "전세",
+    "청약",
+    "주택담보대출",
+    "분양",
+    "재건축"
+  ],
+  "overview": "서울 일부 한강벨트에서 매매가 하락이 커지는 반면 전셋값은 올라 매매·임대 시장의 온도 차가 드러났습니다. 공시가 현실화율 동결에도 보유세 부담이 늘 수 있다는 보도와 공공임대 입주 기준 개편 검토도 주목할 소식입니다.",
+  "keywords": [
+    "보유세",
+    "공공임대",
+    "전셋값",
+    "주담대",
+    "재건축",
+    "청약",
+    "전세사기",
+    "공급"
+  ],
+  "headline_ids": [
+    "0faddff0cfb3",
+    "51afda67fc97",
+    "bdbac2669dcc"
+  ],
+  "categories": {
+    "정책·규제": 3,
+    "매매·시세": 5,
+    "전월세": 2,
+    "재건축·개발": 3,
+    "금리·대출": 2,
+    "분양·청약": 6,
+    "기타": 4
+  },
+  "raw_count": 165,
+  "articles": [
+    {
+      "id": "bdbac2669dcc",
+      "title": "공공임대 소득·자산 기준 폐지 검토… “취약층 입주 기회 줄어들 수도...",
+      "url": "https://www.segye.com/newsView/20261120514585?OutUrl=naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/022/0004176876?sid=101",
+      "source": "세계일보",
+      "description": "저소득층과 장애인 등을 위한 매입·전세임대도 같은 기간 54만3000가구 공급할 계획이다. 최근 5년간 공급한 38만1000가구보다 약 40% 늘어난 수준이다. 최정민 국토부 주거복지정책과장은 “보편형 임대주택은 중산층...",
+      "published_at": "2026-11-20T19:36+09:00",
+      "keywords": [
+        "전세",
+        "분양"
+      ],
+      "relevance": 7,
+      "category": "정책·규제",
+      "summary": [
+        "공공임대주택 소득·자산 기준 폐지 검토함",
+        "저소득층·장애인 등 위한 매입·전세임대 54만3000가구 공급 계획임",
+        "최근 5년 공급량 38만1000가구보다 약 40% 늘어난 수준임"
+      ],
+      "importance": 5,
+      "tags": [
+        "공공임대",
+        "소득·자산 기준",
+        "매입·전세임대"
+      ],
+      "why": "공공임대 소득·자산 기준 폐지가 검토되면서 취약계층의 입주 기회 축소 우려가 나옵니다. 저소득 세입자는 매입·전세임대 공급 확대 계획과 함께 입주 기준 변경 여부를 확인해야 합니다.",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "에너지경제",
+          "title": "17.5만 가구 공급하는 보편형 공공임대…‘재원·순환설계’ 시험대",
+          "url": "https://www.ekn.kr/web/view.php?key=20261120024182751"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "51afda67fc97",
+      "title": "'용산·동작' 한강벨트 하락 확대…전세는 상승세",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856379&plink=ORI&cooper=NAVER",
+      "naver_url": "https://n.news.naver.com/mnews/article/055/0001404639?sid=101",
+      "source": "SBS",
+      "description": "이번 주 서울 아파트 전셋값은 0.14% 상승했습니다. 성북과 금천, 강북구가 0.3%대 상승률을 보였고, 매매가가 떨어진 강남구도 전셋값은 0.22% 올랐습니다. [박원갑/KB국민은행 부동산 수석전문위원 : 입주 물량이 부족하고...",
+      "published_at": "2026-11-20T20:28+09:00",
+      "keywords": [
+        "아파트 매매",
+        "전세"
+      ],
+      "relevance": 6,
+      "category": "매매·시세",
+      "summary": [
+        "용산·동작 한강벨트 아파트 매매가 하락 확대",
+        "이번 주 서울 아파트 전셋값 0.14% 상승",
+        "매매가 하락한 강남구도 전셋값은 0.22% 상승"
+      ],
+      "importance": 4,
+      "tags": [
+        "한강벨트",
+        "서울 아파트",
+        "전셋값"
+      ],
+      "why": "용산·동작의 매매가 하락이 확대되는 가운데 서울 전셋값은 이번 주 0.14% 올랐습니다. 실수요자는 매수와 임차 비용을 따로 비교하고, 세입자는 갱신 부담을 살펴야 합니다.",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "0faddff0cfb3",
+      "title": "공시가 현실화율 동결해도 대치팰리스·한남더힐 보유세 50% ↑",
+      "url": "https://www.news1.kr/realestate/general/6361142",
+      "naver_url": "https://n.news.naver.com/mnews/article/421/0009301920?sid=101",
+      "source": "뉴스1",
+      "description": "한국부동산원의 주택가격동향조사에 따르면 올해 10월까지 서울 아파트 매매가격지수는 8.9% 상승했다. 집값 상승분이 공시가격에 반영되면 현실화율 동결에도 보유세 부담은 커질 수 있다. 세제 개편도 추가적인 부담...",
+      "published_at": "2026-11-20T16:34+09:00",
+      "keywords": [
+        "아파트 매매",
+        "주택담보대출",
+        "부동산",
+        "재건축"
+      ],
+      "relevance": 9,
+      "category": "정책·규제",
+      "summary": [
+        "올해 10월까지 서울 아파트 매매가격지수 8.9% 상승함",
+        "현실화율 동결에도 집값 상승분 반영 시 보유세 부담 증가 가능함",
+        "대치팰리스·한남더힐 보유세 50% 상승 보도됨"
+      ],
+      "importance": 4,
+      "tags": [
+        "공시가격",
+        "보유세",
+        "서울"
+      ],
+      "why": "공시가 현실화율이 동결돼도 집값 상승분이 반영되면 보유세가 늘 수 있습니다. 고가 주택 보유자와 투자자는 동결 여부뿐 아니라 실제 세 부담을 점검해야 합니다.",
+      "duplicates": 12,
+      "related": [
+        {
+          "source": "metroseoul.co.kr",
+          "title": "내년 공시가격 현실화율 올해와 동일…아파트 69%",
+          "url": "http://www.metroseoul.co.kr/article/20261120500228"
+        },
+        {
+          "source": "imaeil.com",
+          "title": "내년 공시가격 현실화율 5년째 69%…대구경북 집값 약세 그대로 반영",
+          "url": "https://www.imaeil.com/page/view/2026112017053507501"
+        },
+        {
+          "source": "pinpointnews.co.kr",
+          "title": "내년 공시가격 현실화율 69% '5년째 동결'…집값 뛴 강남 보유세 최대 4...",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506447"
+        },
+        {
+          "source": "joseilbo.com",
+          "title": "공시가 현실화율 5년째 동결…한남더힐 내년 보유세 1.1억 추산",
+          "url": "http://www.joseilbo.com/news/news_read.php?uid=580134&class=16&grp="
+        },
+        {
+          "source": "이투데이",
+          "title": "현실화율 동결에도 서울 보유세 부담 확대…“매물 증가 영향은 제한적...",
+          "url": "https://www.etoday.co.kr/news/view/2651053"
+        },
+        {
+          "source": "서울경제",
+          "title": "반포자이 84㎡ 보유세 831만원 증가…잠실주공5 국평도 354만원 더 낸다",
+          "url": "https://www.sedaily.com/article/20117138?ref=naver"
+        },
+        {
+          "source": "조선일보",
+          "title": "겹겹이 쌓인 보유세 인상 압박에… 공시가 현실화율 동결",
+          "url": "https://www.chosun.com/economy/real_estate/2026/11/21/T2N6SYATRBDYJOGZ3A4LGNKKGA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news"
+        },
+        {
+          "source": "MBN",
+          "title": "내년에도 공시가격 시세 69%만 반영하지만…\"아파트값이 뛰었어요\" 보유...",
+          "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232076"
+        },
+        {
+          "source": "한국경제",
+          "title": "서울 집값 급등에…공시가 현실화 '원점'으로",
+          "url": "https://www.hankyung.com/article/2026112006401"
+        },
+        {
+          "source": "매일경제",
+          "title": "공시가율 안 올라도 … 아리팍 내년 보유세 1036만원 '껑충'",
+          "url": "https://www.mk.co.kr/article/12214830"
+        },
+        {
+          "source": "조선비즈",
+          "title": "공시가 현실화율 5년째 69% 동결… 강남권 보유세 두 자릿수 증가",
+          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/20/5ORDBAOCRZF6JBRXMNCENREWPY/?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        },
+        {
+          "source": "세계일보",
+          "title": "“공시가 현실화율 동결, 보유세 충격 완화...집값 오른 지역은 부담 여...",
+          "url": "https://www.segye.com/newsView/20261120515569?OutUrl=naver"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "e885e9b84925",
+      "title": "차인영 시의원, 재개발 권한 이양 반대…자치구 역량 검증 주장",
+      "url": "https://www.newspim.com/news/view/20261120001219",
+      "naver_url": "https://www.newspim.com/news/view/20261120001219",
+      "source": "뉴스핌",
+      "description": "재개발·재건축 심의 권한을 자치구에 넘긴다고 사업이 빨라지겠느냐는 지적이 나왔다. 서울시의회... 재개발·재건축 사업의 권한 이양' 추진 방침에 대해 실제 사업기간 단축 효과와 자치구의 업무 수행 역량을 먼저...",
+      "published_at": "2026-11-20T22:16+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 3,
+      "category": "정책·규제",
+      "summary": [
+        "차인영 시의원, 재개발·재건축 심의 권한의 자치구 이양 반대.",
+        "서울시의 권한 이양에 따른 사업기간 단축 효과 검증 주장.",
+        "권한 이양에 앞서 자치구 업무 수행 역량 검증 주장."
+      ],
+      "importance": 4,
+      "tags": [
+        "서울시",
+        "재개발·재건축",
+        "권한 이양"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "c89cfab12c14",
+      "title": "광주전남 전세사기 피해 4년 1천364건…현장상담 확대",
+      "url": "https://kjmbc.co.kr/NewsArticle/1546713",
+      "naver_url": "https://kjmbc.co.kr/NewsArticle/1546713",
+      "source": "kjmbc.co.kr",
+      "description": "지난 2023년부터 올해 9월까지 광주와 전남에서 발생한 전세사기 피해가 1천364건에 달하는 가운데, 전남광주통합특별시가 피해자 지원을 위한 현장상담을 확대합니다. 통합시는 지난 18일부터 이틀간 광양에서 전세사기...",
+      "published_at": "2026-11-20T20:40+09:00",
+      "keywords": [
+        "전세"
+      ],
+      "relevance": 4,
+      "category": "전월세",
+      "summary": [
+        "2023년부터 올해 9월까지 광주·전남 전세사기 피해 1364건.",
+        "전남광주통합특별시, 피해자 지원 위한 현장상담 확대.",
+        "지난 18일부터 이틀간 광양에서 전세사기 관련 상담 진행."
+      ],
+      "importance": 4,
+      "tags": [
+        "광주·전남",
+        "전세사기",
+        "현장상담"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "breaknews.com",
+          "title": "전남광주특별시, 전세피해자 지원 총력… ‘찾아가는 현장상담’ 5개 시...",
+          "url": "http://www.breaknews.com/1252809"
+        }
+      ],
+      "source_known": false
+    },
+    {
+      "id": "6b22dee6b6f3",
+      "title": "목동 1.2만 가구 재건축 심의 통과…내년 수주전 돌입",
+      "url": "https://www.ekn.kr/web/view.php?key=20261120026552756",
+      "naver_url": "https://www.ekn.kr/web/view.php?key=20261120026552756",
+      "source": "에너지경제",
+      "description": "목동 5·12·14단지 1만1863가구 재건축 심의가 통과되면서 건설사들이 내년에 본격적인 수주전에 돌입할 전망이다. 20일 서울시는 전날 제23차 정비사업 통합심의위원회에서 목동5·12·14단지 재건축사업을 위한 건축...",
+      "published_at": "2026-11-20T19:34+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 2,
+      "category": "재건축·개발",
+      "summary": [
+        "목동 5·12·14단지 재건축 심의가 통과됨",
+        "심의를 통과한 재건축 사업은 1만1863가구 규모",
+        "건설사들은 내년 본격적인 수주전에 돌입할 전망"
+      ],
+      "importance": 4,
+      "tags": [
+        "목동",
+        "재건축",
+        "정비사업 통합심의"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "4th.kr",
+          "title": "목동 5·12·14단지 재건축 통합심의 통과…최고 49층·1만1863세대 공급",
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2122378"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "5ad015a32644",
+      "title": "재초환 폭탄에 보유세까지 겹악재…강남3구 매물 3만건 돌파",
+      "url": "https://www.sedaily.com/article/20117139?ref=naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/011/0004684521?sid=101",
+      "source": "서울경제",
+      "description": "여기에 25억 원 초과 고가 주택의 주택담보대출 한도가 2억 원으로 묶여 매수세가 위축된 탓에 매물이 소화되지 못하고 있다. 전날 국토교통부가 재초환 부담금 부과 기한을 연장하지 않고 올해 말부터 본격...",
+      "published_at": "2026-11-20T18:46+09:00",
+      "keywords": [
+        "주택담보대출",
+        "재건축"
+      ],
+      "relevance": 5,
+      "category": "매매·시세",
+      "summary": [
+        "재초환·보유세 부담 속 강남3구 매물 3만건 돌파",
+        "25억원 초과 주택의 주담대 한도 2억원으로 제한",
+        "국토부, 재초환 부담금 부과 기한 연장 않기로"
+      ],
+      "importance": 4,
+      "tags": [
+        "강남3구",
+        "재초환",
+        "주택담보대출"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "8e40a7525c59",
+      "title": "“대통령도 했잖아?” 부동산 규제 비웃는 ‘주인 대출’ 열풍",
+      "url": "https://www.chosun.com/national/weekend/2026/11/21/NZXUV3EEJZDQJJSYWEYJPS63PU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "naver_url": "https://n.news.naver.com/mnews/article/023/0004010855?sid=102",
+      "source": "조선일보",
+      "description": "편법이 뉴노멀 된 시대 ‘집주인 근저당’ 요지경 정부 규제로 부동산 시장이 꽉 막힌 지금 비정상적인... 전국 부동산 거래의 뉴노멀로 작동하고 있다. 이 같은 사(私)금융 시장은 ‘투기를 막아 집값을 잡고 가계 빚을...",
+      "published_at": "2026-11-21T00:31+09:00",
+      "keywords": [
+        "부동산",
+        "아파트 매매",
+        "전세",
+        "재건축"
+      ],
+      "relevance": 3,
+      "category": "금리·대출",
+      "summary": [
+        "부동산 규제 속 집주인 근저당 방식의 대출 확산을 다룸",
+        "기사에서는 주인 대출을 편법 사금융으로 지적함",
+        "집주인 근저당이 전국 부동산 거래에 활용되고 있다고 보도함"
+      ],
+      "importance": 3,
+      "tags": [
+        "주인 대출",
+        "집주인 근저당",
+        "부동산 규제"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "fa854e8ca90e",
+      "title": "지방 아파트 분양가, 기존 시세 2배…미분양 부담",
+      "url": "https://www.asiatime.co.kr/article/20261120500293",
+      "naver_url": "https://www.asiatime.co.kr/article/20261120500293",
+      "source": "asiatime.co.kr",
+      "description": "(자료=부동산리서치랩) 21일 부동산리서치랩이 부동산114 데이터를 분석한 결과 올해 1~11월 전국 아파트의 3.3㎡당 평균 분양가는 2201만원으로 집계됐다. 기존 아파트 평균 시세는 2173만원으로 분양가가 28만원...",
+      "published_at": "2026-11-21T00:02+09:00",
+      "keywords": [
+        "부동산",
+        "아파트 매매",
+        "청약",
+        "분양"
+      ],
+      "relevance": 9,
+      "category": "분양·청약",
+      "summary": [
+        "올해 1~11월 전국 평균 분양가 3.3㎡당 2201만원",
+        "기존 아파트 평균 시세는 3.3㎡당 2173만원",
+        "지방 아파트 분양가가 기존 시세의 2배 수준"
+      ],
+      "importance": 3,
+      "tags": [
+        "분양가",
+        "미분양",
+        "지방 아파트"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "f0f2ea8d9a7d",
+      "title": "아파트도 '운영 시대'…노후 단지 늘자 관리 중요성 확대",
+      "url": "https://www.asiatime.co.kr/article/20261120500184",
+      "naver_url": "https://www.asiatime.co.kr/article/20261120500184",
+      "source": "asiatime.co.kr",
+      "description": "(자료=KES) 21일 국토교통부와 부동산R114 등에 따르면 지난 9월 수도권 주택 착공 실적은 9308가구로 전년... 부동산R114에 따르면 올해 전국 아파트 중 준공 20년을 넘긴 단지의 비중은 52.89%로 집계됐다. 준공 30년 초과...",
+      "published_at": "2026-11-21T00:02+09:00",
+      "keywords": [
+        "부동산",
+        "아파트 매매"
+      ],
+      "relevance": 5,
+      "category": "기타",
+      "summary": [
+        "노후 아파트 단지 증가로 관리 중요성이 확대됨",
+        "올해 전국 아파트의 준공 20년 초과 비중은 52.89%",
+        "지난 9월 수도권 주택 착공 실적은 9308가구로 집계됨"
+      ],
+      "importance": 3,
+      "tags": [
+        "노후 아파트",
+        "아파트 관리",
+        "수도권 착공"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "lawissue.co.kr",
+          "title": "아파트 절반이 20년 넘었다… 11조원 관리비 시대, '짓기'보다 '관리'",
+          "url": "https://www.lawissue.co.kr/view.php?ud=20261120172231775807f28b58b8_12"
+        }
+      ],
+      "source_known": false
+    },
+    {
+      "id": "879221c45b7b",
+      "title": "서울 집, 고가 1주택자는 양도세 늘기 전에 팔고 세입자는 전세 불안에...",
+      "url": "https://www.junggi.co.kr/news/articleView.html?idxno=38582",
+      "naver_url": "https://www.junggi.co.kr/news/articleView.html?idxno=38582",
+      "source": "junggi.co.kr",
+      "description": "한국부동산원이 19일 발표한 11월 셋째 주(16일 기준) 주간 동향에서 서울 아파트 매매가격은 전주보다 0.03... 대신증권 부동산팀 배상영 연구원은 이달 낸 리포트에서 이 때문에 수요가 더 싼 집으로 옮겨 다니는...",
+      "published_at": "2026-11-21T00:00+09:00",
+      "keywords": [
+        "부동산",
+        "아파트 매매",
+        "전세",
+        "주택담보대출",
+        "재건축"
+      ],
+      "relevance": 10,
+      "category": "매매·시세",
+      "summary": [
+        "한국부동산원이 19일 주간 주택가격 동향 발표함",
+        "발표 자료는 16일 기준 11월 셋째 주 동향임",
+        "대신증권 배상영 연구원이 수요의 저가 주택 이동 언급함"
+      ],
+      "importance": 3,
+      "tags": [
+        "서울 아파트",
+        "한국부동산원",
+        "주택 수요"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "346549320ba5",
+      "title": "서울 거주자 부천 아파트 매입 1년 새 2배 증가… 신규 공공분양 단지 ...",
+      "url": "https://edu.donga.com/news/articleView.html?idxno=113987",
+      "naver_url": "https://edu.donga.com/news/articleView.html?idxno=113987",
+      "source": "동아일보",
+      "description": "한국부동산원 매입자 거주지별 통계에 따르면 올해 1~7월 서울 거주자가 매입한 부천 아파트는 1,124건으로 집계됐다. 지난해 같은 기간 550건과 비교하면 104.4% 증가한 수치다. 전체 부천 아파트 매매에서 서울 거주자가...",
+      "published_at": "2026-11-21T00:00+09:00",
+      "keywords": [
+        "부동산",
+        "아파트 매매",
+        "청약",
+        "분양"
+      ],
+      "relevance": 6,
+      "category": "매매·시세",
+      "summary": [
+        "올해 1~7월 서울 거주자 부천 아파트 매입 1124건",
+        "지난해 같은 기간 서울 거주자 매입은 550건",
+        "서울 거주자의 부천 아파트 매입 104.4% 증가"
+      ],
+      "importance": 3,
+      "tags": [
+        "부천",
+        "서울 거주자",
+        "아파트 매입"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "e037adf2f0db",
+      "title": "[사설]거래 절벽 속 쌓이는 아파트 매물… 공급 적기 놓치지 말아야",
+      "url": "https://www.donga.com/news/Opinion/article/all/20261120/135063785/2",
+      "naver_url": "https://n.news.naver.com/mnews/article/020/0003764062?sid=110",
+      "source": "동아일보",
+      "description": "부동산 정보업체 아실에 따르면 20일 현재 서울 아파트 매물은 8만2175건으로 집계됐다. 연초 대비 44.2... 부동산 업계에서는 다주택자, 비거주 1주택자의 차익 실현과 실거주자의 갈아타기용 매도가 늘고 있는 것으로 보고...",
+      "published_at": "2026-11-20T23:28+09:00",
+      "keywords": [
+        "부동산",
+        "재건축"
+      ],
+      "relevance": 6,
+      "category": "매매·시세",
+      "summary": [
+        "아실 집계상 20일 서울 아파트 매물 8만2175건",
+        "거래 절벽 속 아파트 매물 누적과 적기 공급 문제 제기",
+        "업계는 차익 실현과 갈아타기용 매도가 늘어난다고 봄"
+      ],
+      "importance": 3,
+      "tags": [
+        "서울 아파트",
+        "매물",
+        "거래 절벽"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "24aa01efcdd1",
+      "title": "[패트롤] 광명시-부천시-시흥시-안산시-안양시",
+      "url": "https://www.ekn.kr/web/view.php?key=20261120027292779",
+      "naver_url": "https://www.ekn.kr/web/view.php?key=20261120027292779",
+      "source": "에너지경제",
+      "description": "시흥도시공사는 총사업비 3472억원을 투입해 월곶동 일원 23만5780㎡ 부지에 첨단 바이오·인공지능(AI) 산업과 연구 기반을 구축하고, 분양-임대주택 각 1150세대씩 총 2300세대를 공급하는 자족형 미래도시를 조성할...",
+      "published_at": "2026-11-20T22:22+09:00",
+      "keywords": [
+        "분양"
+      ],
+      "relevance": 3,
+      "category": "재건축·개발",
+      "summary": [
+        "시흥도시공사, 월곶동 일원에 총사업비 3472억원 투입 계획.",
+        "23만5780㎡ 부지에 바이오·AI 산업·연구 기반 구축 계획.",
+        "분양·임대주택 각 1150세대, 총 2300세대 공급 계획."
+      ],
+      "importance": 3,
+      "tags": [
+        "시흥시",
+        "월곶동",
+        "시흥도시공사"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "1f451de3c6ca",
+      "title": "HUG, 공공임대 공급 속도전…하나자산신탁과 전세 안전망 강화",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=362916",
+      "naver_url": "http://www.biztribune.co.kr/news/articleView.html?idxno=362916",
+      "source": "biztribune.co.kr",
+      "description": "최종원 주택도시보증공사 사장 직무대행(왼쪽)이 서울시 강서구에 위치한 든든전세주택을 방문하여 현장을 점검하고 있다. | HUG 전세사기와 전월세 가격 상승 등으로 임차인의 주거 불안이 커지면서 공공의 임대주택...",
+      "published_at": "2026-11-20T20:14+09:00",
+      "keywords": [
+        "전세"
+      ],
+      "relevance": 10,
+      "category": "전월세",
+      "summary": [
+        "HUG, 하나자산신탁과 전세 안전망 강화 추진",
+        "최종원 직무대행, 강서구 든든전세주택 현장 점검",
+        "전세사기와 전월세 가격 상승으로 주거 불안 확대"
+      ],
+      "importance": 3,
+      "tags": [
+        "HUG",
+        "든든전세주택",
+        "하나자산신탁"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "89f57d2bb5a8",
+      "title": "[11월 4주 청약] 전국 6295가구 청약…전주 대비 3.7배 증가",
+      "url": "https://www.fntimes.com/html/view.php?ud=202611201936299950048b718333_18",
+      "naver_url": "https://www.fntimes.com/html/view.php?ud=202611201936299950048b718333_18",
+      "source": "한국금융신문",
+      "description": "다음 주 전국 청약 물량이 전주 대비 3배 이상 늘어난다. 서울 도심 신규 아파트부터 경기 공공분양과... 20일 부동산 전문 리서치업체 리얼투데이에 따르면 오는 23일부터 27일까지 전국 15곳에서 총 6295가구가 청약...",
+      "published_at": "2026-11-20T19:42+09:00",
+      "keywords": [
+        "청약",
+        "분양"
+      ],
+      "relevance": 5,
+      "category": "분양·청약",
+      "summary": [
+        "23~27일 전국 15곳에서 6295가구 청약",
+        "전국 청약 물량이 전주 대비 3.7배로 증가",
+        "서울 도심 신규 아파트와 경기 공공분양 포함"
+      ],
+      "importance": 3,
+      "tags": [
+        "청약",
+        "공공분양",
+        "리얼투데이"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "1437a7bb51a6",
+      "title": "'디에이치 반포124' 기관특공 165가구…자금조달 부담",
+      "url": "https://www.goodkyung.com/news/articleView.html?idxno=293707",
+      "naver_url": "https://www.goodkyung.com/news/articleView.html?idxno=293707",
+      "source": "굿모닝경제",
+      "description": "기관추천 대상자도 일반 무주택자와 동일한 주택담보대출 규제를 적용받아 당첨될 경우 현금 조달이 부담이 될 것으로 전망된다. 현행 수도권·규제지역의 주택 구입 목적 주택담보대출 한도는 시가 15억원 초과...",
+      "published_at": "2026-11-20T18:10+09:00",
+      "keywords": [
+        "주택담보대출",
+        "분양"
+      ],
+      "relevance": 3,
+      "category": "분양·청약",
+      "summary": [
+        "디에이치 반포124, 기관추천 특별공급 물량 165가구.",
+        "기관추천 대상자도 일반 무주택자와 동일한 주담대 규제 적용.",
+        "기관추천 대상자, 당첨 시 현금 조달 부담 전망."
+      ],
+      "importance": 3,
+      "tags": [
+        "디에이치 반포124",
+        "기관추천 특별공급",
+        "주택담보대출"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "0469f55dbeee",
+      "title": "서울 아파트 청약 가점 60점대 지속… 서초구 73.1점에 추첨제 관심",
+      "url": "https://www.lawissue.co.kr/view.php?ud=20261120171648408007f28b58b8_12",
+      "naver_url": "https://www.lawissue.co.kr/view.php?ud=20261120171648408007f28b58b8_12",
+      "source": "lawissue.co.kr",
+      "description": "1점까지 올라, 전용 60㎡ 이하 주택형의 추첨제 비중과 연말 신규 분양 단지에 대한 관심이 높아지고... 분양 실적이 있는 서울 11개 자치구 가운데 서초구가 평균 73.1점으로 가장 높았다. 용산구 69.2점, 마포구 67.3점...",
+      "published_at": "2026-11-20T17:48+09:00",
+      "keywords": [
+        "분양"
+      ],
+      "relevance": 6,
+      "category": "분양·청약",
+      "summary": [
+        "서울 아파트 청약 가점 60점대 지속, 서초구 평균 73.1점.",
+        "분양 실적 있는 서울 11개 구 중 서초구 평균 가점 최고.",
+        "용산구 평균 가점 69.2점, 마포구 67.3점 기록."
+      ],
+      "importance": 3,
+      "tags": [
+        "서울 청약",
+        "청약 가점",
+        "서초구"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "735c2b8ff41f",
+      "title": "3분기 '신규 주담대 차주' 절반이 30대⋯20·50대는 왜 줄었을까",
+      "url": "https://www.etoday.co.kr/news/view/2650992",
+      "naver_url": "https://www.etoday.co.kr/news/view/2650992",
+      "source": "이투데이",
+      "description": "이투데이=배근미 기자 | 신규 주담대 차주 30대 비중 46.4% '역대 최대'⋯전기 대비 2.7%p ↑ 20대·50대, 각각 746만 원·237만 원↓⋯비수도권·비은행 위축 영향 올해 3분기(7~9월) 신규 주택담보대출(주담대) 차주의 절반...",
+      "published_at": "2026-11-20T17:16+09:00",
+      "keywords": [
+        "주택담보대출",
+        "아파트 매매"
+      ],
+      "relevance": 4,
+      "category": "금리·대출",
+      "summary": [
+        "3분기 신규 주담대 차주 중 30대 비중 46.4% 기록함",
+        "30대 비중은 전기 대비 2.7%포인트 상승함",
+        "신규 주담대 차주 중 30대 비중이 역대 최대 기록함"
+      ],
+      "importance": 3,
+      "tags": [
+        "주택담보대출",
+        "30대",
+        "신규 차주"
+      ],
+      "why": "",
+      "duplicates": 13,
+      "related": [
+        {
+          "source": "ktv.go.kr",
+          "title": "3분기 차주당 신규 가계대출 386만 원↓···주담대는 622만 원↑",
+          "url": "https://www.ktv.go.kr/content/view?content_id=764356"
+        },
+        {
+          "source": "greenpostkorea.co.kr",
+          "title": "신규 대출 줄었는데··· 3040·수도권 주담대는 늘었다",
+          "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=308122"
+        },
+        {
+          "source": "한국일보",
+          "title": "주담대 절반은 30대 몫… 가계대출 둔화에도 주담대 622만 원↑",
+          "url": "https://www.hankookilbo.com/news/article/A2026112015030002391?did=NA"
+        },
+        {
+          "source": "newsroad.co.kr",
+          "title": "가계대출 신규취급액 11.3% 줄었는데…주담대는 2억1451만원으로 '껑충'",
+          "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=68164"
+        },
+        {
+          "source": "MBN",
+          "title": "3분기 신규 주담대 평균 2억1,451만 원…622만↑",
+          "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005963820"
+        },
+        {
+          "source": "whitepaper.co.kr",
+          "title": "3분기 신규 주담대 평균 2억1451만원…622만원 증가",
+          "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=269014"
+        },
+        {
+          "source": "fntoday.co.kr",
+          "title": "3분기 신규 주담대 622만원↑… 평균 2억1천451만원 기록",
+          "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=399511"
+        },
+        {
+          "source": "pointdaily.co.kr",
+          "title": "대출 줄었는데 주담대만 늘었다…차주당 신규취급 3028만원",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326840"
+        },
+        {
+          "source": "greened.kr",
+          "title": "3분기 신규 주담대 30대 비중 46.4% 역대 최대…20대·50대 주담대 취급...",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=355150"
+        },
+        {
+          "source": "SBS",
+          "title": "30대 신규 주담대 비중 역대 최고…수도권 '쑥'",
+          "url": "https://biz.sbs.co.kr/article_hub/20000347873?division=NAVER"
+        },
+        {
+          "source": "wikileaks-kr.org",
+          "title": "가계대출 신규취급액 줄었지만 주담대는 증가…은행 여신 상반된 흐름",
+          "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194973"
+        },
+        {
+          "source": "스트레이트뉴스",
+          "title": "신규 주담대 1인당 2.1억원…30대 연령층 비중 역대급",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315847"
+        },
+        {
+          "source": "imnews.imbc.com",
+          "title": "[간추린경제] 1. 30대 '46.4%' 2. 테슬라 완전자율주행 허용 제동‥\"자료...",
+          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6867325_36981.html"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "197bf9df126f",
+      "title": "\"AI가 일자리 뺏으면 집값 반토막?\"…'30년 주담대'의 섬뜩한 경고",
+      "url": "https://www.newsis.com/view/NISX20261119_0003874301",
+      "naver_url": "https://n.news.naver.com/mnews/article/003/0014336889?sid=101",
+      "source": "뉴시스",
+      "description": "이지우 인턴 기자 = 인공지능(AI)의 일자리 대체와 주택담보대출 금리 상승으로 부동산 시장의 불확실성이... 18일 구독자 88만명 유튜브 채널 '표영호 tv' 영상에 출연한 김기원 데이터노우즈 대표는 AI 확산이 부동산...",
+      "published_at": "2026-11-21T00:00+09:00",
+      "keywords": [
+        "부동산",
+        "주택담보대출"
+      ],
+      "relevance": 7,
+      "category": "기타",
+      "summary": [
+        "AI 일자리 대체와 주담대 금리 상승에 따른 불확실성 다룸",
+        "김기원 데이터노우즈 대표가 표영호 tv 영상에 출연함",
+        "18일 영상에서 AI 확산과 부동산 관련 내용 다룸"
+      ],
+      "importance": 2,
+      "tags": [
+        "인공지능",
+        "주택담보대출",
+        "김기원"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "f8d30d43ce92",
+      "title": "신상진 성남시장 \"시민 삶 바꾸는 성과로 민선 9기 열겠다\"",
+      "url": "https://www.ajunews.com/view/20261120221200790",
+      "naver_url": "https://www.ajunews.com/view/20261120221200790",
+      "source": "아주경제",
+      "description": "2027년 예산 4조2210억원 편성…올해보다 7.11% 증가 복지·재건축·교통망 확충 및 첨단산업 육성 집중 판교... 신 시장은 내년도 예산을 복지 안전망 구축과 청년 자립 및 미래 인재 육성, 재건축·재개발과 교통망 확충...",
+      "published_at": "2026-11-20T22:30+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 4,
+      "category": "재건축·개발",
+      "summary": [
+        "성남시가 2027년 예산 4조2210억원 편성함",
+        "예산은 올해보다 7.11% 증가한 규모임",
+        "신상진 시장이 재건축·재개발과 교통망 확충에 집중함"
+      ],
+      "importance": 2,
+      "tags": [
+        "성남시",
+        "재건축",
+        "교통망"
+      ],
+      "why": "",
+      "duplicates": 7,
+      "related": [
+        {
+          "source": "tournews21.com",
+          "title": "신상진 성남시장 \"민선 9기, 대한민국 기준 되는 성남 만들 것\"",
+          "url": "https://www.tournews21.com/news/articleView.html?idxno=149038"
+        },
+        {
+          "source": "daily.hankooki.com",
+          "title": "신상진 성남시장, '대한민국 기준, 성남' 비전 제시",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1427575"
+        },
+        {
+          "source": "cnbnews.com",
+          "title": "성남시, 내년 예산안 4조 2210억 원…도시정비-생활복지 중점",
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1024735"
+        },
+        {
+          "source": "hansbiz.co.kr",
+          "title": "신상진 성남시장, 내년 예산 4조2210억 편성…재개발·첨단산업 집중",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885728"
+        },
+        {
+          "source": "fieldnews.kr",
+          "title": "신상진 성남시장, 내년 예산 4조2210억원 편성…도시 재정비·첨단산업...",
+          "url": "http://www.fieldnews.kr/news/articleView.html?idxno=33274"
+        },
+        {
+          "source": "cstimes.com",
+          "title": "신상진 성남시장, 내년 예산 4조 2천210억원 편성…\"눈에 보이는 결과로...",
+          "url": "https://www.cstimes.com/news/articleView.html?idxno=728863"
+        },
+        {
+          "source": "cwn.kr",
+          "title": "신상진 성남시장, 내년 예산 4조 2,210억 편성…복지·성장 균형",
+          "url": "https://www.cwn.kr/news/articleView.html?idxno=62282"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "e2b26a89f068",
+      "title": "[만물상] 아파트 ‘세(勢) 과시’",
+      "url": "https://www.chosun.com/opinion/manmulsang/2026/11/20/3ZFZOD7IUVAJZJXLD7OITI3XCU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "naver_url": "https://n.news.naver.com/mnews/article/023/0004010839?sid=110",
+      "source": "조선일보",
+      "description": "구로구 고척동의 한 신축 단지는 이웃 양천구의 ‘목동’을 이름에 넣으려 했고, 한 주공아파트는 재건축하며 지역 이름을 빼고 서양식 명칭으로 변경했다. 비싼 남의 동네 이름을 빌려 오거나, 제 동네 이름을 지우거나...",
+      "published_at": "2026-11-20T20:53+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 3,
+      "category": "기타",
+      "summary": [
+        "구로구 고척동 신축 단지, 이웃 양천구의 ‘목동’ 명칭 사용 시도.",
+        "한 주공아파트, 재건축하며 지역명 대신 서양식 명칭으로 변경.",
+        "다른 동네 이름을 빌리거나 지역명을 지우는 사례 소개."
+      ],
+      "importance": 2,
+      "tags": [
+        "아파트 명칭",
+        "고척동",
+        "목동"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "5814d533764e",
+      "title": "4개 역세권에 몰세권까지…‘해링턴 플레이스 문래’ 분양 [견본주택 여...",
+      "url": "https://www.fntimes.com/html/view.php?ud=202611201843532857048b718333_18",
+      "naver_url": "https://www.fntimes.com/html/view.php?ud=202611201843532857048b718333_18",
+      "source": "한국금융신문",
+      "description": "1순위 청약 분양가는 전용 84㎡A가 16억4400만~18억2700만원, 84㎡B가 16억6000만~17억8500만원, 84㎡C가 16억5100만~17억7500만원이다. 발코니 확장비는 주택형별 2500만원으로 최고 분양가에 이를 더하면 18억5200만원이다. 청약은...",
+      "published_at": "2026-11-20T19:02+09:00",
+      "keywords": [
+        "청약",
+        "분양"
+      ],
+      "relevance": 8,
+      "category": "분양·청약",
+      "summary": [
+        "해링턴 플레이스 문래가 역세권 입지로 분양함",
+        "전용 84㎡A 분양가 16억4400만~18억2700만원임",
+        "발코니 확장비 포함 최고가는 18억5200만원임"
+      ],
+      "importance": 2,
+      "tags": [
+        "해링턴 플레이스 문래",
+        "분양가"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "biztribune.co.kr",
+          "title": "[분양현장] 효성중공업, '해링턴 플레이스 문래' 견본주택 개관… 쿼드...",
+          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=362943"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "ed0d73b1eda9",
+      "title": "피자 배우던 주부들, 전세 놓던 주택공사…반포 부촌 신화’ 연 반포주...",
+      "url": "https://www.mk.co.kr/article/12214903",
+      "naver_url": "https://n.news.naver.com/mnews/article/009/0005766879?sid=101",
+      "source": "매일경제",
+      "description": "1971년 9월 1일 동아일보에 실린 분양 광고의 이름은 반포주공이 아니었다. ‘남서울아파트’였다.... 568만원에 분양받은 32평형…1700배가 넘은 수익률 놀랍네 2주 뒤 두 번째 편에서는 반세기 동안 건재했던 반포주공이...",
+      "published_at": "2026-11-20T18:20+09:00",
+      "keywords": [
+        "분양"
+      ],
+      "relevance": 6,
+      "category": "기타",
+      "summary": [
+        "1971년 9월 1일 동아일보에 분양 광고 게재",
+        "당시 반포주공의 분양 광고 명칭은 남서울아파트",
+        "32평형 분양가 568만원, 수익률 1700배 초과"
+      ],
+      "importance": 2,
+      "tags": [
+        "반포주공",
+        "남서울아파트",
+        "분양가"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "6f69b8c1cd4a",
+      "title": "한신공영, ‘왕숙 한신더휴 센텀’ 견본주택 개관…내달 1일 청약",
+      "url": "https://www.fntimes.com/html/view.php?ud=202611201744268055048b718333_18",
+      "naver_url": "https://www.fntimes.com/html/view.php?ud=202611201744268055048b718333_18",
+      "source": "한국금융신문",
+      "description": "한신공영(각자 대표이사 최문규·전재식) 컨소시엄이 경기 남양주시 왕숙지구에 공급하는 '왕숙 한신더휴 센텀'이 20일 견본주택을 열고 분양에 나섰다. 당초 이익공유형으로 계획됐던 공급 방식이 일반 공공분양으로...",
+      "published_at": "2026-11-20T17:50+09:00",
+      "keywords": [
+        "분양"
+      ],
+      "relevance": 5,
+      "category": "분양·청약",
+      "summary": [
+        "한신공영 컨소시엄이 남양주 왕숙지구에서 분양에 나섬",
+        "왕숙 한신더휴 센텀은 20일 견본주택을 개관함",
+        "이익공유형에서 일반 공공분양으로 공급 방식을 변경함"
+      ],
+      "importance": 2,
+      "tags": [
+        "남양주 왕숙지구",
+        "왕숙 한신더휴 센텀",
+        "공공분양"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    }
+  ],
+  "usage": {
+    "model": "gpt-6.1-sol",
+    "calls": 6,
+    "errors": 0,
+    "input_tokens": 13600,
+    "cached_tokens": 0,
+    "output_tokens": 4604,
+    "reasoning_tokens": 112,
+    "cost_usd": 0.0732,
+    "cost_krw": 103
+  }
+}
