@@ -1,0 +1,1097 @@
+{
+  "date": "2026-11-23",
+  "date_label": "2026년 11월 23일 (월)",
+  "generated_at": "2026-11-23T00:15+09:00",
+  "keywords_searched": [
+    "부동산",
+    "아파트 매매",
+    "전세",
+    "청약",
+    "주택담보대출",
+    "분양",
+    "재건축"
+  ],
+  "overview": "서울 집값 상승세는 둔화했지만 전셋값 강세와 월세화로 세입자의 주거비 부담은 커지고 있습니다. 재건축 시장에서는 재초환과 분담금이 매수 판단의 변수로 떠올랐고, 성수2는 시공사를 선정했습니다.",
+  "keywords": [
+    "전셋값",
+    "재초환",
+    "재건축",
+    "청약",
+    "분담금",
+    "월세화",
+    "전세사기"
+  ],
+  "headline_ids": [
+    "96505a19a774",
+    "7ccbd7a23f22",
+    "0006daae19de"
+  ],
+  "categories": {
+    "전월세": 7,
+    "재건축·개발": 4,
+    "매매·시세": 8,
+    "정책·규제": 2,
+    "분양·청약": 4,
+    "기타": 2,
+    "금리·대출": 1
+  },
+  "raw_count": 173,
+  "articles": [
+    {
+      "id": "96505a19a774",
+      "title": "2023년 전세 계약한 서울 6만4000가구…내년 이사 땐 보증금 평균 36% 더...",
+      "url": "https://www.khan.co.kr/article/202611222116015",
+      "naver_url": "https://n.news.naver.com/mnews/article/032/0003484326?sid=101",
+      "source": "경향신문",
+      "description": "“정부, ‘자가 소유 확대’에서 ‘전월세 안정’으로 기조 전환 필요” 40대 A씨는 2023년부터 서울 동대문구의 한 단지 20평대 아파트에 5억원대 전세로 살고 있다. 2년 후 전세계약은 보증금을 법적 상한선인 5...",
+      "published_at": "2026-11-22T21:16+09:00",
+      "keywords": [
+        "전세",
+        "재건축"
+      ],
+      "relevance": 4,
+      "category": "전월세",
+      "summary": [
+        "2023년 전세 계약한 서울 6만4000가구 대상",
+        "내년 이사 시 보증금이 평균 36% 더 필요하다는 내용",
+        "정부에 자가 소유 확대보다 전월세 안정 기조 전환 요구"
+      ],
+      "importance": 4,
+      "tags": [
+        "서울 전세",
+        "전세보증금",
+        "전월세 안정"
+      ],
+      "why": "2023년 전세 계약을 맺은 서울 6만4000가구는 내년 이사 때 평균 36%의 추가 보증금이 필요하다는 분석입니다. 이사를 앞둔 세입자는 자금 계획을 점검할 필요가 있습니다.",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "0006daae19de",
+      "title": "성수2 재개발 시공사 ‘DL’ 선정…최고 62층 2350가구로 재탄생",
+      "url": "https://www.sedaily.com/article/20117440?ref=naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/011/0004684846?sid=101",
+      "source": "서울경제",
+      "description": "사업 조건으로 조합 사업비 전액을 CD금리+0% 금리로 조달하고, 이주비는 주택담보대출비율(LTV) 100%로 지원한다. 조합원 분담금은 입주 후 최대 4년간 유예한다. 공사비 물가 인상분 400억원은 시공사가 부담하며...",
+      "published_at": "2026-11-22T18:00+09:00",
+      "keywords": [
+        "주택담보대출",
+        "재건축"
+      ],
+      "relevance": 5,
+      "category": "재건축·개발",
+      "summary": [
+        "성수2 재개발 시공사로 DL이 선정됨",
+        "최고 62층 2350가구로 조성될 예정",
+        "조합원 분담금은 입주 후 최대 4년간 유예함"
+      ],
+      "importance": 4,
+      "tags": [
+        "성수2",
+        "DL",
+        "재개발"
+      ],
+      "why": "성수2 재개발이 DL을 시공사로 선정하며 최고 62층, 2350가구 조성 계획을 제시했습니다. 조합원에게는 입주 후 최대 4년간 분담금 유예 조건이 자금 계획의 핵심입니다.",
+      "duplicates": 11,
+      "related": [
+        {
+          "source": "아이뉴스24",
+          "title": "DL이앤씨, 성수2지구 시공권 확보…2조원대 재개발 수주",
+          "url": "http://www.inews24.com/view/2028985"
+        },
+        {
+          "source": "아주경제",
+          "title": "DL이앤씨, 성수2지구 시공권 확보…2조원대 재개발 수주",
+          "url": "https://www.ajunews.com/view/20261122143135859"
+        },
+        {
+          "source": "newsinside.kr",
+          "title": "DL이앤씨, 성수2지구 재개발 시공권 확보…2조137억원 사업 본격화",
+          "url": "https://www.newsinside.kr/news/articleView.html?idxno=5054130"
+        },
+        {
+          "source": "gokorea.kr",
+          "title": "DL이앤씨, 성수2지구 시공권 획득으로 '아크로 성수' 탄생 예고 - 서울을...",
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=886766"
+        },
+        {
+          "source": "파이낸셜뉴스",
+          "title": "한강변 대어 성수2지구 '아크로' 단다",
+          "url": "https://www.fnnews.com/news/202611221819391116"
+        },
+        {
+          "source": "이데일리",
+          "title": "DL이앤씨, 2兆 성수2지구 수주…'아크로 성수' 짓는다",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01830246645648344&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article"
+        },
+        {
+          "source": "파이낸셜뉴스",
+          "title": "DL이앤씨, 2조원 규모 성수2지구 재개발 수주…'아크로 성수' 조성",
+          "url": "https://www.fnnews.com/news/202611221436005180"
+        },
+        {
+          "source": "머니투데이",
+          "title": "DL이앤씨, 2조원 규모 성수2지구 품었다…단지명 '아크로 성수'",
+          "url": "https://www.mt.co.kr/estate/2026/11/22/2026112213561186663"
+        },
+        {
+          "source": "shinailbo.co.kr",
+          "title": "DL이앤씨, 2조원대 성수2지구 품었다…'아크로 성수' 탈바꿈",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086331"
+        },
+        {
+          "source": "매일경제",
+          "title": "2조 사업 성수2지구 … DL이앤씨가 짓는다",
+          "url": "https://www.mk.co.kr/article/12215674"
+        },
+        {
+          "source": "sentv.co.kr",
+          "title": "DL이앤씨, 서울 성수2지구 시공사로 선정",
+          "url": "https://www.sentv.co.kr/article/view/sentv202611220010"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "7ccbd7a23f22",
+      "title": "서울 재건축 52곳 재초환 부담금…매매가 하락으로 이어질까",
+      "url": "https://www.hani.co.kr/arti/economy/property/1288511.html",
+      "naver_url": "https://n.news.naver.com/mnews/article/028/0002833381?sid=101",
+      "source": "한겨레",
+      "description": "재건축 아파트 단지의 거래시장 동향에 관심이 쏠리고 있다. 부동산 업계에선 부과액이 큰 단지일수록 매수자의 위험 부담이 커지면서 매매거래 위축, 호가 하락 등이 이어질 수 있다고 내다본다. 22일 부동산업계 말을...",
+      "published_at": "2026-11-22T17:16+09:00",
+      "keywords": [
+        "아파트 매매",
+        "재건축"
+      ],
+      "relevance": 6,
+      "category": "재건축·개발",
+      "summary": [
+        "서울 재건축 52곳의 재초환 부담금 문제 제기",
+        "업계는 부담금이 큰 단지의 매수 위험 증가를 전망",
+        "부담금 부과로 매매 위축과 호가 하락 가능성 제기"
+      ],
+      "importance": 4,
+      "tags": [
+        "서울 재건축",
+        "재초환",
+        "부담금"
+      ],
+      "why": "서울 재건축 52곳의 재초환 부담금이 매수 위험 요인으로 떠올랐습니다. 투자자와 실수요자는 부담금 규모와 매매 위축·호가 하락 가능성을 함께 따져야 합니다.",
+      "duplicates": 2,
+      "related": [
+        {
+          "source": "경향신문",
+          "title": "서울 재초환 단지 52곳, 조합원 평균 부담금 1억1000만원",
+          "url": "https://www.khan.co.kr/article/202611222031005"
+        },
+        {
+          "source": "파이낸셜뉴스",
+          "title": "서울 재건축 52곳 비상… 재초환 예정액 2조4000억 육박",
+          "url": "https://www.fnnews.com/news/202611221819434626"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "44430d42cb3f",
+      "title": "[데일리Talk] 전세 줄어드는데… 임대차시장 안정 해법은",
+      "url": "https://m.skyedaily.com/news_view.html?ID=314852",
+      "naver_url": "https://m.skyedaily.com/news_view.html?ID=314852",
+      "source": "m.skyedaily.com",
+      "description": "com) 기사입력 2026-11-23 00:02:30 ▲ 김선민 정치경제부 기자 전세의 월세화 진행이 가파르다. 올해 1~9월 서울 아파트 임대차 거래에서 월세가 51.0%로 관련 통계 집계 이후 처음으로 절반을 넘어섰다. 전세 거래는 지난해 같은...",
+      "published_at": "2026-11-23T00:04+09:00",
+      "keywords": [
+        "전세"
+      ],
+      "relevance": 8,
+      "category": "전월세",
+      "summary": [
+        "서울 아파트 임대차시장에서 전세의 월세화가 진행됨",
+        "올해 1~9월 서울 아파트 월세 거래 비중은 51.0%임",
+        "관련 통계 집계 이후 월세 비중이 처음 절반을 넘어섬"
+      ],
+      "importance": 4,
+      "tags": [
+        "서울",
+        "월세",
+        "임대차시장"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "347589f6194c",
+      "title": "집값 17억 넘는 30대, 1년 새 70% 증가",
+      "url": "https://www.joongang.co.kr/article/25480886",
+      "naver_url": "https://n.news.naver.com/mnews/article/025/0003567041?sid=101",
+      "source": "중앙일보",
+      "description": "한국부동산원에 따르면 지난해 서울 아파트 매매가격은 8.98% 올라 2013년 통계 공표 이후 최고 상승률을 기록했다. 고액 증여도 늘었다. 국세청에 따르면 지난해 5억원 넘게 증여받은 30대는 5276명으로 전년보다...",
+      "published_at": "2026-11-23T00:02+09:00",
+      "keywords": [
+        "부동산",
+        "아파트 매매"
+      ],
+      "relevance": 6,
+      "category": "매매·시세",
+      "summary": [
+        "지난해 서울 아파트 매매가격이 8.98% 상승함",
+        "2013년 통계 공표 이후 최고 상승률을 기록함",
+        "지난해 5억원 초과 증여받은 30대는 5276명"
+      ],
+      "importance": 4,
+      "tags": [
+        "서울 아파트",
+        "매매가격",
+        "고액 증여"
+      ],
+      "why": "",
+      "duplicates": 5,
+      "related": [
+        {
+          "source": "세계일보",
+          "title": "2025년 ‘시세 17억 이상’ 주택 소유 30대 70% 급증",
+          "url": "https://www.segye.com/newsView/20261122508688?OutUrl=naver"
+        },
+        {
+          "source": "thereport.co.kr",
+          "title": "공시가 12억 넘는 집 소유 30대 1만8019명",
+          "url": "https://www.thereport.co.kr/news/articleView.html?idxno=93596"
+        },
+        {
+          "source": "SBS",
+          "title": "주택자산 12억원 넘는 30대 1만8천명…1년 새 70% 급증",
+          "url": "https://biz.sbs.co.kr/article_hub/20000348032?division=NAVER"
+        },
+        {
+          "source": "매일경제",
+          "title": "“아래층 이사 온 집도 ‘부모찬스’ 쓴 거래”…17억 이상 주택 가진 ...",
+          "url": "https://www.mk.co.kr/article/12215512"
+        },
+        {
+          "source": "비즈워치",
+          "title": "유주택자 주택자산 양극화, 52배 차이",
+          "url": "https://news.bizwatch.co.kr/article/real_estate/2026/11/20/0034"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "2628b00fb046",
+      "title": "올해 전남광주 전세사기 피해액 1,784억 원",
+      "url": "https://www.ikbc.co.kr/article/view/kbc202611220043",
+      "naver_url": "https://n.news.naver.com/mnews/article/660/0000121957?sid=102",
+      "source": "ikbc.co.kr",
+      "description": "올해 전남광주에 발생한 전세사기 피해액이 1,700여 억 원에 달하는 것으로 집계됐습니다. 전남광주통합특별시는 올해 초부터 지난달까지 10개월 동안 2,600여 건의 전세사기 피해 신고를 접수해 이 중 1,600여 건을...",
+      "published_at": "2026-11-22T21:19+09:00",
+      "keywords": [
+        "전세"
+      ],
+      "relevance": 4,
+      "category": "전월세",
+      "summary": [
+        "올해 전남광주 전세사기 피해액은 1,784억원으로 집계됨",
+        "올해 초부터 지난달까지 10개월간 피해 신고를 접수함",
+        "전남광주 전세사기 피해 신고는 2,600여 건으로 집계됨"
+      ],
+      "importance": 4,
+      "tags": [
+        "전남광주",
+        "전세사기",
+        "피해액"
+      ],
+      "why": "",
+      "duplicates": 3,
+      "related": [
+        {
+          "source": "mpmbc.co.kr",
+          "title": "전남광주 전세사기 피해 1천784억 원..67%가 청년층",
+          "url": "https://mpmbc.co.kr/NewsArticle/1546781"
+        },
+        {
+          "source": "namdonews.com",
+          "title": "전남광주 전세사기 피해 1천784억…청년층 '직격탄'",
+          "url": "https://www.namdonews.com/news/articleView.html?idxno=930073"
+        },
+        {
+          "source": "kjmbc.co.kr",
+          "title": "전남광주 전세사기 피해 1,784억 원…특별대책반 구성",
+          "url": "https://kjmbc.co.kr/NewsArticle/1546793"
+        }
+      ],
+      "source_known": false
+    },
+    {
+      "id": "8c249d608aa1",
+      "title": "전세금에 3억 보태면 집 샀는데…올해는 6억 더 줘야 산다",
+      "url": "https://www.donga.com/news/Economy/article/all/20261122/135067852/1",
+      "naver_url": "https://n.news.naver.com/mnews/article/020/0003764209?sid=101",
+      "source": "동아일보",
+      "description": "서울 아파트의 매매가격과 전세보증금 사이 간극이 벌어지고 있다. 전셋값이 오르는 와중에 집값은 더 크게 오르면서 전세 보증금에 목돈을 보태 집을 사던 기존의 ‘내집 마련 공식’이 깨지고 있다는 진단이...",
+      "published_at": "2026-11-22T17:49+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 5,
+      "category": "매매·시세",
+      "summary": [
+        "서울 아파트 매매가격과 전세보증금 간극이 확대됨",
+        "전셋값이 오르는 가운데 집값은 더 크게 상승함",
+        "올해는 전세금에 6억원을 더해야 매수 가능하다는 보도임"
+      ],
+      "importance": 4,
+      "tags": [
+        "서울",
+        "매매가격",
+        "전세보증금"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "3db1ee74e2c5",
+      "title": "반포 같은 면적 호가 9억 차…내년 서울 집값 변수 된 '재초환'",
+      "url": "https://www.mt.co.kr/estate/2026/11/22/2026112213331272082",
+      "naver_url": "https://n.news.naver.com/mnews/article/008/0005444640?sid=101",
+      "source": "머니투데이",
+      "description": "부담금이 매매 협상에 반영되는 단지가 늘면 매수자와 매도자 간 가격 눈높이가 벌어져 서울 집값 상승을... 강남구 은마아파트 전용 76㎡에서도 30억3000만원에서 29억5000만원으로 호가를 내린 매물이 나왔다. 부동산...",
+      "published_at": "2026-11-22T17:37+09:00",
+      "keywords": [
+        "아파트 매매",
+        "분양",
+        "재건축"
+      ],
+      "relevance": 5,
+      "category": "매매·시세",
+      "summary": [
+        "반포에서 같은 면적 매물의 호가가 9억원 차이 남",
+        "재초환 부담금이 서울 집값 변수로 부상함",
+        "은마 전용 76㎡ 호가가 30억3000만→29억5000만원으로 인하됨"
+      ],
+      "importance": 4,
+      "tags": [
+        "재초환",
+        "반포",
+        "은마아파트"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "ca386ec21076",
+      "title": "\"전세 매물 늘었는데 왜 이래\" 집값 주춤해도 전셋값은 오른다",
+      "url": "https://www.mt.co.kr/estate/2026/11/22/2026112214593982455",
+      "naver_url": "https://n.news.naver.com/mnews/article/008/0005444616?sid=101",
+      "source": "머니투데이",
+      "description": "서울 아파트 매매가격 상승세가 사실상 보합 수준으로 둔화했지만 전셋값은 여전히 강세를 이어가고 있다. 매매시장에서는 집값 조정을 기대하는 관망세가 짙어지는 반면 전세시장에서는 누적된 매물 부족과 실거주...",
+      "published_at": "2026-11-22T15:32+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 7,
+      "category": "전월세",
+      "summary": [
+        "서울 아파트 매매가격 상승세가 보합 수준으로 둔화함",
+        "서울 아파트 전셋값은 여전히 강세를 이어가는 중임",
+        "매매시장에서는 집값 조정을 기대하는 관망세가 짙어짐"
+      ],
+      "importance": 4,
+      "tags": [
+        "서울",
+        "전셋값",
+        "매매가격"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "91e6fc716294",
+      "title": "LH충북본부, 신규 임대주택 342호 공급",
+      "url": "http://www.cctimes.kr/news/articleView.html?idxno=938470",
+      "naver_url": "http://www.cctimes.kr/news/articleView.html?idxno=938470",
+      "source": "cctimes.kr",
+      "description": "임대주택 신청은 충북혁신클러스터의 경우 12월7일부터 11일까지, 제천서부의 경우 12월28일부터 31일까지 LH청약플러스를 이용해 모바일 및 인터넷으로 청약할 수 있다. 고령자 등 인터넷 신청이 어려운...",
+      "published_at": "2026-11-22T19:32+09:00",
+      "keywords": [
+        "청약"
+      ],
+      "relevance": 7,
+      "category": "전월세",
+      "summary": [
+        "LH충북본부가 신규 임대주택 342호를 공급함",
+        "충북혁신클러스터는 12월 7~11일 신청 접수함",
+        "제천서부는 12월 28~31일 LH청약플러스로 접수함"
+      ],
+      "importance": 3,
+      "tags": [
+        "LH충북본부",
+        "임대주택",
+        "LH청약플러스"
+      ],
+      "why": "",
+      "duplicates": 2,
+      "related": [
+        {
+          "source": "ccdailynews.com",
+          "title": "LH 충북지역본부, 음성·제천에 공공임대주택 342호 공급",
+          "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2452703"
+        },
+        {
+          "source": "ccdn.co.kr",
+          "title": "LH, 충북 통합공공임대주택 342호 공급",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112665"
+        }
+      ],
+      "source_known": false
+    },
+    {
+      "id": "1e9040b073bb",
+      "title": "국민의힘, 청년층 공략 행보…張 \"李 정권 최대 피해자는 청년\"",
+      "url": "https://www.ajunews.com/view/20261122184145373",
+      "naver_url": "https://www.ajunews.com/view/20261122184145373",
+      "source": "아주경제",
+      "description": "금융 분야에서는 청년 개인종합자산관리계좌(ISA) 납입액에 대한 정부 매칭 지원과 월세 신용점수제를, 주거 분야에서는 보금자리론 대상 주택 가격 기준 상향과 전세사기 예방 대책을 제시했다. 일자리 분야에서는...",
+      "published_at": "2026-11-22T19:10+09:00",
+      "keywords": [
+        "전세",
+        "주택담보대출",
+        "청약"
+      ],
+      "relevance": 4,
+      "category": "정책·규제",
+      "summary": [
+        "국민의힘이 청년층 대상 주거 대책을 제시함",
+        "보금자리론 대상 주택 가격 기준 상향을 제시함",
+        "전세사기 예방 대책과 월세 신용점수제를 제시함"
+      ],
+      "importance": 3,
+      "tags": [
+        "국민의힘",
+        "보금자리론",
+        "전세사기"
+      ],
+      "why": "",
+      "duplicates": 3,
+      "related": [
+        {
+          "source": "gokorea.kr",
+          "title": "청년의 미래 바꾸는 정책, 국민의힘이 제시한 혁신적 해법",
+          "url": "https://www.gokorea.kr/news/articleView.html?idxno=886749"
+        },
+        {
+          "source": "topstarnews.net",
+          "title": "장동혁, 청년저축 최대 180만원 지원 제안…16개 정책 발표",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16282931"
+        },
+        {
+          "source": "서울경제",
+          "title": "국힘, 16개 청년 정책 제안 접수…대출 문턱 낮추고 저축 지원 확대",
+          "url": "https://www.sedaily.com/article/20117390?ref=naver"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "91358346cc5b",
+      "title": "구도심 부평, 집값 상승세 심상찮다… 84㎡ 분양 최고가 ‘10억3200만원’",
+      "url": "https://www.kyeongin.com/article/1775192",
+      "naver_url": "https://www.kyeongin.com/article/1775192",
+      "source": "경인일보",
+      "description": "한국부동산원 주간 아파트 가격 동향을 보면, 11월 셋째주(16일) 기준 인천의 아파트 매매가격은 보합권(0.00%)에 머물렀으나 부평구는 0.09% 오르며 인천 9개 자치구(강화, 옹진군 제외) 중 서해구(0.10%) 다음으로 높은...",
+      "published_at": "2026-11-22T18:44+09:00",
+      "keywords": [
+        "아파트 매매",
+        "청약",
+        "분양",
+        "재건축"
+      ],
+      "relevance": 8,
+      "category": "매매·시세",
+      "summary": [
+        "11월 셋째 주 인천 아파트 매매가격은 보합 기록함",
+        "부평구 아파트 매매가격은 같은 기간 0.09% 상승함",
+        "부평 84㎡ 분양 최고가는 10억3200만원 기록함"
+      ],
+      "importance": 3,
+      "tags": [
+        "부평구",
+        "아파트 매매가격",
+        "분양가"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "3b841347f4c4",
+      "title": "‘경희궁 에피트’ 등 전국 15개 단지 6295가구 청약 [분양캘린더]",
+      "url": "https://www.sedaily.com/article/20117466?ref=naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/011/0004684867?sid=101",
+      "source": "서울경제",
+      "description": "11월 넷째 주 청약시장에는 전국 15개 단지에서 6295가구가 한꺼번에 쏟아진다. 수도권·지방 물량이... 6295가구가 청약 접수를 받는다. 수도권에서 8곳 2904가구, 지방 7곳에서 3391가구가 청약 접수를 대기 중이다. 24일...",
+      "published_at": "2026-11-22T18:41+09:00",
+      "keywords": [
+        "청약",
+        "분양"
+      ],
+      "relevance": 5,
+      "category": "분양·청약",
+      "summary": [
+        "11월 넷째 주 전국 15개 단지 6295가구가 청약 접수함",
+        "수도권에서는 8곳 2904가구가 청약 접수를 대기 중임",
+        "지방에서는 7곳 3391가구가 청약 접수를 대기 중임"
+      ],
+      "importance": 3,
+      "tags": [
+        "분양캘린더",
+        "경희궁 에피트",
+        "청약"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "jasm.co.kr",
+          "title": "[부동산 캘린더] 다음주 전국서 6295가구 분양…서울 경희궁 에피트 등",
+          "url": "https://www.jasm.co.kr/news/view/326083/?sc=Naver"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "461aa284d8e2",
+      "title": "\"국힘만 싫은 게 아니다\"…민주당에 등돌린 청년들",
+      "url": "https://www.sisajournal.com/news/articleView.html?idxno=394879",
+      "naver_url": "https://n.news.naver.com/mnews/article/586/0000142806?sid=100",
+      "source": "시사저널",
+      "description": "한국부동산원에 따르면 서울 아파트 매매가격은 11월 셋째 주까지 93주 연속 상승했다. 상승폭은 둔화하고 있지만, 지난 10월 서울의 평균 주택 전세가격마저 5억원을 돌파하면서 청년층의 주거 부담은 여전한 상황이다....",
+      "published_at": "2026-11-22T17:57+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 6,
+      "category": "매매·시세",
+      "summary": [
+        "서울 아파트 매매가격이 93주 연속 상승함",
+        "11월 셋째 주까지 상승세 속 상승폭은 둔화함",
+        "10월 서울 평균 주택 전세가격이 5억원을 돌파함"
+      ],
+      "importance": 3,
+      "tags": [
+        "서울",
+        "아파트값",
+        "전세가격"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "bef34c7c0a6a",
+      "title": "집 넓히면 억대 분담금, 줄이면 환급…재건축 '큰집 불패' 깨졌다",
+      "url": "https://www.hankyung.com/article/2026112224701",
+      "naver_url": "https://n.news.naver.com/mnews/article/015/0005356750?sid=101",
+      "source": "한국경제",
+      "description": "송파구 잠실주공5단지도 13일 마감한 조합원 분양신청에서 100㎡와 107㎡ 신청이 공급 물량에 못 미쳤다.... 박원갑 국민은행 부동산 수석전문위원은 “조합원이 소형을 선택하면 남는 면적을 일반분양 물량으로 돌려...",
+      "published_at": "2026-11-22T17:43+09:00",
+      "keywords": [
+        "분양",
+        "재건축"
+      ],
+      "relevance": 4,
+      "category": "재건축·개발",
+      "summary": [
+        "재건축에서 집을 넓히면 억대 분담금이 발생함",
+        "집을 줄이면 환급받는 재건축 사례가 나타남",
+        "잠실주공5단지 100㎡·107㎡ 신청이 공급에 미달함"
+      ],
+      "importance": 3,
+      "tags": [
+        "재건축",
+        "분담금",
+        "잠실주공5단지"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "한국경제",
+          "title": "'더 넓게'서 '덜 내자'로…재건축 小小익선 시대",
+          "url": "https://www.hankyung.com/article/2026112225171"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "bc249c228ef6",
+      "title": "보유세 오르고 재초환까지… 강남 집값 더 떨어질까",
+      "url": "https://www.kmib.co.kr/article/20261122501090",
+      "naver_url": "https://n.news.naver.com/mnews/article/005/0001886677?sid=101",
+      "source": "국민일보",
+      "description": "강남권 아파트들이 보유세 인상과 재건축초과이익환수를 맞닥뜨리면서 집값이 더 하락할지에 관심이... 강남권 재건축 단지에서는 재초환 부담금이 매도를 끌어낼 수 있을 것으로 보인다. 서초구는 지난 9일 반포현대...",
+      "published_at": "2026-11-22T17:41+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 6,
+      "category": "매매·시세",
+      "summary": [
+        "강남권 아파트가 보유세 인상 부담에 직면함",
+        "강남권 재건축 단지가 재초환 부담에도 직면함",
+        "재초환 부담금이 매도를 끌어낼 가능성이 제기됨"
+      ],
+      "importance": 3,
+      "tags": [
+        "강남권",
+        "보유세",
+        "재건축초과이익환수"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "5c045c8e7454",
+      "title": "잠실 20억 로또 청약 나온다",
+      "url": "https://www.mk.co.kr/article/12215676",
+      "naver_url": "https://n.news.naver.com/mnews/article/009/0005767292?sid=101",
+      "source": "매일경제",
+      "description": "6295가구가 청약 접수를 진행한다. 서울에서는 영등포구에서 역세권 신축 아파트가 공급된다. 문래동3가... 한편 20억원 이상의 시세 차익이 예상되는 로또 청약도 나온다. 송파구 신천동 '잠실 래미안아이파크...",
+      "published_at": "2026-11-22T17:34+09:00",
+      "keywords": [
+        "청약"
+      ],
+      "relevance": 9,
+      "category": "분양·청약",
+      "summary": [
+        "6295가구가 청약 접수를 진행함",
+        "영등포구 문래동3가에 역세권 신축 아파트 공급",
+        "잠실 래미안아이파크는 20억원 이상 시세 차익 예상"
+      ],
+      "importance": 3,
+      "tags": [
+        "잠실 래미안아이파크",
+        "청약",
+        "문래동3가"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "ggilbo.com",
+          "title": "잠실 43억원 아파트가 18억원대에?… 래미안아이파크 청약 조건·일정 보...",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1194016"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "882c99d6b7d6",
+      "title": "[아주부동산 PICK] 노원 '국평' 신규 전세도 6억원…5억원 이하 비중 절...",
+      "url": "https://www.ajunews.com/view/20261122144034880",
+      "naver_url": "https://www.ajunews.com/view/20261122144034880",
+      "source": "아주경제",
+      "description": "전문가들은 중저가 지역의 전셋값 상승이 무주택자의 월세 전환과 수도권 외곽 이동을 부추기고, 매매가격 15억원 미만 아파트의 매수 수요를 자극할 가능성이 있다고 분석했다. 재초환 부담금 부과 현실화...",
+      "published_at": "2026-11-22T17:32+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 9,
+      "category": "전월세",
+      "summary": [
+        "노원 국민평형 신규 전세도 6억원 수준",
+        "전문가들은 전셋값 상승에 따른 월세 전환 가능성 제기",
+        "15억원 미만 아파트 매수 수요 자극 가능성 제기"
+      ],
+      "importance": 3,
+      "tags": [
+        "노원",
+        "전셋값",
+        "월세 전환"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "cd1facc0f424",
+      "title": "'국평'마저 부담…청약시장도 소형이 대세",
+      "url": "https://www.hankyung.com/article/2026112224681",
+      "naver_url": "https://n.news.naver.com/mnews/article/015/0005356735?sid=101",
+      "source": "한국경제",
+      "description": "분양 시장에서는 소형 아파트의 청약 경쟁률이 중대형을 크게 웃돌았다. 매매시장에서도 소형이 가격 상승을 주도했다. 대출 규제 장기화와 세제 개편안, 재건축 초과이익환수제 등이 소형 선호 현상의 배경으로...",
+      "published_at": "2026-11-22T17:32+09:00",
+      "keywords": [
+        "아파트 매매",
+        "청약"
+      ],
+      "relevance": 5,
+      "category": "분양·청약",
+      "summary": [
+        "소형 아파트 청약 경쟁률이 중대형을 크게 웃돎",
+        "매매시장에서도 소형이 가격 상승을 주도함",
+        "대출 규제 장기화 등이 소형 선호 배경으로 제시됨"
+      ],
+      "importance": 3,
+      "tags": [
+        "소형 아파트",
+        "청약 경쟁률",
+        "대출 규제"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "cfdda3a8d156",
+      "title": "法, \"아파트 옆동 실거래가로 증여세 부과 정당…전용면적·가격 동일\"",
+      "url": "https://www.ajunews.com/view/20261122152116974",
+      "naver_url": "https://www.ajunews.com/view/20261122152116974",
+      "source": "아주경제",
+      "description": "거래 시점 차이에 대해서도 \"비교 대상 아파트 매매일과 증여일 간격이 약 6개월 20일로 평가 기간에 매우 근접하다\"며 \"A씨가 증여받은 아파트와 같은 동·층·전용면적의 다른 아파트도 7억3000만원에 매매 계약이...",
+      "published_at": "2026-11-22T15:54+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 4,
+      "category": "정책·규제",
+      "summary": [
+        "법원이 아파트 옆동 실거래가 기준 증여세 부과를 인정함",
+        "비교 매매일과 증여일 간격은 약 6개월 20일임",
+        "같은 동·층·전용면적의 다른 아파트도 7억3000만원에 계약됨"
+      ],
+      "importance": 3,
+      "tags": [
+        "증여세",
+        "실거래가",
+        "법원"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "intn.co.kr",
+          "title": "옆 동 아파트 7개월 전 실거래가로 증여세 재산정 부과…법원 \"적법\"",
+          "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000424"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "a73ac558edd1",
+      "title": "\"성동구 아파트 매물 1년새 148% 급증\"…전문가 \"내년 서울 집값 조정 올...",
+      "url": "https://www.newsis.com/view/NISX20261122_0003878060",
+      "naver_url": "https://n.news.naver.com/mnews/article/003/0014338060?sid=101",
+      "source": "뉴시스",
+      "description": "표 대표는 \"부동산 시장을 움직이는 돈은 정부 예산이 아니라 은행 주택담보대출 한도와 주식 상승으로 불어난 개인의 투자 여력\"이라며 \"대출이 막히고 주식이 반토막 나면서 시중에 도는 유동성은 확실히 줄어든 것...",
+      "published_at": "2026-11-22T14:02+09:00",
+      "keywords": [
+        "주택담보대출"
+      ],
+      "relevance": 7,
+      "category": "매매·시세",
+      "summary": [
+        "성동구 아파트 매물이 1년 사이 148% 급증함",
+        "표 대표는 주택담보대출 한도를 시장 영향 요인으로 지목함",
+        "표 대표는 대출 제약과 주가 하락으로 유동성이 줄었다고 진단함"
+      ],
+      "importance": 3,
+      "tags": [
+        "성동구",
+        "아파트 매물",
+        "주택담보대출"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "71ff7b742aeb",
+      "title": "현대아파트의 유산, ‘아이파크ʼ라는 이름으로 다시 쓰다 [건설 브랜드...",
+      "url": "https://www.fntimes.com/html/view.php?ud=202611202343193770dd55077bc2_18",
+      "naver_url": "https://www.fntimes.com/html/view.php?ud=202611202343193770dd55077bc2_18",
+      "source": "한국금융신문",
+      "description": "이후 상업시설과 호텔·리조트 등으로 사업 영역을 넓히며 건물을 짓는 시공사를 넘어 개발 기획부터 시공과 운영까지 아우르는 종합 부동산 디벨로퍼로 변화를 추진했다. 2018년에는 기존 현대산업개발을 지주회사...",
+      "published_at": "2026-11-23T00:02+09:00",
+      "keywords": [
+        "부동산",
+        "재건축"
+      ],
+      "relevance": 4,
+      "category": "기타",
+      "summary": [
+        "현대아파트에서 아이파크로 이어지는 브랜드 조명",
+        "상업시설과 호텔·리조트 등으로 사업 영역 확대",
+        "개발 기획부터 시공·운영까지 아우르는 변화 추진"
+      ],
+      "importance": 2,
+      "tags": [
+        "아이파크",
+        "현대산업개발"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "b3056d0587fe",
+      "title": "김성진號 한국토지신탁, 안정성 바탕 정비사업 확대",
+      "url": "https://www.fntimes.com/html/view.php?ud=202611202340505583dd55077bc2_18",
+      "naver_url": "https://www.fntimes.com/html/view.php?ud=202611202340505583dd55077bc2_18",
+      "source": "한국금융신문",
+      "description": "한국토지신탁이 부동산 경기 침체 속에서도 도시정비사업을 확대하며 성장 기반을 넓히고 있다. 김성진... 한국토지신탁은 부동산 시장이 위축됐던 2022~2023년 무리한 수주를 지양했다. 사업성 검토와 리스크 관리에...",
+      "published_at": "2026-11-23T00:02+09:00",
+      "keywords": [
+        "부동산",
+        "분양",
+        "재건축"
+      ],
+      "relevance": 4,
+      "category": "재건축·개발",
+      "summary": [
+        "한국토지신탁이 침체 속 도시정비사업을 확대함",
+        "2022~2023년 시장 위축기에 무리한 수주 지양",
+        "사업성 검토와 리스크 관리에 중점을 둠"
+      ],
+      "importance": 2,
+      "tags": [
+        "한국토지신탁",
+        "도시정비사업",
+        "김성진"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "ee3c9f57afe8",
+      "title": "'영끌' 먼저냐 '임신' 먼저냐…30대 맞벌이 부부 고민에 전문가 '팩폭'",
+      "url": "https://www.newsis.com/view/NISX20261118_0003873476",
+      "naver_url": "https://n.news.naver.com/mnews/article/003/0014338431?sid=101",
+      "source": "뉴시스",
+      "description": "A씨에 따르면 남편은 하루라도 빨리 서울 아파트를 사야 한다는 입장이다. A씨는 \"저희가 알아본 아파트를... 나머지는 다 월세\"라며 \"임대차계약을 통해 집을 구하기 어렵기 때문에 강제적으로 매매 시장에 뛰어든...",
+      "published_at": "2026-11-23T00:00+09:00",
+      "keywords": [
+        "아파트 매매",
+        "전세",
+        "주택담보대출"
+      ],
+      "relevance": 4,
+      "category": "매매·시세",
+      "summary": [
+        "30대 맞벌이 부부의 주택 매수와 임신 고민 소개",
+        "남편은 하루라도 빨리 서울 아파트 매수를 희망함",
+        "임대차로 집을 구하기 어려워 매매시장에 진입한다는 사연"
+      ],
+      "importance": 2,
+      "tags": [
+        "서울 아파트",
+        "맞벌이 부부",
+        "주택 매수"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "e4638bbaab70",
+      "title": "이찬우, '농업인 포용금융' 뚝심…이자부담 덜고 농촌 복지 넓혔다",
+      "url": "https://www.apnews.kr/news/articleView.html?idxno=3053414",
+      "naver_url": "https://www.apnews.kr/news/articleView.html?idxno=3053414",
+      "source": "apnews.kr",
+      "description": "지방 주택·전세자금 신규 대출 고객에게는 우대금리와 대출 부대비용 면제 혜택을 제공해 주거비 부담을 낮췄으며, 올해 혜택 대상 대출액은 4629억원에 달한다. 농협금융은 이 같은 금융 지원을 농업 생산성 향상으로...",
+      "published_at": "2026-11-22T23:44+09:00",
+      "keywords": [
+        "전세"
+      ],
+      "relevance": 2,
+      "category": "금리·대출",
+      "summary": [
+        "지방 주택·전세자금 신규 대출 고객에게 우대금리를 제공함",
+        "해당 신규 대출 고객에게 대출 부대비용 면제 혜택도 제공함",
+        "올해 혜택 대상 대출액은 4629억원에 달함"
+      ],
+      "importance": 2,
+      "tags": [
+        "농협금융",
+        "주택대출",
+        "우대금리"
+      ],
+      "why": "",
+      "duplicates": 3,
+      "related": [
+        {
+          "source": "businessplus.kr",
+          "title": "NH농협금융, 농업인 이자부담 292억원 경감…스마트팜·판로 지원도",
+          "url": "https://www.businessplus.kr/news/articleView.html?idxno=120265"
+        },
+        {
+          "source": "koreareport.co.kr",
+          "title": "농협금융, 농업인 이자 부담 292억원 줄여",
+          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=55007"
+        },
+        {
+          "source": "s-journal.co.kr",
+          "title": "NH농협금융, 농업인 금융지원 확대… 영농부터 복지까지 상생 강화",
+          "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=45515"
+        }
+      ],
+      "source_known": false
+    },
+    {
+      "id": "31d81ba8a40d",
+      "title": "범죄·전세 피해자 임시거처 50가구…대구도시개발공사, 보증금 지원 방...",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01899126645648344&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "naver_url": "https://n.news.naver.com/mnews/article/018/0006413782?sid=100",
+      "source": "이데일리",
+      "description": "대구도시개발공사가 범죄·전세 피해자 등의 임시거처로 매입임대주택 50가구를 공급하고, 입주자의 임대보증금 부담을 줄일 방안을 관계기관과 논의했다. 공사는 지난 19일 호텔 인터불고 엑스코에서 열린 ‘범죄피해자...",
+      "published_at": "2026-11-22T18:47+09:00",
+      "keywords": [
+        "전세"
+      ],
+      "relevance": 5,
+      "category": "전월세",
+      "summary": [
+        "대구도시개발공사가 임시거처 50가구를 공급함",
+        "범죄·전세 피해자 등이 매입임대주택 공급 대상임",
+        "입주자 임대보증금 부담 완화를 관계기관과 논의함"
+      ],
+      "importance": 2,
+      "tags": [
+        "대구도시개발공사",
+        "매입임대주택",
+        "전세피해자"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "72de72d31d73",
+      "title": "'아크메르 동탄', 선착순 동·호 지정 계약…현장 '북적'",
+      "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005966579",
+      "naver_url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005966579",
+      "source": "MBN",
+      "description": "계약자는 우선 1천만 원을 낸 후 30일 이내에 전체 계약금인 분양가의 10% 중 나머지 금액을 납부해야... 분양 측은 해당 금액을 연체이자와 함께 잔금 때 납부할 수 있으며, 변경 조건은 기존 계약자에게도 동일하게...",
+      "published_at": "2026-11-22T18:16+09:00",
+      "keywords": [
+        "분양",
+        "청약",
+        "부동산"
+      ],
+      "relevance": 4,
+      "category": "분양·청약",
+      "summary": [
+        "아크메르 동탄이 선착순 동·호 지정 계약을 진행함",
+        "계약자는 1천만원 납부 후 30일 내 계약금 잔액 납부함",
+        "분양 측은 변경 조건을 기존 계약자에게도 동일 적용함"
+      ],
+      "importance": 2,
+      "tags": [
+        "아크메르 동탄",
+        "선착순 계약",
+        "계약금"
+      ],
+      "why": "",
+      "duplicates": 2,
+      "related": [
+        {
+          "source": "apnews.kr",
+          "title": "금일 선착순 계약 첫날 맞은 '아크메르 동탄', 현장 발길 이어져",
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3053401"
+        },
+        {
+          "source": "ppss.kr",
+          "title": "청약 관심 이어졌다…아크메르 동탄 선착순 계약 현장에 방문객 발길 지...",
+          "url": "https://www.ppss.kr/news/articleView.html?idxno=322275"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "c51e981f4a00",
+      "title": "삼성물산, 한양건설 아파트 '립스'에 홈닉 공급…주거 서비스 차별화",
+      "url": "https://www.dailian.co.kr/news/view/1718152/?sc=Naver",
+      "naver_url": "https://n.news.naver.com/mnews/article/119/0003158053?sid=101",
+      "source": "데일리안",
+      "description": "넓어지면서 분양 단계부터 차별화된 서비스를 제공할 수 있다는 점이 홈닉 도입의 주요 계기가 됐다. 홈닉의 다양한 서비스를 통해 입주민에게 새로운 주거 가치를 제공하고 분양 경쟁력 강화에도 기여할 것으로...",
+      "published_at": "2026-11-22T17:59+09:00",
+      "keywords": [
+        "분양"
+      ],
+      "relevance": 4,
+      "category": "기타",
+      "summary": [
+        "삼성물산이 한양건설 아파트 립스에 홈닉 공급",
+        "분양 단계부터 차별화된 서비스 제공을 추진함",
+        "홈닉 서비스로 입주민 주거 가치 제공을 추진함"
+      ],
+      "importance": 2,
+      "tags": [
+        "삼성물산",
+        "립스",
+        "홈닉"
+      ],
+      "why": "",
+      "duplicates": 5,
+      "related": [
+        {
+          "source": "koreareport.co.kr",
+          "title": "삼성물산, 한양건설에 주거 앱 '홈닉' 공급",
+          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=55013"
+        },
+        {
+          "source": "apnews.kr",
+          "title": "3D 홈스타일링까지…삼성물산 '홈닉', 한양건설 아파트에 들어간다",
+          "url": "https://www.apnews.kr/news/articleView.html?idxno=3053406"
+        },
+        {
+          "source": "econonews.co.kr",
+          "title": "삼성물산 '홈닉', 한양건설 아파트에 도입…이사 예약·VR 인테리어·에...",
+          "url": "http://www.econonews.co.kr/news/articleView.html?idxno=447521"
+        },
+        {
+          "source": "thedailypost.kr",
+          "title": "삼성물산·한양건설, 스마트홈 협력…'LEEPS by 홈닉' 도입",
+          "url": "https://www.thedailypost.kr/news/articleView.html?idxno=117136"
+        },
+        {
+          "source": "megaeconomy.co.kr",
+          "title": "삼성물산, 한양건설과 '홈닉' 도입 업무협약…스마트 주거서비스 확대",
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065606055803079"
+        }
+      ],
+      "source_known": true
+    }
+  ],
+  "usage": {
+    "model": "gpt-6.1-sol",
+    "calls": 6,
+    "errors": 0,
+    "input_tokens": 13888,
+    "cached_tokens": 0,
+    "output_tokens": 4757,
+    "reasoning_tokens": 156,
+    "cost_usd": 0.0753,
+    "cost_krw": 105
+  }
+}
