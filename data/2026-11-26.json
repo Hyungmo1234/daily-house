@@ -1,0 +1,1185 @@
+{
+  "date": "2026-11-26",
+  "date_label": "2026년 11월 26일 (목)",
+  "generated_at": "2026-11-26T04:13+09:00",
+  "keywords_searched": [
+    "부동산",
+    "아파트 매매",
+    "전세",
+    "청약",
+    "주택담보대출",
+    "분양",
+    "재건축"
+  ],
+  "overview": "정부가 2030년까지 공적주택 119만호 공급 계획을 내놓은 가운데, 주택담보대출 금리는 약 15년 만에 최고 수준에 올랐습니다. 전세 세입자의 이사 부담과 경기 지역 임의경매 증가도 드러나 주거비와 상환 여력 점검이 중요해졌습니다.",
+  "keywords": [
+    "공적주택",
+    "주택공급",
+    "주담대금리",
+    "전세",
+    "전세사기",
+    "재건축",
+    "아파트값",
+    "실거주"
+  ],
+  "headline_ids": [
+    "a594e56c1642",
+    "0b2bf3dc5db7",
+    "fbcf3d44bd4a"
+  ],
+  "categories": {
+    "금리·대출": 1,
+    "정책·규제": 7,
+    "전월세": 4,
+    "재건축·개발": 3,
+    "매매·시세": 5,
+    "기타": 6,
+    "분양·청약": 4
+  },
+  "raw_count": 181,
+  "articles": [
+    {
+      "id": "0b2bf3dc5db7",
+      "title": "주담대 금리 4.98% 15년만에 최고… 가계대출은 5% 넘었다",
+      "url": "https://www.donga.com/news/Economy/article/all/20261125/135091191/2",
+      "naver_url": "https://n.news.naver.com/mnews/article/020/0003765197?sid=101",
+      "source": "동아일보",
+      "description": "은행권에서 새로 주택담보대출을 받을 때 적용되는 평균 금리가 지난달 연 5%대에 이르면서 약 15년 만에 가장 높은 수준을 나타냈다. 주택담보대출은 물론이고 신용대출을 포함한 전체 가계 대출 평균 금리도 연 5...",
+      "published_at": "2026-11-26T00:31+09:00",
+      "keywords": [
+        "주택담보대출"
+      ],
+      "relevance": 4,
+      "category": "금리·대출",
+      "summary": [
+        "은행권 신규 주택담보대출 평균 금리가 4.98%를 기록함",
+        "주택담보대출 금리가 약 15년 만에 최고 수준을 기록함",
+        "신용대출을 포함한 전체 가계대출 평균 금리도 5%를 넘음"
+      ],
+      "importance": 5,
+      "tags": [
+        "주택담보대출",
+        "가계대출",
+        "대출금리"
+      ],
+      "why": "신규 주택담보대출 평균 금리가 4.98%로 약 15년 만에 최고 수준입니다. 대출로 집을 사려는 실수요자는 매수 예산과 원리금 상환 여력을 점검해야 합니다.",
+      "duplicates": 14,
+      "related": [
+        {
+          "source": "국민일보",
+          "title": "[포토] 주담대 금리 14년 7개월 만에 최고치",
+          "url": "https://www.kmib.co.kr/article/20261125502023"
+        },
+        {
+          "source": "daily.hankooki.com",
+          "title": "은행 가계대출 금리 2년 11개월 만에 5% 돌파…주담대 14년 7개월來 최고",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1429072"
+        },
+        {
+          "source": "연합뉴스TV",
+          "title": "가계대출 금리 5% 돌파…주담대 15년래 최고",
+          "url": "http://www.yonhapnewstv.co.kr/news/MYH20261125201237y2P"
+        },
+        {
+          "source": "한국경제",
+          "title": "10월 가계대출 금리 연 5% 돌파…주담대는 14년7개월 만에 최고",
+          "url": "https://www.hankyung.com/article/2026112502471"
+        },
+        {
+          "source": "idaegu.co.kr",
+          "title": "10월 가계대출 금리 5% 돌파…주담대 14년 7개월만에 최고",
+          "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=566442"
+        },
+        {
+          "source": "futurechosun.com",
+          "title": "[더나은미래 경제브리핑] 은행 가계대출 금리 3년 만에 5% 돌파, 주담대...",
+          "url": "https://futurechosun.com/?p=167684"
+        },
+        {
+          "source": "thepublic.kr",
+          "title": "주담대 금리 14년7개월 만에 최고…가계대출 금리도 5% 돌파",
+          "url": "https://www.thepublic.kr/news/articleView.html?idxno=328467"
+        },
+        {
+          "source": "businesspost.co.kr",
+          "title": "10월 은행 가계대출 금리 5% 넘어서, 주담대 금리 4.98%로 14년7개월 만에...",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452941"
+        },
+        {
+          "source": "매일경제",
+          "title": "5% 대출금리 시대 열렸다… 주담대 15년만에 최고",
+          "url": "https://www.mk.co.kr/article/12218389"
+        },
+        {
+          "source": "디지털타임스",
+          "title": "[기획] 주담대 15년만에 최고… 극한 이자고통시대 열렸다",
+          "url": "https://www.dt.co.kr/article/12097241?ref=naver"
+        },
+        {
+          "source": "wowtv.co.kr",
+          "title": "가계대출 금리 5% 돌파…\"금리 추가 인상 유력\"",
+          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611250142&t=NNv"
+        },
+        {
+          "source": "경향신문",
+          "title": "[사설]가계대출 금리 5% 돌파, 취약층 안전판 마련 서둘러야",
+          "url": "https://www.khan.co.kr/article/202611251836001"
+        },
+        {
+          "source": "디지털타임스",
+          "title": "[사설] 연5% 넘어선 가계대출 금리… 거시경제 운용 보다 정교해져야",
+          "url": "https://www.dt.co.kr/article/12097266?ref=naver"
+        },
+        {
+          "source": "파이낸셜뉴스",
+          "title": "5% 넘은 가계대출 금리… 잠못드는 영끌족",
+          "url": "https://www.fnnews.com/news/202611251804044537"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "a594e56c1642",
+      "title": "李대통령 \"공적주택, 주거사다리 돼야…공급, 정해진대로\"",
+      "url": "https://www.nocutnews.co.kr/news/6612729?utm_source=naver&utm_medium=article&utm_campaign=20261125234919",
+      "naver_url": "https://n.news.naver.com/mnews/article/079/0004213939?sid=100",
+      "source": "노컷뉴스",
+      "description": "국토부는 2030년까지 3기 신도시 등 공공택지 29만9천 호를 비롯한 건설임대 35만호, 매입임대 31만3천 호, 전세임대 23만 호, 공공지원 민간임대 5만2천 호, 공공분양 24만3천 호 등 공적주택 119만호를 공급하겠다고 밝혔다....",
+      "published_at": "2026-11-25T22:36+09:00",
+      "keywords": [
+        "전세",
+        "분양",
+        "재건축",
+        "아파트 매매",
+        "부동산"
+      ],
+      "relevance": 8,
+      "category": "정책·규제",
+      "summary": [
+        "국토부가 2030년까지 공적주택 119만호 공급 계획을 밝힘",
+        "건설임대 35만호와 매입임대 31만3천호 공급 계획",
+        "전세임대 23만호와 공공분양 24만3천호 공급 계획"
+      ],
+      "importance": 5,
+      "tags": [
+        "공적주택",
+        "국토부",
+        "주택공급"
+      ],
+      "why": "2030년까지 공적주택 119만호 공급 계획이 제시됐습니다. 무주택 실수요자와 세입자는 공공분양·임대 유형별 공급 계획을 살펴볼 필요가 있습니다.",
+      "duplicates": 21,
+      "related": [
+        {
+          "source": "뉴스핌",
+          "title": "李대통령 \"재원 부족해 공적주택 못 짓는 일 없을 것…문제는 택지\"",
+          "url": "https://www.newspim.com/news/view/20261125001318"
+        },
+        {
+          "source": "헤럴드경제",
+          "title": "공적주택 보고 받은 李대통령 “독일병정 전차 가듯…밀리지 말고 다 해...",
+          "url": "https://biz.heraldcorp.com/article/10949512?ref=naver"
+        },
+        {
+          "source": "wikitree.co.kr",
+          "title": "“중산층도 입주하는 고품질 임대주택 확충”... 이재명 대통령, 공적주...",
+          "url": "https://www.wikitree.co.kr/articles/1177802"
+        },
+        {
+          "source": "아주경제",
+          "title": "李 \"재원 이유로 공급 안 하면 안돼\"…LH에도 공급목표 초과 주문",
+          "url": "https://www.ajunews.com/view/20261125204613656"
+        },
+        {
+          "source": "디지털타임스",
+          "title": "이 대통령 \"중산층도 선택하는 공적주택 연 24만호 공급\"",
+          "url": "https://www.dt.co.kr/article/12097247?ref=naver"
+        },
+        {
+          "source": "goodmorningcc.com",
+          "title": "이 대통령, '사회주택 택지 공급' 지시 이어 전통시장 점검…주거·물가...",
+          "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=456578"
+        },
+        {
+          "source": "머니투데이",
+          "title": "李대통령, '닥공' 행보…\"LH, 사업 신속히 하면 가점 검토해 보라\"",
+          "url": "https://www.mt.co.kr/politics/2026/11/25/2026112522472360227"
+        },
+        {
+          "source": "newscj.com",
+          "title": "李대통령, 공적주택 공급 '속도전'… LH에 50만호 초과 달성 주문",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3452134"
+        },
+        {
+          "source": "뉴시스",
+          "title": "이 대통령 \"서울 핵심지역 주택가격 하향 안정화…급격한 변동에도 대비...",
+          "url": "https://www.newsis.com/view/NISX20261125_0003883553"
+        },
+        {
+          "source": "연합인포맥스",
+          "title": "李대통령 \"서울 핵심지역 집값 하향 안정화…급격한 변동에도 대비\"",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446547"
+        },
+        {
+          "source": "JTBC",
+          "title": "이 대통령 “미래 공적주택 24만 호 공급…중산층 선택해야\"",
+          "url": "https://news.jtbc.co.kr/article/NB12329851?influxDiv=NAVER"
+        },
+        {
+          "source": "연합뉴스",
+          "title": "2030년까지 수도권에 아파트 발주 182조원…50만호 착공(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261125168651001?input=1195m"
+        },
+        {
+          "source": "4th.kr",
+          "title": "LH, 2030년까지 수도권 50만가구 착공…182조원 발주",
+          "url": "http://www.4th.kr/news/articleView.html?idxno=2122710"
+        },
+        {
+          "source": "newsian.co.kr",
+          "title": "수도권에 182조원 아파트 발주…2030년까지 공공주택 50만호 착공",
+          "url": "https://www.newsian.co.kr/news/articleView.html?idxno=102030"
+        },
+        {
+          "source": "조선일보",
+          "title": "李대통령 \"중산층도 살 만한 임대주택 만들라\"…명칭 바꾸고 공급 확대",
+          "url": "https://weekly.chosun.com/news/articleView.html?idxno=60087"
+        },
+        {
+          "source": "매일경제",
+          "title": "李 \"공적주택, 중산층에게도 기회를 … 분양전환은 금지해야\"",
+          "url": "https://www.mk.co.kr/article/12218774"
+        },
+        {
+          "source": "KBS",
+          "title": "이 대통령 “공적임대주택, 중산층도 선택하게…청년·신혼부부 웬만하...",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722604&ref=A"
+        },
+        {
+          "source": "SBS",
+          "title": "李대통령 \"'로또 맞을래' 이겨내야…임대 최대한 늘릴 것\"",
+          "url": "https://biz.sbs.co.kr/article_hub/20000348918?division=NAVER"
+        },
+        {
+          "source": "뉴시스",
+          "title": "이 대통령, \"2030년까지 매해 평균 24만호 공적주택 공급 예정…속도·물...",
+          "url": "https://www.newsis.com/view/NISX20261125_0003883582"
+        },
+        {
+          "source": "shinailbo.co.kr",
+          "title": "李대통령 \"2030년까지 매해 24만호 공적주택 공급 예정\"",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087934"
+        },
+        {
+          "source": "연합뉴스TV",
+          "title": "\"매년 24만호 공급\"…'공적주택' 속도전 강조",
+          "url": "http://www.yonhapnewstv.co.kr/news/MYH20261125231657Liw"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "fbcf3d44bd4a",
+      "title": "4년 전 30평대 전세 세입자, 20평대도 못 간다",
+      "url": "https://www.chosun.com/economy/real_estate/2026/11/26/TKODEXDYI5BTRCADHLWSVBC45M/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "naver_url": "https://n.news.naver.com/mnews/article/023/0004011736?sid=101",
+      "source": "조선일보",
+      "description": "아파트 전세를 구한 사람들은 당시 평균 3억5599만원의 보증금을 냈다. 당시만 해도 전셋값이 하락하던... 하지만 이때 전세 계약을 맺은 사람들은 계약 갱신권을 통해 법적으로 보장된 4년이 지나는 내년, 같은...",
+      "published_at": "2026-11-26T00:33+09:00",
+      "keywords": [
+        "전세"
+      ],
+      "relevance": 3,
+      "category": "전월세",
+      "summary": [
+        "4년 전 30평대 전세 세입자, 20평대도 못 가는 상황",
+        "당시 아파트 전세 평균 보증금은 3억5599만원",
+        "당시 계약자들의 갱신권 보장 기간 4년이 내년 종료"
+      ],
+      "importance": 3,
+      "tags": [
+        "전세보증금",
+        "계약갱신권"
+      ],
+      "why": "4년 전 전세 보증금으로는 더 작은 집으로 옮기기도 어려운 상황이 보도됐습니다. 내년 갱신권 보장 기간이 끝나는 세입자는 재계약·이사 비용 점검이 중요합니다.",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "fc09b12fcc8b",
+      "title": "한양도성 세계유산, 서대문구까지 반발",
+      "url": "https://www.chosun.com/national/national_general/2026/11/26/Q3L254WGTJDDBF56RYGYAPMKBQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "naver_url": "https://n.news.naver.com/mnews/article/023/0004011789?sid=102",
+      "source": "조선일보",
+      "description": "11개 재개발 구역 주민들도 서명 운동에 나섰다. 서울시에 따르면 한양도성이 세계유산에 등재되면 서울 6구 재개발·재건축 구역 15곳, 약 1만4000가구가 영향을 받을 수 있다. 등재 여부는 내년 7월 결정된다.",
+      "published_at": "2026-11-26T00:47+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 3,
+      "category": "재건축·개발",
+      "summary": [
+        "한양도성 세계유산 등재에 서대문구까지 반발",
+        "등재 시 서울 6개 구 정비구역 약 1만4000가구 영향 가능",
+        "11개 재개발 구역 주민 서명 운동, 내년 7월 등재 결정"
+      ],
+      "importance": 4,
+      "tags": [
+        "한양도성",
+        "세계유산",
+        "재개발"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "cnbizm.com",
+          "title": "서대문구, 세계유산 등재에 개미마을 재개발 발목 잡혀선 안 돼",
+          "url": "https://www.cnbizm.com/news/articleView.html?idxno=322722"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "5430c9518d46",
+      "title": "GH, 전세임대 사업 피해 공식 사과...\"피해자 구제 최우선, 업무 전반 쇄...",
+      "url": "https://www.ajunews.com/view/20261125232208757",
+      "naver_url": "https://www.ajunews.com/view/20261125232208757",
+      "source": "아주경제",
+      "description": "com [사진=GH] 경기주택도시공사(GH)가 기존주택 전세임대 사업에서 발생한 전세사기 피해와 관련해 도민들에게 공식 사과하고 피해자의 주거 안정과 피해 회복을 최우선으로 추진하는 한편 내부 관리체계와 업무처리...",
+      "published_at": "2026-11-25T23:32+09:00",
+      "keywords": [
+        "전세"
+      ],
+      "relevance": 9,
+      "category": "전월세",
+      "summary": [
+        "GH가 기존주택 전세임대 사기 피해에 공식 사과함",
+        "피해자의 주거 안정과 피해 회복을 최우선 추진함",
+        "내부 관리체계와 업무 전반의 쇄신 방침을 밝힘"
+      ],
+      "importance": 4,
+      "tags": [
+        "GH",
+        "전세임대",
+        "전세사기"
+      ],
+      "why": "",
+      "duplicates": 3,
+      "related": [
+        {
+          "source": "bizwnews.com",
+          "title": "GH, 전세임대 사기 피해 사과…\"피해자 구제 최우선\"",
+          "url": "http://www.bizwnews.com/news/articleView.html?idxno=153218"
+        },
+        {
+          "source": "cnbnews.com",
+          "title": "전세사기 피해 관련 경기주택도시공사(GH) 입장문 발표",
+          "url": "https://www.cnbnews.com/news/articleView.html?idxno=1025372"
+        },
+        {
+          "source": "pointdaily.co.kr",
+          "title": "GH, 전세사기 피해 공식 사과...구제부터 재발 방지까지",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327455"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "6afe071eef34",
+      "title": "추미애 경기도지사, GH 전세임대 사기 피해 조사 긴급 지시",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=2023486",
+      "naver_url": "https://www.m-i.kr/news/articleView.html?idxno=2023486",
+      "source": "매일일보",
+      "description": "매일일보 = 강재규 기자 | 추미애 경기도지사는 25일 경기주택도시공사(GH)의 기존주택 전세임대 관련 전세사기 피해 상황을 보고받고 지방공기업법과 GH의 설립 및 운영 조례에 따른 조사와 보고를 긴급 지시했다. 이번...",
+      "published_at": "2026-11-25T21:48+09:00",
+      "keywords": [
+        "전세",
+        "부동산"
+      ],
+      "relevance": 8,
+      "category": "전월세",
+      "summary": [
+        "추미애 경기도지사가 GH 전세사기 피해 상황을 보고받음",
+        "GH 기존주택 전세임대 피해 조사와 보고를 긴급 지시함",
+        "지방공기업법과 GH 설립·운영 조례에 따른 조사 지시"
+      ],
+      "importance": 4,
+      "tags": [
+        "경기도",
+        "GH",
+        "전세사기"
+      ],
+      "why": "",
+      "duplicates": 3,
+      "related": [
+        {
+          "source": "bizwnews.com",
+          "title": "추미애 경기도지사, GH 전세임대 사기 긴급 조사 지시",
+          "url": "http://www.bizwnews.com/news/articleView.html?idxno=153217"
+        },
+        {
+          "source": "ppss.kr",
+          "title": "GH 전세임대 계약서, '잔금 지급 후 임대인과 연락 두절'…입주 예정자...",
+          "url": "https://www.ppss.kr/news/articleView.html?idxno=322921"
+        },
+        {
+          "source": "thereport.co.kr",
+          "title": "GH, 입주 가능 여부 확인 전 전세 잔금 1억6000만 원 지급… 경기도 전수...",
+          "url": "https://www.thereport.co.kr/news/articleView.html?idxno=93739"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "6d9a21ce690c",
+      "title": "전주 역세권 ‘AI 첨단산업단지’ 조성…기업·일자리 유치가 관건",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722656&ref=A",
+      "naver_url": "https://n.news.naver.com/mnews/article/056/0012301224?sid=101",
+      "source": "KBS",
+      "description": "추정 사업비는 4천2백26억 원인데, 터 조성비 2천4백억 원은 전북개발공사가 먼저 투입해 토지 분양으로 회수한다는 구상입니다. 다만 국비 지원 규모와 전주시, 전북도의 부담액은 아직 정해지지 않았습니다. 전주시는...",
+      "published_at": "2026-11-25T21:46+09:00",
+      "keywords": [
+        "분양"
+      ],
+      "relevance": 4,
+      "category": "재건축·개발",
+      "summary": [
+        "전주 역세권 AI 첨단산업단지 추정 사업비 4226억원",
+        "전북개발공사가 터 조성비 2400억원 선투입 구상",
+        "국비 지원 규모와 전주시·전북도 부담액은 미정임"
+      ],
+      "importance": 4,
+      "tags": [
+        "전주",
+        "AI첨단산업단지",
+        "전북개발공사"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "9da888e3b4fc",
+      "title": "李대통령 \"토지임대부 주택도 투기자산화\"…與의원 제안에 공개 반박",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446546",
+      "naver_url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446546",
+      "source": "연합인포맥스",
+      "description": "이 대통령은 \"사람들 사이에 재건축할 때는 이 토지를 우리가 가질 수 있다, 분양받을 수 있다는 확신이... 다만 토지의 장기 소유 관계와 재건축·재개발 과정에서 발생할 수 있는 권리 문제, 거래가격 형성 방식 등을...",
+      "published_at": "2026-11-25T20:48+09:00",
+      "keywords": [
+        "재건축"
+      ],
+      "relevance": 9,
+      "category": "정책·규제",
+      "summary": [
+        "이 대통령이 토지임대부 주택도 투기자산화된다고 지적함",
+        "토지임대부 주택 관련 여당 의원 제안에 공개 반박함",
+        "재건축 때 토지를 소유하거나 분양받을 수 있다는 인식을 언급함"
+      ],
+      "importance": 4,
+      "tags": [
+        "토지임대부 주택",
+        "이 대통령",
+        "재건축"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "dfed83461952",
+      "title": "서울시 \"부동산 현장 절박 요구에도 국토부 기존 입장 되풀이\"",
+      "url": "https://www.newsis.com/view/NISX20261125_0003883508",
+      "naver_url": "https://n.news.naver.com/mnews/article/003/0014345543?sid=102",
+      "source": "뉴시스",
+      "description": "시는 '재건축초과이익환수제'에 관해서는 \"국토부는 주거 복지와 시장 안정이라는 당초 취지를 강조하며 기존 입장을 유지했다\"며 \"이 제도가 '부동산 시장 안정 및 사회적 형평 도모'라는 제정 취지와 달리 집값 상승과...",
+      "published_at": "2026-11-25T20:38+09:00",
+      "keywords": [
+        "재건축",
+        "아파트 매매"
+      ],
+      "relevance": 6,
+      "category": "정책·규제",
+      "summary": [
+        "서울시가 부동산 현장 요구에 대한 국토부 대응을 비판함",
+        "서울시는 국토부가 재건축초과이익환수제 입장을 유지했다고 밝힘",
+        "국토부는 주거 복지와 시장 안정이라는 당초 취지를 강조함"
+      ],
+      "importance": 4,
+      "tags": [
+        "서울시",
+        "국토부",
+        "재건축초과이익환수제"
+      ],
+      "why": "",
+      "duplicates": 4,
+      "related": [
+        {
+          "source": "파이낸셜뉴스",
+          "title": "서울시, 국토부에 \"정비사업 걸림돌인 금융·거래 규제부터 풀어야\"",
+          "url": "https://www.fnnews.com/news/202611252318185463"
+        },
+        {
+          "source": "서울신문",
+          "title": "서울시, 국토부에 “주택공급 확대, 정비사업 규제부터 풀어야”",
+          "url": "https://www.seoul.co.kr/news/politics/2026/11/25/20261125500334?wlog_tag3=naver"
+        },
+        {
+          "source": "00news.co.kr",
+          "title": "서울시 '난개발' 경고 vs 정부 '공급 속도'…도정법 충돌 격화",
+          "url": "http://www.00news.co.kr/news/articleView.html?idxno=108365"
+        },
+        {
+          "source": "연합뉴스",
+          "title": "서울시·국토부, 정비사업 규제완화 놓고 '장외 공방'(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261125122851003?input=1195m"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "35e3f7366170",
+      "title": "금리 오르자 경기 '영끌' 매매 임의경매로... 작년 대비 28% 급증",
+      "url": "https://www.hankookilbo.com/news/article/A2026112514200005183?did=NA",
+      "naver_url": "https://n.news.naver.com/mnews/article/469/0000967781?sid=101",
+      "source": "한국일보",
+      "description": "11월 3주(16일 기준·한국부동산원) 서울의 주간 아파트 매매가격 상승률은 전주 0.07%에서 0.03%로 크게 감소한 반면, 경기는 2주 연속 0.21%로 높은 수준을 유지하고 있다.",
+      "published_at": "2026-11-25T18:11+09:00",
+      "keywords": [
+        "아파트 매매",
+        "주택담보대출"
+      ],
+      "relevance": 4,
+      "category": "매매·시세",
+      "summary": [
+        "경기 임의경매가 작년 대비 28% 급증함",
+        "서울 주간 아파트값 상승률이 0.07%에서 0.03%로 축소됨",
+        "경기 주간 아파트값 상승률은 2주 연속 0.21% 유지"
+      ],
+      "importance": 4,
+      "tags": [
+        "경기",
+        "임의경매",
+        "아파트값"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "7aab999b9fe5",
+      "title": "중앙행정기관 31곳 세종행 확정…부동산·상권 변화 예고",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1195579",
+      "naver_url": "https://www.ggilbo.com/news/articleView.html?idxno=1195579",
+      "source": "ggilbo.com",
+      "description": "이달 16일 기준 올해 아파트 전세가격은 5.74% 올랐고 주간 매매가격도 지난달 26일 0.10%, 이달 9일 0.16%, 16일 0.06% 상승했다. 세종 부동산업계 관계자는 \"공무원 이전이 본격화하면 전월세 수요가 실거주 매매로...",
+      "published_at": "2026-11-25T15:38+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 7,
+      "category": "정책·규제",
+      "summary": [
+        "중앙행정기관 31곳의 세종 이전 확정",
+        "이달 16일 기준 올해 아파트 전세가격 5.74% 상승",
+        "세종 주간 아파트 매매가격은 이달 16일 0.06% 상승"
+      ],
+      "importance": 4,
+      "tags": [
+        "세종",
+        "중앙행정기관 이전",
+        "전세가격"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "cbfc5b92089c",
+      "title": "'막판 담판' 나서는 LH사장...노사 최종교섭 내주로 연기",
+      "url": "https://www.mt.co.kr/estate/2026/11/26/2026112519511881096",
+      "naver_url": "https://n.news.naver.com/mnews/article/008/0005446537?sid=101",
+      "source": "머니투데이",
+      "description": "LH 총파업이 현실화해 보상·설계·발주 등 선행절차가 지연되면 착공부터 분양·입주까지 일정이 연쇄적으로 밀릴 수밖에 없는 구조다. 국토교통부 산하 다른 기관에서도 노사갈등이 잇따른다. 코레일(한국철도공사)의...",
+      "published_at": "2026-11-26T04:07+09:00",
+      "keywords": [
+        "분양"
+      ],
+      "relevance": 5,
+      "category": "기타",
+      "summary": [
+        "LH 사장이 나서는 노사 최종교섭이 내주로 연기됨",
+        "LH 총파업 현실화 시 보상·설계·발주 지연 우려",
+        "선행절차 지연 시 착공·분양·입주 일정 차질 우려"
+      ],
+      "importance": 3,
+      "tags": [
+        "LH",
+        "노사교섭",
+        "주택 공급"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "1584c0290761",
+      "title": "[사설] 강남 누르자 뛴 빌라, 주거사다리의 붕괴",
+      "url": "https://www.mt.co.kr/opinion/2026/11/26/2026112513561795632",
+      "naver_url": "https://n.news.naver.com/mnews/article/008/0005446533?sid=110",
+      "source": "머니투데이",
+      "description": "정부는 고가 아파트 하락만으로 부동산 시장이 안정되고 있다는 안일한 진단을 내려서는 안 된다. 거래가 실종된 상태의 가격은 불안정한 균형에 불과하다. 언제든 출렁거릴 수 있다. 대신 한쪽을 누르면 다른 쪽이 부풀어...",
+      "published_at": "2026-11-26T04:00+09:00",
+      "keywords": [
+        "부동산",
+        "재건축"
+      ],
+      "relevance": 4,
+      "category": "매매·시세",
+      "summary": [
+        "강남 억제 뒤 빌라 가격 상승 문제를 다룬 사설임",
+        "고가 아파트 하락만으로 시장 안정 진단 말아야 한다고 지적함",
+        "거래 실종 상태의 가격은 불안정한 균형이라고 지적함"
+      ],
+      "importance": 3,
+      "tags": [
+        "빌라",
+        "강남",
+        "주거사다리"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "ef9f832f96d3",
+      "title": "[요즘 부동산+/㉟]재건축 끝에 수억원 고지서…'환수냐 공급 위축이냐'...",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=120502",
+      "naver_url": "https://www.businessplus.kr/news/articleView.html?idxno=120502",
+      "source": "businessplus.kr",
+      "description": "/사진=연합뉴스 부동산은 토지나 건물처럼 움직여서 옮길 수 없는 재산을 말합니다. 사람의 거주지가 걸린... 그럼 요즘 부동산에 대해 하나하나씩 알아가볼까요. [편집자주] 재건축초과이익환수제(재초환)가 도입 20년...",
+      "published_at": "2026-11-25T23:54+09:00",
+      "keywords": [
+        "부동산",
+        "분양",
+        "재건축"
+      ],
+      "relevance": 7,
+      "category": "정책·규제",
+      "summary": [
+        "재건축초과이익환수제 도입 20년을 다룸",
+        "재건축 후 수억원 고지서가 나오는 문제 다룸",
+        "초과이익 환수와 공급 위축을 둘러싼 쟁점 소개함"
+      ],
+      "importance": 3,
+      "tags": [
+        "재건축초과이익환수제",
+        "재건축"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "5bbfdd17facd",
+      "title": "[단독] 보류지 싸게 판다더니…‘조합 직인 가짜 계약서’로 17억 ‘꿀꺽...",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722772&ref=A",
+      "naver_url": "https://n.news.naver.com/mnews/article/056/0012301343?sid=102",
+      "source": "KBS",
+      "description": "계약 직후엔 조합 직인과 법인 인감이 찍힌 보류지 계약서와 매매 양도 증서도 받았습니다. 하지만 모두 가짜였습니다. 당시 아파트 재건축 사업은 '사업시행인가' 단계로 보류지 분양 시점도 아니었습니다. [조합 관계자...",
+      "published_at": "2026-11-25T23:20+09:00",
+      "keywords": [
+        "아파트 매매",
+        "분양",
+        "재건축"
+      ],
+      "relevance": 3,
+      "category": "기타",
+      "summary": [
+        "보류지 저가 매각을 내세운 17억원 사기 보도",
+        "조합 직인·법인 인감 찍힌 계약서 등이 모두 가짜였음",
+        "당시 재건축은 사업시행인가 단계로 보류지 분양 전이었음"
+      ],
+      "importance": 3,
+      "tags": [
+        "보류지",
+        "부동산 사기",
+        "재건축"
+      ],
+      "why": "",
+      "duplicates": 2,
+      "related": [
+        {
+          "source": "KBS",
+          "title": "[단독] 보류지 싸게 판다더니…‘조합 직인 가짜 계약서’로 17억 ‘꿀꺽...",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722603&ref=A"
+        },
+        {
+          "source": "KBS",
+          "title": "[단독] 보류지 싸게 판다더니…‘조합 직인 가짜 분양권’ 판 60대 구속",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722322&ref=A"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "b9d0ab5f6660",
+      "title": "국민 평형 20억 돌파…光明의 광명시 [감평사의 부동산 현장진단]",
+      "url": "https://www.mk.co.kr/article/12214533",
+      "naver_url": "https://n.news.naver.com/mnews/article/024/0000109888?sid=101",
+      "source": "매일경제",
+      "description": "‘대장 아파트’ 자리를 견고히 지킬 것으로 내다본다. 철산동 A공인중개소 관계자는 “철산자이더헤리티지는 4000가구 가까운 대단지지만 전세 매물은 거의 없고 매매 매물 또한 극소수일 만큼 실거주도 만족도가...",
+      "published_at": "2026-11-25T21:01+09:00",
+      "keywords": [
+        "아파트 매매",
+        "재건축"
+      ],
+      "relevance": 5,
+      "category": "매매·시세",
+      "summary": [
+        "광명 국민 평형 아파트 가격 20억원 돌파함",
+        "철산자이더헤리티지는 약 4000가구 규모 단지임",
+        "현지 중개업소는 전세·매매 매물이 극소수라고 설명함"
+      ],
+      "importance": 3,
+      "tags": [
+        "광명",
+        "철산자이더헤리티지"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "e9f1ffa5c3ee",
+      "title": "[사설] 반도체 특수에도 먹구름 낀 평택 부동산 시장",
+      "url": "https://www.joongboo.com/news/articleView.html?idxno=363743596",
+      "naver_url": "https://www.joongboo.com/news/articleView.html?idxno=363743596",
+      "source": "중부일보",
+      "description": "대표적 청약불패 지역으로 꼽혔던 평택이 이제는 '전국 최다 미분양'이라는 불명예를 안게 된 일이다. 지난... 최근 진행된 주요 단지들의 청약 성적표는 이러한 위기감을 더욱 키운다. 이달 초 청약을 진행한 '한화포레나...",
+      "published_at": "2026-11-25T19:00+09:00",
+      "keywords": [
+        "청약"
+      ],
+      "relevance": 5,
+      "category": "분양·청약",
+      "summary": [
+        "평택이 전국 최다 미분양 지역으로 꼽힘",
+        "청약불패 지역으로 꼽히던 평택 시장 부진",
+        "최근 주요 단지 청약 성적이 위기감을 키운다고 지적함"
+      ],
+      "importance": 3,
+      "tags": [
+        "평택",
+        "미분양",
+        "청약"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "a8928e3d7a6d",
+      "title": "\"보유세 올리면 집값 잡힌다더니\" 거래 33.7% 줄고 집값은 1.54% 올라",
+      "url": "https://pk.newdaily.co.kr/site/data/html/2026/11/25/2026112550295.html",
+      "naver_url": "https://pk.newdaily.co.kr/site/data/html/2026/11/25/2026112550295.html",
+      "source": "뉴데일리",
+      "description": "연봉 1억원인 직장인이 서울 평균가격인 15억원 수준의 아파트를 보유한 경우 연간 재산세 부담이 약 106만원 늘어날 것으로 분석됐다. 박 의원은 \"세금이 무서워 집주인이 매도를 미루면 매매 물량이 잠기고 공제 혜택을...",
+      "published_at": "2026-11-25T17:48+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 5,
+      "category": "정책·규제",
+      "summary": [
+        "거래는 33.7% 줄고 집값은 1.54% 상승함",
+        "연봉 1억원 직장인의 15억원 아파트 보유 사례 분석함",
+        "해당 사례의 연간 재산세 부담 약 106만원 증가 분석"
+      ],
+      "importance": 3,
+      "tags": [
+        "보유세",
+        "재산세",
+        "서울"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "33894de2cec4",
+      "title": "전세난에 ‘경기 주택 매수’ 선회한 청년층…매수자 32%가 30대",
+      "url": "https://www.donga.com/news/Economy/article/all/20261125/135088019/1",
+      "naver_url": "https://n.news.naver.com/mnews/article/020/0003765088?sid=101",
+      "source": "동아일보",
+      "description": "25일 대법원 등기정보광장의 연령별 집합건물(아파트, 빌라, 오피스텔) 매매 신청 매수인 현황에 따르면 올해 1~10월 30대는 8만6641명으로 전체의 32.1%였다. 이어 40대(24.1%), 50대(19.7%), 60대(12.8%) 순이었다. 1~10월 기준...",
+      "published_at": "2026-11-25T15:56+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 8,
+      "category": "매매·시세",
+      "summary": [
+        "올해 1~10월 집합건물 30대 매수인은 8만6641명임",
+        "전체 매수인 중 30대 비중은 32.1%임",
+        "40대 24.1%, 50대 19.7%, 60대 12.8% 순임"
+      ],
+      "importance": 3,
+      "tags": [
+        "경기",
+        "30대 매수",
+        "집합건물"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "c27426065509",
+      "title": "“세입자 계약 연장해주려는데”…토허제 실거주 유예 ‘사각지대’",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03309526645649328&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "naver_url": "https://n.news.naver.com/mnews/article/018/0006415432?sid=101",
+      "source": "이데일리",
+      "description": "한 아파트를 매수한 A씨는 최근 강남구청에 임대차계약 갱신에 따른 추가 유예가 가능한지 문의했으나 어렵다는 답변을 받았다. A씨는 지난 5월 21일 토지거래허가를 받아 이튿날 매매계약을 체결하고 9월 1일 소유권...",
+      "published_at": "2026-11-25T15:45+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 7,
+      "category": "정책·규제",
+      "summary": [
+        "토지거래허가제 실거주 유예 사각지대 보도",
+        "매수인이 강남구청에 임대차 갱신 관련 추가 유예 문의",
+        "강남구청은 추가 유예가 어렵다는 답변을 전함"
+      ],
+      "importance": 3,
+      "tags": [
+        "토지거래허가제",
+        "실거주 유예",
+        "강남구"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "a8277b9e7b2e",
+      "title": "가충순 서산시의원, 인지면 아진아파트 복도 샷시 설치 촉구",
+      "url": "https://www.newstnt.com/news/articleView.html?idxno=730624",
+      "naver_url": "https://www.newstnt.com/news/articleView.html?idxno=730624",
+      "source": "newstnt.com",
+      "description": "일반분양 세대와 LH(한국토지주택공사) 소유 임대 세대가 함께 거주하는 혼합 단지라\"고 언급한 후 \"(2026년 11월 23일 기준) 104동과 105동 총 225세대 중 샷시 설치 세대는 93세대(일반분양 64세대·LH 임대 29세대)뿐이고...",
+      "published_at": "2026-11-26T01:16+09:00",
+      "keywords": [
+        "분양"
+      ],
+      "relevance": 7,
+      "category": "기타",
+      "summary": [
+        "가충순 서산시의원이 아진아파트 복도 샷시 설치 촉구함",
+        "일반분양과 LH 임대 세대가 함께 사는 혼합 단지임",
+        "104·105동 225세대 중 샷시 설치는 93세대뿐임"
+      ],
+      "importance": 2,
+      "tags": [
+        "서산시",
+        "아진아파트",
+        "복도샷시"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "e6aad6643f66",
+      "title": "오늘 안덕수 국세청장 후보자 청문회…‘실거주 없는 재개발 아파트’...",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722793&ref=A",
+      "naver_url": "https://n.news.naver.com/mnews/article/056/0012301361?sid=100",
+      "source": "KBS",
+      "description": "오늘 안 후보자 청문회에서는 배우자가 서울 동대문구 재개발 구역의 주택을 사들인 뒤, 실거주하지 않고 준공된 아파트를 전세로 내놓은 경위 등이 쟁점이 될 거로 보입니다. 안 후보자는 \"고정된 거처가 필요해 주택을...",
+      "published_at": "2026-11-26T01:00+09:00",
+      "keywords": [
+        "전세"
+      ],
+      "relevance": 8,
+      "category": "기타",
+      "summary": [
+        "안덕수 국세청장 후보자 청문회에서 배우자 주택 문제가 쟁점 전망",
+        "배우자가 서울 동대문구 재개발 구역 주택을 매입함",
+        "실거주 없이 준공 아파트를 전세로 내놓은 경위가 쟁점 전망"
+      ],
+      "importance": 2,
+      "tags": [
+        "안덕수",
+        "동대문구",
+        "재개발 아파트"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "b0763d54f14e",
+      "title": "[반퇴시대 재산리모델링] 순자산 23억 2주택자…“작은 집 팔고 한강벨...",
+      "url": "https://www.joongang.co.kr/article/25481987",
+      "naver_url": "https://n.news.naver.com/mnews/article/025/0003567971?sid=101",
+      "source": "중앙일보",
+      "description": "◆후원=미래에셋증권·하나은행 ◆재무설계 도움말=양해근 삼성증권 헤리티지컨설팅팀 부동산전문위원, 조현수 우리은행 안양금융센터 금융센터장, 김지훈 더베스트파트너스 마케팅팀 부장, 김동원...",
+      "published_at": "2026-11-26T00:01+09:00",
+      "keywords": [
+        "부동산",
+        "재건축"
+      ],
+      "relevance": 5,
+      "category": "매매·시세",
+      "summary": [
+        "순자산 23억원인 2주택자의 재산리모델링 기사",
+        "작은 집 매각과 한강벨트 관련 내용을 제목에 제시",
+        "부동산전문위원 등이 재무설계 도움말에 참여"
+      ],
+      "importance": 2,
+      "tags": [
+        "2주택자",
+        "재산리모델링"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "4d70d3ae6db7",
+      "title": "[패트롤]경주시-경주시의회-칠곡군-영진전문대-대구도시개발공사-계명...",
+      "url": "https://www.ekn.kr/web/view.php?key=20261125021154759",
+      "naver_url": "https://www.ekn.kr/web/view.php?key=20261125021154759",
+      "source": "에너지경제",
+      "description": "매입임대주택 범죄예방우수시설 인증과 전세임대 신용보험 지원, 화재보험 확대, 소화기 보급도 추진했다. 이재용 대구도시개발공사 사장은 “이번 수상은 청년부터 취약계층까지 시민의 삶 전반을 살피며 맞춤형...",
+      "published_at": "2026-11-25T22:34+09:00",
+      "keywords": [
+        "전세"
+      ],
+      "relevance": 3,
+      "category": "기타",
+      "summary": [
+        "매입임대주택 범죄예방우수시설 인증 추진",
+        "전세임대 신용보험 지원과 화재보험 확대 추진",
+        "대구도시개발공사 사장이 수상 관련 소감을 밝힘"
+      ],
+      "importance": 2,
+      "tags": [
+        "대구도시개발공사",
+        "매입임대주택",
+        "전세임대"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "2230e5daff80",
+      "title": "동작구, 전세사기 피해를 사전에 예방 위해 '부동산 교실' 운영...예비 ...",
+      "url": "https://www.cnbizm.com/news/articleView.html?idxno=322726",
+      "naver_url": "https://www.cnbizm.com/news/articleView.html?idxno=322726",
+      "source": "cnbizm.com",
+      "description": "알리고, 전세사기 피해를 사전에 예방하기 위해 '부동산 교실'을 운영한다고 밝혔다. 이번 교육은 예비... 한편, 구는 지난 7월에도 청년을 대상으로 ▲전세사기피해 예방을 위한 부동산 교육과 1:1 맞춤 상담을 진행했다....",
+      "published_at": "2026-11-25T21:50+09:00",
+      "keywords": [
+        "전세"
+      ],
+      "relevance": 6,
+      "category": "전월세",
+      "summary": [
+        "동작구가 전세사기 예방 위한 부동산 교실 운영",
+        "지난 7월에도 청년 대상 전세사기 예방 교육 진행",
+        "지난 7월 청년 대상 일대일 맞춤 상담도 진행"
+      ],
+      "importance": 2,
+      "tags": [
+        "동작구",
+        "전세사기 예방",
+        "부동산 교실"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": false
+    },
+    {
+      "id": "2260f83c36c6",
+      "title": "오송 지주택 입주 차질 우려에 입주예정자 ‘민원 폭탄’",
+      "url": "https://cc.newdaily.co.kr/site/data/html/2026/11/25/2026112550364.html",
+      "naver_url": "https://cc.newdaily.co.kr/site/data/html/2026/11/25/2026112550364.html",
+      "source": "뉴데일리",
+      "description": "뉴데일리 장해순 = 올 연말 준공후 내년초 입주를 앞두고 있던 오송역현대지주택조합아파트가 주요... 또 조합은 체비지 매매계약서상 제세공과금을 매입자가 부담한다는 조항을 들어 상·하수도 시설 관련 부담금 등...",
+      "published_at": "2026-11-25T21:30+09:00",
+      "keywords": [
+        "아파트 매매",
+        "전세"
+      ],
+      "relevance": 5,
+      "category": "재건축·개발",
+      "summary": [
+        "오송역현대지주택조합아파트 입주 차질 우려 제기",
+        "올 연말 준공 후 내년 초 입주를 앞둔 상황",
+        "조합은 체비지 계약상 매입자의 제세공과금 부담 조항 제시"
+      ],
+      "importance": 2,
+      "tags": [
+        "오송",
+        "지역주택조합",
+        "입주 차질"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "21cf8c3ae83f",
+      "title": "부산 ‘국평’ 최다 청약 접수… ‘연제갤러리자이’ 12월 5일 선착순 동...",
+      "url": "https://www.fnnews.com/news/202611251454415221",
+      "naver_url": "https://n.news.naver.com/mnews/article/014/0005609763?sid=101",
+      "source": "파이낸셜뉴스",
+      "description": "이에 앞서 지난 23일 청약홈을 통해 접수한 무순위 청약 당첨자 계약은 12월 3일 체결된다. 계약금은 분양가의 5%, 1차 계약금 1000만 원 정액제를 적용하고, 중도금 60% 전액 무이자 대출을 지원한다. 당첨자 발표일로부터...",
+      "published_at": "2026-11-25T18:01+09:00",
+      "keywords": [
+        "청약"
+      ],
+      "relevance": 4,
+      "category": "분양·청약",
+      "summary": [
+        "부산 연제갤러리자이 12월 5일 선착순 동호 지정",
+        "무순위 청약 당첨자 계약은 12월 3일 체결 예정",
+        "계약금은 분양가의 5%, 중도금 60% 전액 무이자 지원"
+      ],
+      "importance": 2,
+      "tags": [
+        "부산",
+        "연제갤러리자이",
+        "무순위 청약"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "0477da3ef73d",
+      "title": "적정생활비 350만원 어떻게 맞출까?… 90세 시대 ‘노후 월급’ 만들기",
+      "url": "https://www.kyeongin.com/article/1775381",
+      "naver_url": "https://www.kyeongin.com/article/1775381",
+      "source": "경인일보",
+      "description": "정부는 상승 압력을 잘 눌러왔다고 자평하지만, 오세훈 서울시장 측은 지난 1년간 서울 아파트 매매가가 13.1%, 전세 보증금이 6.3%, 월세가 7.4% 올랐다고 주장했다. 규제와 시장 전망이 모두 불확실한 만큼, 임대 투자는...",
+      "published_at": "2026-11-25T16:54+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 5,
+      "category": "기타",
+      "summary": [
+        "90세 시대 적정생활비 350만원 마련 방안 다룸",
+        "오세훈 시장 측은 1년간 서울 아파트값 13.1% 상승 주장",
+        "전세 보증금 6.3%·월세 7.4% 상승 주장함"
+      ],
+      "importance": 2,
+      "tags": [
+        "노후생활비",
+        "서울",
+        "임대투자"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    },
+    {
+      "id": "3676be253e6a",
+      "title": "2031년 입주 예정…한강 푸르지오 리버프론트, 잔여세대 선착순 동·호 ...",
+      "url": "https://www.hankyung.com/article/202611250053O",
+      "naver_url": "https://n.news.naver.com/mnews/article/015/0005358117?sid=101",
+      "source": "한국경제",
+      "description": "신규 분양 아파트는 기존 주택 매매와 달리 계약부터 입주까지 일정 기간이 소요되는 만큼 현재의 입지 여건뿐만 아니라 입주 시점의 생활환경과 자금 조달 계획 등을 종합적으로 고려할 필요가 있다. 기존 주택을...",
+      "published_at": "2026-11-25T17:23+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 5,
+      "category": "분양·청약",
+      "summary": [
+        "한강 푸르지오 리버프론트는 2031년 입주 예정",
+        "잔여세대에 대해 선착순 동·호 선택 진행",
+        "신규 분양은 계약부터 입주까지 일정 기간 소요됨"
+      ],
+      "importance": 1,
+      "tags": [
+        "한강 푸르지오 리버프론트",
+        "잔여세대"
+      ],
+      "why": "",
+      "duplicates": 1,
+      "related": [
+        {
+          "source": "아시아경제",
+          "title": "‘한강 푸르지오 리버프론트’, 2031년의 일상을 준비하다",
+          "url": "https://view.asiae.co.kr/article/2026112516315957841"
+        }
+      ],
+      "source_known": true
+    },
+    {
+      "id": "9b29a1b660cb",
+      "title": "분양가 상승세 속 확정분양 예약제 주목… '포항 초곡 호반써밋' 공급",
+      "url": "https://edu.donga.com/news/articleView.html?idxno=114068",
+      "naver_url": "https://edu.donga.com/news/articleView.html?idxno=114068",
+      "source": "동아일보",
+      "description": "아파트 분양가격이 오르면서 내 집 마련을 준비하는 수요자들의 가격 부담도 커지고 있다. 토지비와... 계약자는 임대보증금 및 매매예약계약금을 납부하면 즉시 입주할 수 있다. 최종 잔금 납부와 소유권 이전은 2027년...",
+      "published_at": "2026-11-25T16:16+09:00",
+      "keywords": [
+        "아파트 매매"
+      ],
+      "relevance": 8,
+      "category": "분양·청약",
+      "summary": [
+        "포항 초곡 호반써밋이 확정분양 예약제로 공급됨",
+        "임대보증금과 매매예약계약금 납부 시 즉시 입주 가능",
+        "최종 잔금 납부와 소유권 이전은 2027년으로 안내됨"
+      ],
+      "importance": 1,
+      "tags": [
+        "포항 초곡 호반써밋",
+        "확정분양 예약제"
+      ],
+      "why": "",
+      "duplicates": 0,
+      "related": [],
+      "source_known": true
+    }
+  ],
+  "usage": {
+    "model": "gpt-6.1-sol",
+    "calls": 6,
+    "errors": 0,
+    "input_tokens": 13906,
+    "cached_tokens": 0,
+    "output_tokens": 4569,
+    "reasoning_tokens": 112,
+    "cost_usd": 0.0735,
+    "cost_krw": 103
+  }
+}
